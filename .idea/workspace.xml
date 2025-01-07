@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c94189e5-5657-4e02-be2d-51c766fcc41f" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2ktHKPBFCZqokBpTuLmhFLvRSUT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/solan/Desktop/WTM 2025/wtm-2025&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;actions.on.save&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2024.2.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\public\images\logo" />
+      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\public\images\team" />
+      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\src\app\team" />
+      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\src\components\elements" />
+      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\public\images\organizers" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\public\images\partners" />
+      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\public\images\logo" />
+      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\src\app\speakers\[slug]" />
+      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\src\app" />
+      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\src\components\sections" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c94189e5-5657-4e02-be2d-51c766fcc41f" name="Changes" comment="" />
+      <created>1724095887953</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724095887953</updated>
+      <workItem from="1724095889104" duration="34666000" />
+      <workItem from="1724338269636" duration="1383000" />
+      <workItem from="1724781496025" duration="1966000" />
+      <workItem from="1724873235911" duration="1980000" />
+      <workItem from="1725157592972" duration="6476000" />
+      <workItem from="1725569085565" duration="764000" />
+      <workItem from="1725676692112" duration="599000" />
+      <workItem from="1726081774202" duration="2429000" />
+      <workItem from="1726154765654" duration="38040000" />
+      <workItem from="1726610495486" duration="6966000" />
+      <workItem from="1726674245295" duration="1562000" />
+      <workItem from="1726858779272" duration="3076000" />
+      <workItem from="1727203898791" duration="27889000" />
+      <workItem from="1727379147960" duration="138000" />
+      <workItem from="1727379303596" duration="4447000" />
+      <workItem from="1728093758562" duration="3269000" />
+      <workItem from="1728185404798" duration="6242000" />
+      <workItem from="1728504201497" duration="5889000" />
+      <workItem from="1728610844718" duration="14803000" />
+      <workItem from="1728700563294" duration="742000" />
+      <workItem from="1728883377980" duration="2571000" />
+      <workItem from="1729301310030" duration="1575000" />
+      <workItem from="1729984287247" duration="26511000" />
+      <workItem from="1736207059322" duration="65000" />
+      <workItem from="1736207290163" duration="105000" />
+      <workItem from="1736207885415" duration="119000" />
+      <workItem from="1736208014424" duration="88000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
