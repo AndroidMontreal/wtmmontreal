@@ -1,81 +1,37 @@
 export const team = [{
-  name: 'Ali Yazdi',
-  title: 'Senior Software Engineer at EXFO, GDG & Flutter Montreal Organizer',
-  image: '/images/team/ali.jpg',
-  link: 'https://devfest2023.gdgmontreal.com/speaker/ali-yazdi/',
-}, {
-  name: 'Billy Taing',
-  title: 'Software Engineer @IAIAO',
-  image: '/images/speakers/2023/billy.jpg',
-  link: 'https://devfest2023.gdgmontreal.com/speaker/billy-taing/',
-}, {
-  name: 'Jhin Lee',
-  title: 'Full-Stack Developer @Unity | GDE Flutter | GDG & Flutter Montreal Organizer',
-  image: '/images/speakers/2023/jhin.jpg',
-  link: 'https://g.dev/leehack',
-}, {
-  name: 'Laurence de Villers',
-  title: 'Android Developer at Transit | GDG Organizer | Women Techmakers Ambassador',
-  image: '/images/team/laurence.jpg',
-  link: 'https://www.linkedin.com/in/ldevillers/',
-}, {
-  name: 'Mimoh Solanki',
-  title: 'Full Stack Developer | GDG Organizer',
-  image: '/images/team/mimoh.jpg',
-  link: 'https://www.linkedin.com/in/mimohsolanki/',
-}, {
-  name: 'Stacy Véronneau',
-  title: 'Director of Sales Engineering and Cloud Solutions at SE Cloud Experts | GDG Cloud Montreal Organizer',
-  image: '/images/team/stacy.veronneau.png',
-  link: 'https://g.dev/sveronneau',
-}, {
-  name: 'Hanine Tydrini',
-  title: 'Software Engineering Student',
-  image: '/images/team/hanine.jpg',
-  link: 'https://www.linkedin.com/in/hanine-tydrini-154b1b24b/',
-}, {
-  name: 'Jihoo Park',
-  title: 'Senior Data Analyst @ Warner Bros. Games Montreal | WTM ambassador | Google BI customer Council Member',
-  image: '/images/team/jihoo_green.jpeg',
-  link: 'https://developers.google.com/profile/u/109280340170455499902',
-}, {
-  name: 'Lenz Paul',
-  title: 'Software Engineer at CMiC | GDG & Flutter Montreal',
-  image: '/images/team/lenz.jpg',
-  link: 'https://devfest2023.gdgmontreal.com/speaker/lenz-paul/',
-}, {
-  name: 'Nav Singh',
-  title: 'Sr. Android Engineer | GDE Android',
-  image: '/images/team/nav.png',
-  link: 'https://www.linkedin.com/in/navczydev/',
-}, {
-  name: 'Florian Ley',
-  title: 'Application manager at Davidson Canada | GDG Cloud Montreal Organizer',
-  image: '/images/team/florian.png',
-  link: 'https://www.linkedin.com/in/florian-ley/',
-}, {
   name: 'Stefania Pecore',
   title: 'Director of AI development at Sardo, WomenTechmakers Montréal lead and ambassador',
   image: '/images/team/stefania.jpg',
   link: 'https://developers.google.com/profile/u/specore',
 }, {
-  name: 'Naya Vasques',
-  title: 'Data Scientist | Women Techmakers Ambassador',
-  image: '/images/team/naya.jpg',
-  link: 'https://www.linkedin.com/in/nayavasques/',
+  name: 'Jihoo Park',
+  title: 'Senior Data Analyst @ Warner Bros. Games Montreal | WTM ambassador | Google BI customer Council Member',
+  image: '/images/team/Jihoo.jpeg',
+  link: 'https://developers.google.com/profile/u/109280340170455499902',
 }, {
-  name: 'Adam Simard',
-  title: 'Software Engineering Student',
-  image: '/images/team/adam.webp',
-  link: 'https://www.linkedin.com/in/adamsimard',
+  name: 'Leticia Pires',
+  title: 'Data Scientist, AI Student, Women Techmakers Ambassador, Alura Ambassador and Mentor of Mulheres em Dados',
+  image: '/images/team/Leti.jpg',
+  link: 'https://www.linkedin.com/in/leticia-pires/',
 }, {
-  name: 'Samuel Dionne',
-  title: 'Android Developer at Transit | GDG Organizer',
-  image: '/images/team/sam.jpg',
-  link: 'https://www.linkedin.com/in/samueldionne',
+  name: 'Saleem Yadav',
+  title: 'Data Analyst',
+  image: '/images/team/Saleem.jpg',
+  link: 'https://www.linkedin.com/in/saleem-yadav-03271116b/'
 }, {
-  name: 'Arnaud Denis-Remillard',
-  title: 'Data Science Student',
-  image: '/images/team/arnaud.jpg',
-  link: 'https://www.linkedin.com/in/arnaud-denis-remillard-25b3a8296/',
-}];
+  name: 'Sofia Guerrero',
+  title: 'Artificial Intelligence and Machine Learning Student',
+  image: '/images/team/Sofia.jpg',
+  link: 'https://www.linkedin.com/in/sofia-guerrero-b9613915b/Sofia%20Guerrero'
+}, {
+  name: 'Michael Patane',
+  title: 'Director, production and warehouse at Groupe BBH',
+  image: '/images/team/Mike.jpg',
+  link: 'https://www.linkedin.com/in/mpatane/'
+}, {
+  name: 'Mimoh Solanki',
+  title: 'Full Stack Developer | GDG Organizer',
+  image: '/images/team/mimoh.jpg',
+  link: 'https://www.linkedin.com/in/mimohsolanki/',
+}
+];

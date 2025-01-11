@@ -8,6 +8,7 @@ export const headerNavData = [{
 //   href: '/schedule', label: 'Schedule',
 // }, {
   href: '/team', label: 'Team',
+}, {
   href: generalLinks.papercallLink,  label: 'Call for paper'
 }];
 
