@@ -36,7 +36,11 @@ const EventPhotos = () => {
         })}
       </div>
 
-      <PillButton href={aboutLastYearSession.photoLink} label="All pictures" />
+      <div className="grid grid-cols-2 gap-4">
+        <PillButton href={aboutLastYearSession.photoLink} label="All pictures" />
+        <PillButton href={aboutLastYearSession.videosLink} label="Videos" />
+      </div>
+
     </div>
   );
 };

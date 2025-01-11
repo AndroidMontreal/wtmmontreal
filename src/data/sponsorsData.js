@@ -1,53 +1,29 @@
 export const sponsorLevels = [
+  { title: 'Platinum', level: 'platinum'},
   { title: 'Gold', level: 'gold' },
   { title: 'Silver', level: 'silver' },
-  { title: 'Bronze', level: 'bronze' },
 ];
 
 
-export const sponsors = [{
-  level: 'gold',
-  logo: '/images/partners/google_for_developers.svg',
-  company: 'Google Developer Groups',
-  website: 'https://gdg.community.dev/',
+export const sponsors = [ {
+  level: 'platinum',
+  logo: '/images/partners/Dialog.svg',
+  company: 'Dialog',
+  website: 'https://www.dialogue.co/en/careers'
+},  {
+  level: 'platinum',
+  logo: '/images/partners/Distech.svg',
+  company: 'Distech',
+  website: 'https://www.distech-controls.com/',
 }, {
   level: 'gold',
-  logo: '/images/partners/stream.svg',
-  company: 'Stream',
-  website: 'https://getstream.io/video/sdk/flutter/?utm_source=event&utm_medium=referral&utm_content=&utm_campaign=devfest',
-}, {
-  level: 'gold',
-  logo: '/images/partners/SECloudExperts.svg',
-  company: 'SE Cloud Experts',
-  website: 'https://se-cloud-experts.com/',
-}, {
-  level: 'gold',
-  logo: '/images/partners/MoovAI.svg',
-  company: 'Moov AI',
-  website: 'https://moov.ai/en',
+  logo: '/images/partners/go_rock_it_2025.svg',
+  company: 'GO ROCK IT',
+  website: 'https://gorockit.ca/',
 }, {
   level: 'silver',
-  logo: '/images/partners/transit.svg',
-  company: 'Transit',
-  website: 'https://manifesto.transitapp.com/fr/jobs',
-}, {
-  level: 'bronze',
-  logo: '/images/partners/flutter_engineering.svg',
-  company: 'Flutter Engineering',
-  website: 'https://www.flutterengineering.io/',
-}, {
-  level: 'bronze',
-  logo: '/images/partners/jetbrains.svg',
-  company: 'Jetbrains',
-  website: 'https://www.jetbrains.com/',
-}, {
-  level: 'bronze',
-  logo: '/images/partners/kodeco.svg',
-  company: 'kodeco',
-  website: 'https://www.kodeco.com/',
-}, {
-  level: 'bronze',
-  logo: '/images/partners/packt.svg',
-  company: 'Packt',
-  website: 'https://www.packtpub.com/en-ca',
-}];
+  logo: '/images/partners/mirego_2025.svg',
+  company: 'Mirego',
+  website: 'https://www.mirego.com/fr?utm_source=wtmmontreal&utm_medium=referral&utm_content=logo&utm_campaign=2025sponsorship',
+},
+];

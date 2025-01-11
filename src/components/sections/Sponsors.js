@@ -4,6 +4,7 @@ import SponsorCard from '@/components/elements/SponsorCard';
 import SponsorLevelTitle from '@/components/elements/SponsorLevelTitle';
 import TitleWithSubtitle from '@/components/elements/TitleWithSubtitle';
 import { sponsors, sponsorLevels } from '@/data/sponsorsData';
+import { generalLinks } from '@/data/generalLink';
 import { v4 as uuidv4 } from 'uuid';
 
 const Sponsors = () => {
@@ -21,8 +22,8 @@ const Sponsors = () => {
 
 
       <PillButton
-        href="https://docs.google.com/presentation/d/1ezmE9o9o-EXhEa_ofPospL9hFGxAYm8xtnV_0m3AqSo/edit?usp=sharing"
-        label="Sponsorship Proposal" />
+        href={ generalLinks.sponsorshipLink }
+        label="Become a partner" />
 
     </div>
 
