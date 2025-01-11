@@ -15,10 +15,10 @@ export const aboutLastYearSession =  {
     image: 'https://lh3.googleusercontent.com/pw/AP1GczMapEW3krTA-506nTbPIJyXf0pK55Ots_dAcX4p9mLyJNiWmwwr-v7g4Mx1ZqlqMojeCxum-Ch5RuRE_kvVnxeCquqTEibYpY8l8RpwuEj0M3T9Y0_tB3Le9JiynjuIRsnjyG1z1WmFSDvF0Z-iEAeL=w3177-h1869-s-no-gm?authuser=0'
   }, {
     title: 'Women Techmakers Montreal 2024 picture',
-    image: 'https://lh3.googleusercontent.com/pw/AP1GczNPYFZC0tDqP18V6a3ewXZhAUDPwPkgMPFwKMWN77t3alUdTRI7YGTUlcQ3CPuPencvK30fiBryZylG4oLw5VkaMkwzsVb7cXEtL8he4KUK1py8zDatzjO6JP56aX4vxCeLFUpsl7zB7QPq2dvtLngO=w2949-h1869-s-no-gm?authuser=0'
+    image: 'https://lh3.googleusercontent.com/pw/AP1GczMWxU1q25yW8bMLWajlraZ0uAgdyFVXIqcs732B4QJRMH3hFeU8mjR7Q2GY08tpQULkNMlbvfzpA2qvX4QgouZw0pltjN1lyaxGsQVK7tog_48Cw-guZWgrKhSYTW9QOOelqD-ngAJ7voKc2RbcXtFf=w3399-h1671-s-no-gm?authuser=0',
   }, {
     title: 'Women Techmakers Montreal 2024 picture',
-    image: 'https://lh3.googleusercontent.com/pw/AP1GczMWxU1q25yW8bMLWajlraZ0uAgdyFVXIqcs732B4QJRMH3hFeU8mjR7Q2GY08tpQULkNMlbvfzpA2qvX4QgouZw0pltjN1lyaxGsQVK7tog_48Cw-guZWgrKhSYTW9QOOelqD-ngAJ7voKc2RbcXtFf=w3399-h1671-s-no-gm?authuser=0',
+    image: 'https://lh3.googleusercontent.com/pw/AP1GczMeCQdApU6bDpg-8a5q8j_Inj7w9WomPLgbgL4QX8O9uAGkIKDfJ2PlmxYjMwAc9_37zsvWVNfdosyYPkKCJWLx5_SDmxjYuFxpz4aF_sTYDlLkDZk_ordC5ebIHzYPkY4f56y_wsSTCFNZtOBORbOe=w3291-h1869-s-no-gm?authuser=0',
   }, {
     title : 'Women Techmakers Montreal 2024 picture',
     image: 'https://lh3.googleusercontent.com/pw/AP1GczMXY4JhEepJdMIjcxSQ5-q142mXKyUJz16R8AzET-UNLLzE-7Y_0CCTB8jh1LmWBh-e1RjFql8fTuxi-bbR0MHO3k0Cg6dC50LRk8XVFMQtYVDbfGamWJoHmsQNVSfLvLPvAlNOWfRyvKBpPhAB84SU=w1128-h1869-s-no-gm?authuser=0'
