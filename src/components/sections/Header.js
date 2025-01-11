@@ -1,12 +1,14 @@
 'use client';
 import Image from 'next/image';
-import logo from '@/public/images/logo/devFestLogoHorizontal.svg';
+import logo from '@/public/images/logo/wtm_logo_year_color.svg';
 import Link from 'next/link';
 import Navbar from '@/components/elements/Navbar';
 import MobileDrawer from '@/components/elements/MobileDrawer';
 import { useState } from 'react';
 import { Bars3Icon } from '@heroicons/react/24/outline';
 import PillButton from '@/components/elements/PillButton';
+import { generalLinks } from '@/data/generalLink';
+
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -29,7 +31,7 @@ const Header = () => {
           <div className="flex flex-row ">
             {/* Navigation (Desktop) on the right */}
             <Navbar isMobile={false} />
-            <PillButton className="ml-3 hidden md:flex" href="https://devfestmontreal2024.eventbrite.ca"
+            <PillButton className="ml-3 hidden md:flex" href={generalLinks.ticketLink}
                         label="Get Tickets" />
 
           </div>

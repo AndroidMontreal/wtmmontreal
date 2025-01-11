@@ -3,6 +3,7 @@ import Communities from '@/components/sections/Communities';
 import Sponsors from '@/components/sections/Sponsors';
 import EventPhotos from '@/components/sections/EventPhotos';
 import { eventHeader } from '@/data/eventData';
+
 import Venue from '@/components/sections/Venue';
 import { venue } from '@/data/venueData';
 

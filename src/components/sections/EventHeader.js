@@ -5,7 +5,7 @@ import PillButton from '@/components/elements/PillButton';
 import Link from 'next/link';
 
 const EventHeader = ({
-                       eventData,
+                       eventData
                      }) => {
   return (
     <div className="flex flex-col">
@@ -18,7 +18,7 @@ const EventHeader = ({
       <div className="container mx-auto flex flex-col items-start xl:items-center lg:flex-row justify-evenly gap-9">
         <div>
           <Image
-            className="rounded-xl shadow-xl "
+            className="rounded-xl shadow-xl border-4 "
             src={eventData.imageUrl}
             alt={`${eventData.eventName} Banner`}
             width={600}
@@ -27,7 +27,7 @@ const EventHeader = ({
         </div>
         <div className="mb-6 md:mb-0 text-left md:text-left">
 
-          <p className="text-gray-600 max-w-xl">{eventData.description}</p>
+          <p className="text-2xl text-gray-600 max-w-xl">{eventData.description}</p>
 
           <div
             className="flex flex-col xl:flex-row text-black font-medium my-5 gap-3">

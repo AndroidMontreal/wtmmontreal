@@ -11,7 +11,7 @@ const TitleWithSubtitle = ({ title, subTitle, titleClassName, subTitleClassName 
       >
         {title}
       </h2>
-      <p className={clsx('font-normal text-gray-900', subTitleClassName)}>
+      <p className={clsx('font-normal text-gray-900 text-2xl', subTitleClassName)}>
         {subTitle}
       </p>
     </div>
