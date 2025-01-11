@@ -1,13 +1,14 @@
 // components/SocialLinks.js
 
-import { FaDiscord, FaInstagram, FaLinkedinIn, FaXTwitter, FaYoutube } from 'react-icons/fa6';
+import { FaDiscord, FaInstagram, FaLinkedinIn, FaXTwitter, FaYoutube, FaSpotify, FaFacebook } from 'react-icons/fa6';
 
 const socialLinksData = [
-  { href: 'https://x.com/gdgmontreal', icon: FaXTwitter, label: 'Twitter' },
-  { href: 'https://www.linkedin.com/company/gdgmontreal', icon: FaLinkedinIn, label: 'Linkedin' },
-  { href: 'https://www.instagram.com/gdgmtl/', icon: FaInstagram, label: 'Instagram' },
+  { href: 'https://www.linkedin.com/company/women-techmakers-montreal', icon: FaLinkedinIn, label: 'Linkedin' },
+  { href: 'https://www.instagram.com/wtmmontreal/', icon: FaInstagram, label: 'Instagram' },
+  { href: 'https://www.facebook.com/wtm.montreal', icon: FaFacebook, label: 'Facebook'},
   { href: 'https://discord.com/invite/rKMxWWDSTT', icon: FaDiscord, label: 'Discord' },
-  { href: 'https://youtube.com/@gdgmontreal', icon: FaYoutube, label: 'YouTube' },
+  { href: 'https://youtube.com/@wtmmontreal', icon: FaYoutube, label: 'YouTube' },
+  { href: 'https://open.spotify.com/show/30lv57o8Hgz5VOvaX4C1gW', icon: FaSpotify, label:'Spotify'}
 ];
 
 export default function SocialLinks() {
