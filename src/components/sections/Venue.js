@@ -15,7 +15,7 @@ const Venue = ({ venueData }) => {
 
       <TitleWithSubtitle
         title="Event Venue"
-        subTitle="Concordia University Conference Centre Housed at Sir George Williams campus in the heart of downtown Montreal, Concordia University Conference Centre opened its doors in Fall 2017."
+        subTitle={venueData.description}
         titleClassName="max-w-2xl"
         subTitleClassName="max-w-xl" />
 
@@ -25,7 +25,7 @@ const Venue = ({ venueData }) => {
         <div className="relative h-full"> {/* Adjust width as needed */}
           <div className="aspect-video h-full"> {/* Maintain aspect ratio for map embed */}
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.728385132924!2d-73.58400550876223!3d45.49541409649223!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91a6a52a5e115%3A0x7f6e51eeba31e9bc!2sConcordia%20University%2C%20John%20Molson%20Building!5e0!3m2!1sen!2sca!4v1726228096000!5m2!1sen!2sca"
+              src={venueData.embededMapLink}
               width="100%"
               height="100%"
               style={{ border: 0 }}

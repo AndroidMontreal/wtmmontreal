@@ -7,7 +7,7 @@ export const eventHeader = {
   'date': 'April 15th, 2024',
   'location': 'Collège de Maisonneuve',
   'locationLink': '',
-  'imageUrl': '/images/logo/eventHeader.gif',
+  'imageUrl': '/images/logo/hero.png',
   'buttonText': 'Get Tickets',
   'buttonLink': generalLinks.ticketLink,
 };
