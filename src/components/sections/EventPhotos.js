@@ -16,7 +16,7 @@ const EventPhotos = () => {
         subTitleClassName="max-w-xl" />
 
       <iframe src={`https://www.youtube.com/embed/${aboutLastYearSession.videoId}?autoplay=1&mute=1&loop=1`}
-          frameborder="0" allow="autoplay"  width="800" height="450" />
+          frameborder="0" allow="autoplay"  width="1500" height="844" />
 
       <div
         className="columns-1 gap-6 sm:columns-2 sm:gap-8 md:columns-3 lg:columns-3 [&>img:not(:first-child)]:mt-8 place-items-center place-content-center"
@@ -36,7 +36,7 @@ const EventPhotos = () => {
         })}
       </div>
 
-      <PillButton href="https://photos.app.goo.gl/x9j7BH3nK8TQJLpi6" label="All pictures" />
+      <PillButton href={aboutLastYearSession.photoLink} label="All pictures" />
     </div>
   );
 };

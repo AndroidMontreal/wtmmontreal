@@ -1,25 +1,37 @@
 export const aboutLastYearSession =  {
   videoId: '5bZwEF3rtp8',
+  photoLink: 'https://photos.google.com/share/AF1QipPYcO1MUia01qyT_8RUDXv-4gxj0Mmq3fCLQ9lHRTWEVp0fW_1KtVZP_yr_--qFbg?key=X21RNDBDTTlMWVRHVmxtQnV2YzNKM3dfUE55UzhR',
   eventPhotos: [{
-    title: 'DevFest 2023 was so much fun.',
-    image: 'https://lh3.googleusercontent.com/pw/AP1GczOoiwUCd1Y5Ig_ffi8IyLXU3iSwTAvHFCCcCTqE_nmp_Pa4d2hBVfXkpwt1qjFAb5G46hLvmsTq1W9w7t9FS9UtB6nBx0aMtyOvMXcSskj14FJP-6bf27Afzq419ipdnQrQSZF1Bj2a57Cg3X7cHctH=w1401-h934-s-no-gm?authuser=0',
+    title: 'Women Techmakers Montreal 2024 picture',
+    image: 'https://lh3.googleusercontent.com/pw/AP1GczMF0PeubC3ep8e94UNQ642io1Z1VEVOpxe1bHsx4pGxgMj5j0ZLGJO-iOKfz7x8T2LgVBry4bPz_AhLzFiWM4V9xobFHgZHEbQQEQKlOt3k-yAyUpcM0Wx4FA9vKtk1YqUpEE1mdwvq7JaUu-X_4Jeh=w3399-h1803-s-no-gm?authuser=0'
   }, {
-    title: 'DevFest 2023 was so much fun.',
-    image: 'https://lh3.googleusercontent.com/pw/AP1GczNo7iUWVwZhgg9uvlD2Ym3f1GZWec_wq4qHz9ZlZvvFgv8ZiIA7qIPyjHEyRO3kuLddAFtq7B5Jaht0fX7Drcg7f31k8UNdw9Bx7plzcNqszwRY7lIRn9-_KXvkftG2nhi7mhXKtaSEAljZi6ws4VRF6A=w698-h934-s-no-gm?authuser=0',
+    title: 'Women Techmakers Montreal 2024 picture',
+    image: 'https://lh3.googleusercontent.com/pw/AP1GczMnmXS9_bHjMhzFU76dpQv2mdh_Y7jd2UsOm8xQI_5GLcTOmdUoZ_iLLowavEAhCG4sXUTY7eFZX1FuRefFIwj8Z2Ie75fHyS_YGNggaNE5eeIzJ06DIkgPiA7394fmRA1lY0B7aLfHfG9Il_WhD9U-=w3399-h1815-s-no-gm?authuser=0',
   }, {
-    title: 'DevFest 2023 was so much fun.',
-    image: 'https://lh3.googleusercontent.com/pw/AP1GczMkPo26J4q1wmovLdLokH4KFyh8p-keI_eMOm8QCdahuZRXamBVUXBHRUV-xbZjqL4qamFQHiba1-gH2J3F1Fp3Okr3TwNfebzsEJvZ62ipI7au-XD8mKVcf2Ix_tuzN0JrbtOLLs7_UOkP7sAXRHPmZQ=w1240-h934-s-no-gm?authuser=0',
+    title: 'Women Techmakers Montreal 2024 picture',
+    image: 'https://lh3.googleusercontent.com/pw/AP1GczN3mQcHfwEwOf08NZNpK20Wp0NsxT2O3LKdI-Skg48hAZIJmxfErt8U6LwhX9tNTaM0-JKrzPH2MKXowGrQa5GlH664D9Yryb0XLB72kIBqbcExayGxKBICWMIscRqy-U25yn_FltCTdukY0O8TT_WI=w2805-h1869-s-no-gm?authuser=0'
   }, {
-    title: 'DevFest 2023 was so much fun.',
-    image: 'https://lh3.googleusercontent.com/pw/AP1GczM-4BEZOye3U37txjmhW7tyhBi9oqPeZNFNKu2AbksVZ0XJgvSuxMtp735y0LP8U6RA96X0JMAwzycxlUQrDa1nsrUNYzzTOEp3Q1QtCgsIpNg4r9GDn_5jcKGTPqnopbrGsW9reDnaArhup6foqQ1z=w1401-h934-s-no-gm?authuser=0',
+    title: 'Women Techmakers Montreal 2024 picture',
+    image: 'https://lh3.googleusercontent.com/pw/AP1GczMapEW3krTA-506nTbPIJyXf0pK55Ots_dAcX4p9mLyJNiWmwwr-v7g4Mx1ZqlqMojeCxum-Ch5RuRE_kvVnxeCquqTEibYpY8l8RpwuEj0M3T9Y0_tB3Le9JiynjuIRsnjyG1z1WmFSDvF0Z-iEAeL=w3177-h1869-s-no-gm?authuser=0'
   }, {
-    title: 'DevFest 2023 was so much fun.',
-    image: 'https://lh3.googleusercontent.com/pw/AP1GczPKiFssNERktdco6N7nUPmnFUp2NRKdJaA1VthtVUU_GHWY0dJGII3KxNk33TUZIhIC-e0AR1MzbGzu3aGvWeuZRJHWvrC5bceFW1G3jpsjc-ILbR1hB_vy4AM2Y1DTt-6dr-vVlp--9I1vGG33foMx=w1401-h934-s-no-gm?authuser=0',
+    title: 'Women Techmakers Montreal 2024 picture',
+    image: 'https://lh3.googleusercontent.com/pw/AP1GczNPYFZC0tDqP18V6a3ewXZhAUDPwPkgMPFwKMWN77t3alUdTRI7YGTUlcQ3CPuPencvK30fiBryZylG4oLw5VkaMkwzsVb7cXEtL8he4KUK1py8zDatzjO6JP56aX4vxCeLFUpsl7zB7QPq2dvtLngO=w2949-h1869-s-no-gm?authuser=0'
   }, {
-    title: 'DevFest 2023 was so much fun.',
-    image: 'https://lh3.googleusercontent.com/pw/AP1GczOp9uw_dGG9SSuA9VRTO9ZbRoYpnxEom-IHVQLUaHZLrIqyQKSAvTVOk7_SgOrsD4ylufFEE1s2K1uiAbIPhppecqy-KW6xHlDHzXiaTt0owCJaOd6sHNAxIvRBBmaJKe-JdN3ip2mRBzvC9wGkg4Rb=w623-h934-s-no-gm?authuser=0',
+    title: 'Women Techmakers Montreal 2024 picture',
+    image: 'https://lh3.googleusercontent.com/pw/AP1GczMWxU1q25yW8bMLWajlraZ0uAgdyFVXIqcs732B4QJRMH3hFeU8mjR7Q2GY08tpQULkNMlbvfzpA2qvX4QgouZw0pltjN1lyaxGsQVK7tog_48Cw-guZWgrKhSYTW9QOOelqD-ngAJ7voKc2RbcXtFf=w3399-h1671-s-no-gm?authuser=0',
   }, {
-    title: 'DevFest 2023 was so much fun.',
-    image: 'https://lh3.googleusercontent.com/pw/AP1GczNcaSw3Sh12JA8gYo0eTp6REZyoogQJPdhyIsbx3m3tb4MpG_jC-gG-r3h8YU65idL3U8qruJeuIw4cP-JVo41f8kLJYSTFncp8iAO_vbtnl7CX2MYzNzppvfedVXC5II8kNGfrNUV5XOHw8LATa7V4=w1401-h934-s-no-gm?authuser=0',
-  }]
+    title : 'Women Techmakers Montreal 2024 picture',
+    image: 'https://lh3.googleusercontent.com/pw/AP1GczMXY4JhEepJdMIjcxSQ5-q142mXKyUJz16R8AzET-UNLLzE-7Y_0CCTB8jh1LmWBh-e1RjFql8fTuxi-bbR0MHO3k0Cg6dC50LRk8XVFMQtYVDbfGamWJoHmsQNVSfLvLPvAlNOWfRyvKBpPhAB84SU=w1128-h1869-s-no-gm?authuser=0'
+  }, {
+    title: 'Women Techmakers Montreal 2024 picture',
+    image: 'https://lh3.googleusercontent.com/pw/AP1GczM9SZypAfv0I-fDy87qhXXRjTRprUYqU8zQclohoRaSSJGBtWzOY0K2m-75zv6c5D2TxCWTZVN4yAD8SCc8OidsZQ7HDOvNKTisLI8WsG6IT6sDbFENLisX4xifQS0-Llnv3dkoroeVlbtIf7HwHFCS=w3399-h1743-s-no-gm?authuser=0'
+  }, {
+    title: 'Women Techmakers Montreal 2024 picture',
+    image: 'https://lh3.googleusercontent.com/pw/AP1GczOuJ0wtZljTuRQLkL_jrNZHlcOlueWV93PfXwe3kFTzOeDZ8IDh_Va2EZektEECXgPi_5d1EsX_7WGEkgABTScEKC1clDMCXE7zDMMpSQZcgbLzCBPH-EZTTYG5PIq2NbXPBN0JeWSiwBTOEI0JUzcg=w1245-h1869-s-no-gm?authuser=0',
+  }, {
+    title: 'Women Techmakers Montreal 2024 picture',
+    image: 'https://lh3.googleusercontent.com/pw/AP1GczOHwcvTa6qRRHjLfK0hh9T8P564cPLUzxW98pfSc2eVkHEbJHT4_t-6-oIbmZRczQgjR6PiVAQB7Y6n2i-VrwRgMWRu4vuW-GKumbcfKeP38q2MNUD-b3h-H7IQaUIJPstBJfL2vktuov6uWW_tA65M=w3372-h1869-s-no-gm?authuser=0',
+  }
+
+  ]
 };
