@@ -21,6 +21,11 @@ export const sponsors = [ {
   company: 'GO ROCK IT',
   website: 'https://gorockit.ca/',
 }, {
+  level: 'gold',
+  logo: '/images/partners/ctrlweb.svg',
+  company: 'ctrlweb',
+  website: 'https://ctrlweb.ca/'
+}, {
   level: 'silver',
   logo: '/images/partners/mirego_2025.svg',
   company: 'Mirego',
