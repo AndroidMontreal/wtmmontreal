@@ -5,7 +5,10 @@ import EventPhotos from '@/components/sections/EventPhotos';
 import { eventHeader } from '@/data/eventData';
 
 import Venue from '@/components/sections/Venue';
-import { venue } from '@/data/venueData';
+import { venue, venueData } from '@/data/venueData';
+import { lastYearEventPhotos } from '@/data/lastYearEventPhotos';
+import { sponsorsData } from '@/data/sponsorsData';
+import { communitiesData } from '@/data/communitiesData';
 
 export default function Home() {
   return (
@@ -14,16 +17,16 @@ export default function Home() {
         <EventHeader eventData={eventHeader} />
       </section>
       <section id="photos" className="scroll-mt-20">
-        <EventPhotos />
+        <EventPhotos lastYearEventPhotos={lastYearEventPhotos} />
       </section>
       <section id="sponsors" className="scroll-mt-20">
-        <Sponsors />
+        <Sponsors sponsorsData={sponsorsData} />
       </section>
       <section id="communities" className="scroll-mt-20">
-        <Communities />
+        <Communities communitiesData={communitiesData} />
       </section>
       <section id="venue" className="scroll-mt-20">
-        <Venue venueData={venue} />
+        <Venue venueData={venueData} />
       </section>
     </div>
   );

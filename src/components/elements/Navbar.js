@@ -7,9 +7,14 @@ const Navbar = ({ isMobile }) => {
   const router = useRouter();
   const pathname = usePathname();
 
-
   return (
-    <nav className={isMobile ? 'flex flex-col space-y-2 ' : 'hidden md:flex space-x-2 items-center'}>
+    <nav
+      className={
+        isMobile
+          ? 'flex flex-col space-y-2 '
+          : 'hidden md:flex space-x-2 items-center'
+      }
+    >
       {headerNavData.map((link) => (
         <Link
           key={uuidv4()}
@@ -22,10 +27,11 @@ const Navbar = ({ isMobile }) => {
             hover:text-black
             hover:bg-gray-200
             ${!isMobile && 'rounded-full'}
-            ${pathname === link.href
-            ? 'bg-gray-300 text-gray-800' // Active link styles
-            : ''
-          }
+            ${
+              pathname === link.href
+                ? 'bg-gray-200 text-gray-800' // Active link styles
+                : ''
+            }
           `}
         >
           {link.label}
