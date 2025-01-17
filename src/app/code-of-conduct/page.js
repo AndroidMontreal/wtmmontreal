@@ -86,22 +86,10 @@ export default function CodeOfConduct() {
       <h3 className="text-xl font-bold">Contacts:</h3>
       <ul className="list-disc list-inside mb-4">
         <li>
-          <a href="mailto:info@gdgmontreal.com">info@gdgmontreal.com</a>
+          <a href="mailto:info@wtmmontreal.com">info@wtmmontreal.com</a>
         </li>
         <li>
-          <a href="mailto:laurence@gdgmontreal.com">laurence@gdgmontreal.com</a>
-        </li>
-        <li>
-          <a href="mailto:samuel@gdgmontreal.com">samuel@gdgmontreal.com</a>
-        </li>
-        <li>
-          <a href="mailto:boris@gdgmontreal.com">boris@gdgmontreal.com</a>
-        </li>
-        <li>
-          <a href="mailto:nav@gdgmontreal.com">nav@gdgmontreal.com</a>
-        </li>
-        <li>
-          <a href="mailto:jhin@gdgmontreal.com">jhin@gdgmontreal.com</a>
+          <a href="mailto:stefania@wtmmontreal.com">stefania@wtmmontreal.com</a>
         </li>
       </ul>
       <p className="mb-4">
