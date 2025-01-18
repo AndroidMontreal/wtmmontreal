@@ -12,18 +12,23 @@ import { v4 as uuidv4 } from 'uuid';
 const Venue = ({ venueData }) => {
   return (
     <section id="venue" className="container mx-auto px-4 py-12">
-
       <TitleWithSubtitle
         title="Event Venue"
         subTitle={venueData.description}
         titleClassName="max-w-2xl"
-        subTitleClassName="max-w-xl" />
+        subTitleClassName="max-w-xl"
+      />
 
-      <div className="py-12 grid grid-cols-1 lg:grid-cols-2 gap-8"> {/* Grid layout */}
-
+      <div className="py-12 grid grid-cols-1 lg:grid-cols-2 gap-8">
+        {' '}
+        {/* Grid layout */}
         {/* Left Column (Map) */}
-        <div className="relative h-full"> {/* Adjust width as needed */}
-          <div className="aspect-video h-full"> {/* Maintain aspect ratio for map embed */}
+        <div className="relative h-full">
+          {' '}
+          {/* Adjust width as needed */}
+          <div className="aspect-video h-full">
+            {' '}
+            {/* Maintain aspect ratio for map embed */}
             <iframe
               src={venueData.embededMapLink}
               width="100%"
@@ -35,7 +40,9 @@ const Venue = ({ venueData }) => {
               title="Event Venue"
             ></iframe>
           </div>
-          <div className="absolute bottom-2 left-2 bg-white p-2 rounded-md shadow-md"> {/* Logo overlay */}
+          <div className="absolute bottom-2 left-2 bg-white p-2 rounded-md shadow-md">
+            {' '}
+            {/* Logo overlay */}
             <Image
               src={venueData.logo}
               alt={venueData.name + ' logo'}
@@ -44,7 +51,6 @@ const Venue = ({ venueData }) => {
             />
           </div>
         </div>
-
         {/* Right Column (Swiper Slider) */}
         <div className="h-[400px] lg:h-full">
           <Swiper
@@ -58,7 +64,10 @@ const Venue = ({ venueData }) => {
             className="h-full"
           >
             {venueData.images.map((image, index) => (
-              <SwiperSlide key={uuidv4()} className="w-full h-[400px] lg:h-full">
+              <SwiperSlide
+                key={uuidv4()}
+                className="w-full h-[400px] lg:h-full"
+              >
                 <Image
                   src={image}
                   alt={`Venue Image ${index + 1}`}
@@ -67,9 +76,8 @@ const Venue = ({ venueData }) => {
                 />
               </SwiperSlide>
             ))}
-          </Swiper>{/* Navigation arrows */}
-
-
+          </Swiper>
+          {/* Navigation arrows */}
         </div>
       </div>
     </section>

@@ -1,6 +1,6 @@
 export const communitiesData = {
   title: 'Partners',
-  description: "Bridging gaps, breaking barriers together",
+  description: 'Bridging gaps, breaking barriers together',
   communities: [
     {
       logo: '/images/communities/gdg_montreal.svg',

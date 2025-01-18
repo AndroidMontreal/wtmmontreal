@@ -2,8 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-
 .swiper .swiper-pagination-bullet-active {
-    transform: scale(2);
-    transform-origin: center;
+  transform: scale(2);
+  transform-origin: center;
 }
