@@ -9,15 +9,19 @@ export const headerNavData = [{
 // }, {
   href: '/team', label: 'Team',
 }, {
-  href: generalLinks.papercallLink,  label: 'Call for paper'
+  href: generalLinks.papercallLink,
+  label: 'Call for Speakers',
+  newWindow: true,
 }];
 
 
 export const footerNavData = [{
-  href: generalLinks.papercallLink, label: 'Call for paper',
+  href: generalLinks.papercallLink, 
+  label: 'Call for Speakers',
+  newWindow: true,
 }, {
   href: generalLinks.sponsorshipLink,
-  label: 'Get Sponsorship proposal',
+  label: 'Get Sponsorship Proposal',
 }, {
-  href: '/code-of-conduct', label: 'Code of conduct',
+  href: '/code-of-conduct', label: 'Code of Conduct',
 }];
