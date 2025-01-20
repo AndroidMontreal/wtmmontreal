@@ -28,6 +28,8 @@ const Footer = () => {
                 key={item.href}
                 href={item.href}
                 className="hover:text-gray-300"
+                target={item.newWindow ? '_blank' : '_self'}
+                rel={item.newWindow ? 'noopener noreferrer' : undefined}
               >
                 {item.label}
               </Link>

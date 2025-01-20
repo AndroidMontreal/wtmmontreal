@@ -1,6 +1,6 @@
 export const communitiesData = {
-  title: 'Communities',
-  description: "A joint effort with Montreal's leading tech communities",
+  title: 'Partners',
+  description: 'Bridging gaps, breaking barriers together',
   communities: [
     {
       logo: '/images/communities/gdg_montreal.svg',

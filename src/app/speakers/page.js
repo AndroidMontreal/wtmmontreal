@@ -16,22 +16,33 @@ const Speakers = () => {
   };
 
   const speakers = useMemo(() => {
-    return (selectedYear === 2023 ? speakers2023 : speakers2024).sort((a, b) => a.name.localeCompare(b.name));
+    return (selectedYear === 2023 ? speakers2023 : speakers2024).sort((a, b) =>
+      a.name.localeCompare(b.name)
+    );
   }, [selectedYear]);
 
   return (
-    <div id="speakers" className="flex flex-col gap-6 text-center items-center justify-center my-24">
+    <div
+      id="speakers"
+      className="flex flex-col gap-6 text-center items-center justify-center my-24"
+    >
       <TitleWithSubtitle
         title="Speakers"
         subTitle="Learn from the best in the industry. Our speakers are experts in their field and are excited to share their knowledge with you."
         titleClassName="max-w-2xl"
-        subTitleClassName="max-w-xl" />
+        subTitleClassName="max-w-xl"
+      />
 
-      <YearSelector years={[2023, 2024]} selectedYear={selectedYear} handleYearChange={handleYearChange} />
+      <YearSelector
+        years={[2023, 2024]}
+        selectedYear={selectedYear}
+        handleYearChange={handleYearChange}
+      />
 
       <ul
-        className={`grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 ${selectedYear === 2024 ? 'lg:grid-cols-3' : 'lg:grid-cols-4'}  gap-6 max-w-7xl mx-auto`}>
-        {speakers.map(speaker => (
+        className={`grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 ${selectedYear === 2024 ? 'lg:grid-cols-3' : 'lg:grid-cols-4'}  gap-6 max-w-7xl mx-auto`}
+      >
+        {speakers.map((speaker) => (
           <li key={uuidv4()} className="flex items-start">
             <SpeakerCard speaker={speaker} year={selectedYear} />
           </li>

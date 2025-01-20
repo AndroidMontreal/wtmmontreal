@@ -4,9 +4,7 @@ import { v4 as uuidv4 } from 'uuid';
 const CommunityCard = ({ communities }) => {
   return (
     <div className="mx-auto max-w-7xl px-6 lg:px-8">
-      <div
-        className=" -mx-6 grid grid-cols-2 gap-0.5 overflow-hidden sm:mx-0 md:grid-cols-3">
-
+      <div className=" -mx-6 grid grid-cols-2 gap-0.5 overflow-hidden sm:mx-0 md:grid-cols-3">
         {communities.map((organizer) => (
           <a
             key={uuidv4()} // Add a unique key for each organizer

@@ -19,6 +19,8 @@ const Navbar = ({ isMobile }) => {
         <Link
           key={uuidv4()}
           href={link.href}
+          target={link.newWindow ? '_blank' : '_self'}
+          rel={link.newWindow ? 'noopener noreferrer' : undefined}
           className={`
             text-gray-800 
             px-4

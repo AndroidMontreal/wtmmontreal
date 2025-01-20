@@ -7,12 +7,12 @@ const TeamMemberCard = ({ member }) => {
       href={member.link}
       target="_blank"
       rel="noopener noreferrer"
-      className="group flex hover:text-red-700">
-
+      className="group flex hover:text-red-700"
+    >
       <div className="flex flex-col">
-
-        <div
-          className="relative aspect-square overflow-hidden rounded-2xl shadow-lg hover:shadow-xl transition"> {/* Fixed aspect ratio container */}
+        <div className="relative aspect-square overflow-hidden rounded-2xl shadow-lg hover:shadow-xl transition">
+          {' '}
+          {/* Fixed aspect ratio container */}
           <Image
             src={member.image}
             alt={`${member.name}'s avatar`}
@@ -23,10 +23,13 @@ const TeamMemberCard = ({ member }) => {
         </div>
 
         <div className="w-full py-6 text-start ">
-          <h3 className="text-2xl font-semibold text-gray-800 py-1 group-hover:text-gray-500">{member.name}</h3>
-          <p className="text-gray-600 group-hover:text-gray-500">{member.title}</p>
+          <h3 className="text-2xl font-semibold text-gray-800 py-1 group-hover:text-gray-500">
+            {member.name}
+          </h3>
+          <p className="text-gray-600 group-hover:text-gray-500">
+            {member.title}
+          </p>
         </div>
-
       </div>
     </Link>
   );

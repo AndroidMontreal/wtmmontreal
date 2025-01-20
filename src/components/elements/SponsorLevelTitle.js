@@ -1,12 +1,13 @@
 import { clsx } from '@/lib/utils';
 
-const SponsorLevelTitle = ({ title, level, titleClassName}) => {
+const SponsorLevelTitle = ({ title, level, titleClassName }) => {
   return (
     <div className="flex gap-6 flex-col place-items-center text-center">
       <h3
         className={clsx(
-          'text-[min(12vw,60px)] leading-[1.3] tracking-tighter font-bold '+ textColorForLevel(level),
-          titleClassName,
+          'text-[min(12vw,60px)] leading-[1.3] tracking-tighter font-bold ' +
+            textColorForLevel(level),
+          titleClassName
         )}
       >
         {title}
@@ -18,13 +19,13 @@ const SponsorLevelTitle = ({ title, level, titleClassName}) => {
 function textColorForLevel(level) {
   switch (level) {
     case 'platinum':
-    return 'text-cyan-400';
+      return 'text-cyan-400';
     case 'gold':
       return 'text-yellow-400';
     case 'silver':
       return 'text-gray-400';
     case 'bronze':
-       return 'text-yellow-700';
+      return 'text-yellow-700';
   }
 }
 

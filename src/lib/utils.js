@@ -6,7 +6,6 @@ export function getFirstName(fullName) {
   return fullName.split(' ')[0];
 }
 
-
 export function sortTeamByFirstName(team) {
   return team.sort((a, b) => {
     const firstNameA = a.name.split(' ')[0].toLowerCase();
