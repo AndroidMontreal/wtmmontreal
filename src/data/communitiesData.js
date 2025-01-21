@@ -39,9 +39,14 @@ export const communitiesData = {
       website: 'https://women-in-tech.org/ca/',
     },
     {
-      logo: 'images/communities/totem_recrutement.png',
+      logo: 'images/communities/6455_Totem_Logo+taglineENG_Final.png',
       company: 'Totem Recruteur de Talents',
       website: 'https://www.totemtalent.ca/',
     },
+    {
+      logo: 'images/communities/GSW_color.png',
+      company: 'Global STEM Women',
+      website: 'https://www.globalstemwomen.org/about-us',
+    }
   ],
 };
