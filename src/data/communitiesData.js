@@ -38,5 +38,10 @@ export const communitiesData = {
       company: 'Women in Tech Canada',
       website: 'https://women-in-tech.org/ca/',
     },
+    {
+      logo: 'images/communities/totem_recrutement.png',
+      company: 'Totem Recruteur de Talents',
+      website: 'https://www.totemtalent.ca/',
+    },
   ],
 };
