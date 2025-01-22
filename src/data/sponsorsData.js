@@ -44,5 +44,11 @@ export const sponsorsData = {
       website:
         'https://www.mirego.com/fr?utm_source=wtmmontreal&utm_medium=referral&utm_content=logo&utm_campaign=2025sponsorship',
     },
+    {
+      level: 'silver',
+      logo: '/images/partners/GameAddik.svg',
+      company: 'GameAddik',
+      website: 'https://gameaddik.com/',
+    },
   ],
 };
