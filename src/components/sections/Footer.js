@@ -35,8 +35,14 @@ const Footer = () => {
               </Link>
             ))}
           </div>
-          <div className="flex space-x-4">
+          <div className="flex flex-col items-center space-y-3">
             <SocialLinks />
+            <Link
+              href="https://wtmmontreal.us12.list-manage.com/subscribe?u=d1707279f0dde7f68a6f98ab0&id=35def8d91c"
+              className="text-xs text-gray-400 italic hover:text-gray-300"
+            >
+              Subscribe to our newsletter
+            </Link>
           </div>
         </div>
       </div>
