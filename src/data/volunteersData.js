@@ -1,12 +1,12 @@
 export const volunteersData = {
   title: "Volunteers",
   volunteers: [
-    {
-      name: 'Ali Yazdi',
-      title: 'Senior Software Engineer at EXFO, GDG & Flutter Montreal Organizer',
-      image: '/images/team/ali.jpg',
-      link: 'https://devfest2023.gdgmontreal.com/speaker/ali-yazdi/',
-    },
+    // {
+    //   name: 'Ali Yazdi',
+    //   title: 'Senior Software Engineer at EXFO, GDG & Flutter Montreal Organizer',
+    //   image: '/images/team/ali.jpg',
+    //   link: 'https://devfest2023.gdgmontreal.com/speaker/ali-yazdi/',
+    // },
     {
       name: 'Anureet Kaur',
       title: '',
@@ -16,7 +16,7 @@ export const volunteersData = {
     {
       name: 'Cecilia',
       title: '',
-      image: '/images/team/volunteers/Cecilia.jpeg',
+      image: '/images/team/volunteers/Cecilia.jpg',
       link: '',
     },
     {

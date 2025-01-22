@@ -35,6 +35,17 @@ export default function Home() {
         ))}
       </ul>
 
+      <SmallTitle
+        title={volunteersData.title}
+        />
+
+      <ul className=" py-6 grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 gap-6 max-w-7xl mx-auto">
+        {sortedVolunteers.map((member) => (
+          <li key={uuidv4()} className="flex items-start">
+            <TeamMemberCard member={member} />
+          </li>
+        ))}
+      </ul>
 
     </div>
   );
