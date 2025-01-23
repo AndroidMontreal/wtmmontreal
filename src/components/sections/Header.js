@@ -1,6 +1,7 @@
 'use client';
 import Image from 'next/image';
 import logo from '@/public/images/logo/wtm_logo_year_color.svg';
+import anniversary from '@/public/images/logo/anniversary.png';
 import Link from 'next/link';
 import Navbar from '@/components/elements/Navbar';
 import MobileDrawer from '@/components/elements/MobileDrawer';
@@ -17,14 +18,22 @@ const Header = () => {
       <div className="bg-white container mx-auto flex items-center justify-between pt-5">
         <div className="bg-gray-50 container mx-auto flex items-center justify-between p-5 rounded-2xl shadow">
           {/* Logo and other elements on the left */}
-          <Link href="/">
+          <div className="flex items-center space-x-3">
+            <Link href="/">
+              <Image
+                src={logo}
+                width={250}
+                alt="Women Techmakers 2025 Montreal"
+                priority={true}
+              />
+            </Link>
             <Image
-              src={logo}
-              width={250}
-              alt="Women Techmakers 2025 Montreal"
+              src={anniversary}
+              width={65}
+              alt="10 Years Anniversary Icon"
               priority={true}
             />
-          </Link>
+          </div>
 
           <div className="flex flex-row ">
             {/* Navigation (Desktop) on the right */}
