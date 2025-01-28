@@ -5,61 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c94189e5-5657-4e02-be2d-51c766fcc41f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/[lang]/layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/[lang]/page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/i18n/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/i18n/request.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/metadata.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/en/event.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/en/eventPhoto.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/en/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/en/navigation.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/en/partner.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/en/sponsor.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/en/team.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/en/venue.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/fr/event.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/fr/eventPhoto.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/fr/metadata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/fr/navigation.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/fr/partner.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/fr/sponsor.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/fr/team.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/fr/venue.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/communities/6455_Totem_Logo+taglineENG_Final.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/communities/GSW_color.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/code-of-conduct/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/code-of-conduct/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/schedule/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/schedule/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/speakers/[slug]/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/speakers/[slug]/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/speakers/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/speakers/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/team/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/team/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/elements/CommunityCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/PartnerCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/elements/MobileDrawer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/MobileDrawer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/elements/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/elements/ScheduleSessionCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/ScheduleSessionCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/elements/SpeakerCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/SpeakerCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/Communities.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Partners.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/EventHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/EventHeader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/EventPhotos.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/EventPhotos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/Sponsors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Sponsors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/Venue.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Venue.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/communitiesData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/eventData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/generalLink.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/headerNavData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/sponsorsData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/venueData.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/data/volunteersData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/data/volunteersData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/utils.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/utils.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/fr/eventPhoto.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/eventPhoto.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +118,7 @@
       <workItem from="1737072691299" duration="21867000" />
       <workItem from="1737676977849" duration="4003000" />
       <workItem from="1737946581350" duration="13301000" />
-      <workItem from="1738005350124" duration="38481000" />
+      <workItem from="1738005350124" duration="38930000" />
     </task>
     <servers />
   </component>
