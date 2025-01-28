@@ -6,7 +6,11 @@ const SpeakerCard = ({ speaker, year }) => {
 
   return (
     <Link
-      href={is2024Speaker ? `/speakers/${speaker.slug}` : speaker.link}
+      href={
+        is2024Speaker
+          ? `/src/app/%5Blang%5D/speakers/${speaker.slug}`
+          : speaker.link
+      }
       rel="noopener noreferrer"
       target={is2024Speaker ? '_self' : '_blank'} // Open 2023 links in new tab
       className="group flex hover:text-red-700"

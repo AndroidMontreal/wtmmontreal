@@ -1,10 +1,21 @@
+'use client';
 import Link from 'next/link';
-import { footerNavData } from '@/data/headerNavData';
 import SocialLinks from '@/components/elements/SocialLinks';
 import Image from 'next/image';
 import logo from '@/public/images/logo/wtm_logo_year_mono_2025.svg';
+import { useTranslations } from 'next-intl';
+import { v4 as uuidv4 } from 'uuid';
 
 const Footer = () => {
+  const t = useTranslations('navigation.footer');
+
+  const footerNavigationWithUUIDs =
+    t.raw('footerNavigation') &&
+    t.raw('footerNavigation').map((link) => ({
+      ...link,
+      uuid: uuidv4(),
+    }));
+
   return (
     <footer className="bg-black bg-opacity-90 text-white py-6">
       <div className="container mx-auto px-6">
@@ -14,24 +25,24 @@ const Footer = () => {
               <Image
                 src={logo}
                 width={250}
-                alt="Women Techmakers 2025 Montreal"
+                alt="Women Techmakers 2025 Montréal"
                 priority={true}
               />
             </Link>
             <p className="text-xs text-gray-400 italic pt-3">
-              © {new Date().getFullYear()} WTM Montreal. All rights reserved.
+              © {new Date().getFullYear()} {t('footerCopyright')}
             </p>
           </div>
           <div className="lg:space-x-3 flex flex-col lg:flex-row justify-between">
-            {footerNavData.map((item) => (
+            {footerNavigationWithUUIDs.map((link) => (
               <Link
-                key={item.href}
-                href={item.href}
+                key={link.href}
+                href={link.href}
                 className="hover:text-gray-300"
-                target={item.newWindow ? '_blank' : '_self'}
-                rel={item.newWindow ? 'noopener noreferrer' : undefined}
+                target={link.newWindow ? '_blank' : '_self'}
+                rel={link.newWindow ? 'noopener noreferrer' : undefined}
               >
-                {item.label}
+                {link.label}
               </Link>
             ))}
           </div>

@@ -1,0 +1,80 @@
+{
+  "title": "Équipe",
+  "description": "L'équipe des femmes Techmakers Montréal est entièrement composée de bénévoles qui pensent que l'autonomisation, les femmes encourageantes et inspirantes dans la technologie est importante.",
+  "organizer": {
+    "title": "Organisateurs",
+    "organizers": [
+      {
+        "name": "Stefania Pecore",
+        "title": "Directeur du développement de l'IA chez Sardo, des femmes de femme Montréal, le chef et l'ambassadeur",
+        "image": "/images/team/stefania.jpg",
+        "link": "https://developers.google.com/profile/u/specore"
+      },
+      {
+        "name": "Jihoo Park",
+        "title": "Analyste de données senior @ Warner Bros. Games Montréal | Ambassadeur WTM | Membre du conseil des clients Google BI",
+        "image": "/images/team/jihoo.jpeg",
+        "link": "https://developers.google.com/profile/u/109280340170455499902"
+      },
+      {
+        "name": "Leticia Pires",
+        "title": "Data Scientist, étudiant de l'IA, ambassadeur des femmes Techmakers, ambassadeur d'Alura et mentor de Mulheres Em Dados",
+        "image": "/images/team/leti.jpg",
+        "link": "https://www.linkedin.com/in/leticia-pires/"
+      },
+      {
+        "name": "Saleem Yadav",
+        "title": "Data analyste",
+        "image": "/images/team/saleem.jpg",
+        "link": "https://www.linkedin.com/in/saleem-yadav-03271116b/"
+      },
+      {
+        "name": "Sofia Guerrero",
+        "title": "Étudiant de l'intelligence artificielle et de l'apprentissage automatique",
+        "image": "/images/team/sofia.jpg",
+        "link": "https://www.linkedin.com/in/sofia-guerro-b9613915b/sofia%20Guerrero"
+      },
+      {
+        "name": "Michael Patane",
+        "title": "Directeur, production et entrepôt de Groupe BBH",
+        "image": "/images/team/mike.jpg",
+        "link": "https://www.linkedin.com/in/mpatane/"
+      },
+      {
+        "name": "Mimoh Solanki",
+        "title": "Développeur Full Stack | Organisateur GDG",
+        "image": "/images/team/mimoh.jpg",
+        "link": "https://www.linkedin.com/in/mimohsolanki/"
+      }
+    ]
+  },
+  "volunteer": {
+    "title": "Bénévoles",
+    "volunteers": [
+      {
+        "name": "Anureet Kaur",
+        "title": "",
+        "image": "/images/team/volunteers/anureet_kaur.jpeg",
+        "link": ""
+      },
+      {
+        "name": "Cecilia",
+        "title": "",
+        "image": "/images/team/volunteers/cecilia.jpg",
+        "link": ""
+      },
+      {
+        "name": "Jacqueline",
+        "title": "",
+        "image": "/images/team/volunteers/jacqueline.jpg",
+        "link": ""
+      },
+      {
+        "name": "Sahil Patel",
+        "title": "Développeur de logiciels complets - Cold Chain Science Enterprises",
+        "image": "/images/team/volunteers/sahil.jpg",
+        "link": "https://www.linkedin.com/in/smpatel99999/"
+      }
+    ]
+  }
+}

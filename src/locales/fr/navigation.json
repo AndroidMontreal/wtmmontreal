@@ -1,0 +1,39 @@
+{
+  "header": {
+    "buttonText": "Obtenez des billets",
+    "buttonLink": "https://wtmmontreal2025.eventbrite.ca",
+    "headerNavigation": [
+      {
+        "href": "/",
+        "label": "Maison"
+      },
+      {
+        "href": "/team",
+        "label": "Équipe"
+      },
+      {
+        "href": "https://www.papercall.io/wtmmontreal2025",
+        "label": "Appel à des conférenciers",
+        "newWindow": true
+      }
+    ]
+  },
+  "footer": {
+    "footerCopyright": "WTM Montréal. Tous droits réservés.",
+    "footerNavigation": [
+      {
+        "href": "https://www.papercall.io/wtmmontreal2025",
+        "label": "Appel à des conférenciers",
+        "newWindow": true
+      },
+      {
+        "href": "mailto:sponsors@wtmmontreal.com?subject=Information about sponsorship",
+        "label": "Obtenez la proposition de parrainage"
+      },
+      {
+        "href": "/code-of-conduct",
+        "label": "Code de conduite"
+      }
+    ]
+  }
+}

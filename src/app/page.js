@@ -1,33 +1,15 @@
-import EventHeader from '@/components/sections/EventHeader';
-import Communities from '@/components/sections/Communities';
-import Sponsors from '@/components/sections/Sponsors';
-import EventPhotos from '@/components/sections/EventPhotos';
-import { eventHeader } from '@/data/eventData';
+// app/page.js
+'use client'; // Mark this as a Client Component
 
-import Venue from '@/components/sections/Venue';
-import { venue, venueData } from '@/data/venueData';
-import { lastYearEventPhotos } from '@/data/lastYearEventPhotos';
-import { sponsorsData } from '@/data/sponsorsData';
-import { communitiesData } from '@/data/communitiesData';
+import { useEffect } from 'react';
+import { useRouter } from 'next/navigation';
 
-export default function Home() {
-  return (
-    <div className="flex flex-col justify-around gap-20">
-      <section id="event" className="scroll-mt-20">
-        <EventHeader eventData={eventHeader} />
-      </section>
-      <section id="photos" className="scroll-mt-20">
-        <EventPhotos lastYearEventPhotos={lastYearEventPhotos} />
-      </section>
-      <section id="sponsors" className="scroll-mt-20">
-        <Sponsors sponsorsData={sponsorsData} />
-      </section>
-      <section id="communities" className="scroll-mt-20">
-        <Communities communitiesData={communitiesData} />
-      </section>
-      <section id="venue" className="scroll-mt-20">
-        <Venue venueData={venueData} />
-      </section>
-    </div>
-  );
+export default function HomePage() {
+  const router = useRouter();
+
+  useEffect(() => {
+    router.replace('/fr'); // Redirect to /fr
+  }, [router]);
+
+  return null; // Render nothing while redirecting
 }

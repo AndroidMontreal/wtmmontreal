@@ -85,7 +85,10 @@ export const ScheduleSessionCard = ({ timeSlot, session, sessionIndex }) => {
       {speakers?.length > 0 && <div className="mt-8"></div>}
       <div className="flex flex-col">
         {speakers?.map((speaker, speakerIndex) => (
-          <Link key={speakerIndex} href={`/speakers/${speaker.slug}`}>
+          <Link
+            key={speakerIndex}
+            href={`/src/app/%5Blang%5D/speakers/${speaker.slug}`}
+          >
             <div className="flex items-center mb-4">
               <Image
                 src={speaker?.image || '/default-speaker-image.jpg'}

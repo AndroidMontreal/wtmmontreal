@@ -3,33 +3,46 @@ import PillButton from '@/components/elements/PillButton';
 import SponsorCard from '@/components/elements/SponsorCard';
 import SponsorLevelTitle from '@/components/elements/SponsorLevelTitle';
 import TitleWithSubtitle from '@/components/elements/TitleWithSubtitle';
-import { sponsors, sponsorLevels } from '@/data/sponsorsData';
-import { generalLinks } from '@/data/generalLink';
+// import { sponsorLevels } from '@/data/sponsorsData';
 import { v4 as uuidv4 } from 'uuid';
+import { useTranslations } from 'next-intl';
 
 const Sponsors = ({ sponsorsData }) => {
+  const t = useTranslations('sponsor');
+
+  const sponsorLevelWithUUIDs =
+    t.raw('levels') &&
+    t.raw('levels').map((sponsorLevels) => ({
+      ...sponsorLevels,
+      uuid: uuidv4(),
+    }));
+
+  const sponsorsWithUUIDs =
+    t.raw('sponsors') &&
+    t.raw('sponsors').map((sponsor) => ({
+      ...sponsor,
+      uuid: uuidv4(),
+    }));
+
   return (
     <div className="flex flex-col gap-6 text-center items-center justify-center my-10">
       <TitleWithSubtitle
-        title={sponsorsData.title}
-        subTitle={sponsorsData.description}
+        title={t('title')}
+        subTitle={t('description')}
         titleClassName="max-w-4xl"
         subTitleClassName="max-w-xl"
       />
 
-      {sponsorLevels.map(({ title, level }) => (
+      {sponsorLevelWithUUIDs.map(({ title, level }) => (
         <SponsorLevel
           key={uuidv4()}
           title={title}
           level={level}
-          sponsors={sponsorsData.sponsors}
+          sponsors={sponsorsWithUUIDs}
         />
       ))}
 
-      <PillButton
-        href={sponsorsData.buttonLink}
-        label={sponsorsData.buttonText}
-      />
+      <PillButton href={t('buttonLink')} label={t('buttonText')} />
     </div>
   );
 };

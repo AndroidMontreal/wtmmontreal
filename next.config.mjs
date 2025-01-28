@@ -1,3 +1,8 @@
+import createNextIntlPlugin from 'next-intl/plugin';
+
+// Next-intl configuration with request file path
+const withNextIntl = createNextIntlPlugin('./src/i18n/request.js');
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   output: 'export',
@@ -7,7 +12,7 @@ const nextConfig = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: '*.googleusercontent.com', // Allow images from any Googleusercontent subdomain
+        hostname: '*.googleusercontent.com',
       },
     ],
   },
@@ -16,4 +21,4 @@ const nextConfig = {
   },
 };
 
-export default nextConfig;
+export default withNextIntl(nextConfig);

@@ -1,44 +1,62 @@
 import Link from 'next/link';
-import { usePathname, useRouter } from 'next/navigation';
-import { headerNavData } from '@/data/headerNavData';
+import { useParams, usePathname, useRouter } from 'next/navigation';
 import { v4 as uuidv4 } from 'uuid';
+import { useTranslations } from 'next-intl';
+import { useMemo } from 'react';
 
 const Navbar = ({ isMobile }) => {
-  const router = useRouter();
   const pathname = usePathname();
+  const { lang } = useParams();
+
+  const t = useTranslations('navigation.header');
+
+  const headerNavigationWithUUIDs = Array.isArray(t.raw('headerNavigation'))
+    ? t.raw('headerNavigation').map((nav) => ({
+        ...nav,
+        uuid: uuidv4(),
+      }))
+    : [];
+
+  // Normalize pathname by removing the locale prefix
+  const normalizedPathname =
+    pathname.replace(new RegExp(`^/${lang}`), '') || '/';
 
   return (
     <nav
+      role="navigation"
+      aria-label="Main navigation"
       className={
         isMobile
           ? 'flex flex-col space-y-2 '
           : 'hidden md:flex space-x-2 items-center'
       }
     >
-      {headerNavData.map((link) => (
-        <Link
-          key={uuidv4()}
-          href={link.href}
-          target={link.newWindow ? '_blank' : '_self'}
-          rel={link.newWindow ? 'noopener noreferrer' : undefined}
-          className={`
-            text-gray-800 
+      {headerNavigationWithUUIDs.map((link) => {
+        const isActive =
+          normalizedPathname === link.href ||
+          (normalizedPathname === '/' && link.href === '/');
+        return (
+          <Link
+            key={link.uuid}
+            href={link.newWindow ? link.href : `/${lang}${link.href}`}
+            target={link.newWindow ? '_blank' : '_self'}
+            rel={link.newWindow ? 'noopener noreferrer' : undefined}
+            className={`
+            text-gray-800
             px-4
             py-2
             text-md
             hover:text-black
             hover:bg-gray-200
             ${!isMobile && 'rounded-full'}
-            ${
-              pathname === link.href
-                ? 'bg-gray-200 text-gray-800' // Active link styles
-                : ''
-            }
+            ${isActive ? 'bg-gray-200 text-gray-800' : ''} 
           `}
-        >
-          {link.label}
-        </Link>
-      ))}
+            aria-current={isActive ? 'page' : undefined}
+          >
+            {link.label}
+          </Link>
+        );
+      })}
     </nav>
   );
 };

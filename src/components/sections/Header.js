@@ -8,11 +8,11 @@ import MobileDrawer from '@/components/elements/MobileDrawer';
 import { useState } from 'react';
 import { Bars3Icon } from '@heroicons/react/24/outline';
 import PillButton from '@/components/elements/PillButton';
-import { generalLinks } from '@/data/generalLink';
+import { useTranslations } from 'next-intl';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-
+  const t = useTranslations('navigation.header');
   return (
     <header className="sticky top-0 z-50 mt-0 px-3">
       <div className="bg-white container mx-auto flex items-center justify-between pt-5">
@@ -40,8 +40,8 @@ const Header = () => {
             <Navbar isMobile={false} />
             <PillButton
               className="ml-3 hidden md:flex"
-              href={generalLinks.ticketLink}
-              label="Get Tickets"
+              href={t('buttonLink')}
+              label={t('buttonText')}
             />
           </div>
           {/* Hamburger Menu (Mobile) */}

@@ -3,14 +3,16 @@ import Image from 'next/image';
 import { CalendarDaysIcon, MapPinIcon } from '@heroicons/react/24/outline';
 import PillButton from '@/components/elements/PillButton';
 import Link from 'next/link';
-import TitleWithSubtitle from '@/components/elements/TitleWithSubtitle';
 import col1img1 from '@/public/images/eventHeader/woman_techmaker_202401.jpg';
 import col2img1 from '@/public/images/eventHeader/woman_techmaker_202402.jpg';
 import col2img2 from '@/public/images/eventHeader/woman_techmaker_202405.jpg';
 import col3img1 from '@/public/images/eventHeader/woman_techmaker_202406.jpg';
 import col3img2 from '@/public/images/eventHeader/woman_techmaker_202407.jpg';
+import { useTranslations } from 'next-intl';
 
-const EventHeader = ({ eventData }) => {
+const EventHeader = () => {
+  const t = useTranslations('event');
+
   return (
     <div className="relative isolate overflow-hidden">
       {/* Background Pattern */}
@@ -41,7 +43,7 @@ const EventHeader = ({ eventData }) => {
       {/* Gradient Blur Effect for background */}
       <div className="hidden md:block absolute md:left-1/4 right-0 md:top-0 -bottom-44 md:bottom-0 -z-10 lg:-ml-24 -ml-2.5  transform-gpu overflow-hidden blur-3xl xl:ml-24 2xl:ml-48">
         <div
-          className="aspect-[801/1036] w-[50.0625rem] bg-gradient-to-l from-[#4286f4] to-[#4fc2f7] opacity-30"
+          className="aspect-[801/1036] w-[50.0625rem] bg-gradient-to-l from-[#CAE6FF] to-[#54A7ED] opacity-30"
           style={{
             clipPath:
               'polygon(63.1% 29.5%, 100% 17.1%, 76.6% 3%, 48.4% 0%, 44.6% 4.7%, 54.5% 25.3%, 59.8% 49%, 55.2% 57.8%, 44.4% 57.2%, 27.8% 47.9%, 35.1% 81.5%, 0% 97.7%, 39.2% 100%, 35.2% 81.4%, 97.2% 52.8%, 63.1% 29.5%)',
@@ -50,44 +52,44 @@ const EventHeader = ({ eventData }) => {
       </div>
 
       {/* Main Content */}
-      <div className="mx-auto max-w-8xl md:pb-48 pt-32 sm:pt-44 lg:px-8 lg:pt-30">
+      <div className="mx-auto max-w-8xl md:pb-48 pt-24  lg:px-8 lg:pt-28">
         <div className="mx-auto max-w-2xl gap-x-14 lg:mx-0 md:flex flex-col xl:flex-row lg:max-w-none lg:items-center justify-center 2xl:justify-between">
           {/* Left Content Section */}
-          <div className="w-full md:max-w-3xl xl:max-w-lg text-left lg:shrink-0 2xl:max-w-2xl ">
-            <TitleWithSubtitle
-              title={eventData.eventTitle}
-              titleClassName="text-left"
-            />
+          <div className="w-full md:max-w-3xl xl:max-w-lg items-start lg:shrink-0 2xl:max-w-2xl ">
+            <h1 className="md:text-7xl text-5xl leading-[1.3] tracking-normal font-bold text-[#2480F0]">
+              {t('title')}
+            </h1>
+            <p className="mt-4 md:text-2xl text-xl leading-8 tracking-normal text-transparent bg-clip-text bg-gradient-to-b from-black to-gray-700 font-semibold">
+              {t('subTitle')}
+            </p>
 
             <p className="mt-7 text-lg leading-8 text-gray-600">
-              {eventData.shortDescription}
+              {t('shortDescription')}
             </p>
 
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              {eventData.longDescription}
+              {t('longDescription')}
             </p>
 
             {/* event actions {Date, Location} */}
             <div className="flex flex-col xl:flex-row text-black font-medium my-7 gap-3">
               <div className="flex">
                 <CalendarDaysIcon className="h-6 w-6 text-gray-500 mr-2" />
-                <p className="text-gray-700">{eventData.date}</p>
+                <p className="text-gray-700">{t('date')}</p>
               </div>
 
               <div className="flex">
                 <MapPinIcon className="h-6 w-6 text-gray-500 mr-2" />
                 <p className="text-gray-700 underline">
-                  <Link href={eventData.locationLink}>
-                    {eventData.location}
-                  </Link>
+                  <Link href={t('locationLink')}>{t('location')}</Link>
                 </p>
               </div>
             </div>
 
             <PillButton
               className="my-6 flex"
-              href={eventData.buttonLink}
-              label={eventData.buttonText}
+              href={t('buttonLink')}
+              label={t('buttonText')}
             />
           </div>
 
