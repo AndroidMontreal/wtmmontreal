@@ -1,24 +1,24 @@
 {
   "title": "Équipe",
-  "description": "L'équipe des femmes Techmakers Montréal est entièrement composée de bénévoles qui pensent que l'autonomisation, les femmes encourageantes et inspirantes dans la technologie est importante.",
+  "description": "L'équipe de Women Techmakers Montréal est entièrement composée de bénévoles qui croient en l'importance de donner aux femmes les moyens de réussir dans le domaine technologique, et qui soutiennent les initiatives en ce sens, dans la technologie et dans d'autres domaines.",
   "organizer": {
-    "title": "Organisateurs",
+    "title": "Organisatrices et Organisateurs",
     "organizers": [
       {
         "name": "Stefania Pecore",
-        "title": "Directeur du développement de l'IA chez Sardo, des femmes de femme Montréal, le chef et l'ambassadeur",
+        "title": "Directrice R&D chez Sardo, ambassadrice et cheffe de WTM MTL",
         "image": "/images/team/stefania.jpg",
         "link": "https://developers.google.com/profile/u/specore"
       },
       {
         "name": "Jihoo Park",
-        "title": "Analyste de données senior @ Warner Bros. Games Montréal | Ambassadeur WTM | Membre du conseil des clients Google BI",
+        "title": "Analyste de données senior @ Warner Bros. Games Montréal | Ambassadrice WTM | Membre du conseil des clients Google BI",
         "image": "/images/team/Jihoo.jpeg",
         "link": "https://developers.google.com/profile/u/109280340170455499902"
       },
       {
         "name": "Leticia Pires",
-        "title": "Data Scientist, étudiant de l'IA, ambassadeur des femmes Techmakers, ambassadeur d'Alura et mentor de Mulheres Em Dados",
+        "title": "Scientifique des données, étudiante en IA, ambassadrice de WTM, Alura et mentor pour Mulheres Em Dados",
         "image": "/images/team/Leti.jpg",
         "link": "https://www.linkedin.com/in/leticia-pires/"
       },
@@ -30,7 +30,7 @@
       },
       {
         "name": "Sofia Guerrero",
-        "title": "Étudiant de l'intelligence artificielle et de l'apprentissage automatique",
+        "title": "Étudiante en IA et apprentissage machine",
         "image": "/images/team/Sofia.jpg",
         "link": "https://www.linkedin.com/in/sofia-guerro-b9613915b/sofia%20Guerrero"
       },
