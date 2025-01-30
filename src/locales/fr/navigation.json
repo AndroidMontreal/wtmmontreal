@@ -1,11 +1,11 @@
 {
   "header": {
-    "buttonText": "Obtenez des billets",
+    "buttonText": "Achetez des billets",
     "buttonLink": "https://wtmmontreal2025.eventbrite.ca",
     "headerNavigation": [
       {
         "href": "/",
-        "label": "Maison"
+        "label": "Accueil"
       },
       {
         "href": "/team",
@@ -13,7 +13,7 @@
       },
       {
         "href": "https://www.papercall.io/wtmmontreal2025",
-        "label": "Appel à des conférenciers",
+        "label": "Devenez conférencière !",
         "newWindow": true
       }
     ]
@@ -23,12 +23,12 @@
     "footerNavigation": [
       {
         "href": "https://www.papercall.io/wtmmontreal2025",
-        "label": "Appel à des conférenciers",
+        "label": "Devenez conférencière !",
         "newWindow": true
       },
       {
-        "href": "mailto:sponsors@wtmmontreal.com?subject=Information about sponsorship",
-        "label": "Obtenez la proposition de parrainage"
+        "href": "mailto:sponsors@wtmmontreal.com?subject=Information pour la proposition de commandite",
+        "label": "Obtenez la proposition de commandite !"
       },
       {
         "href": "/code-of-conduct",

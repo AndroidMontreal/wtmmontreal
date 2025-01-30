@@ -1,13 +1,13 @@
 {
   "title": "Redéfinir possible ",
-  "subTitle": "Journée internationale de la femme 2025",
+  "subTitle": "Journée internationale des droits des femmes 2025",
   "city": "Montréal",
-  "shortDescription": "La Journée internationale de la femme (IWD) est la plus grande campagne annuelle des femmes Techmakers où l'ambassadeur organise et parle lors d'événements du monde entier pendant les mois de mars et avril pour célébrer ce moment.",
-  "longDescription": "Des grands sommets aux petits rassemblements, IWD est le moment d'organiser et de parler lors d'événements qui créent des connexions, éduquer et inspirer votre communauté technologique. ",
+  "shortDescription": "La Journée internationale des droits des femmes (JIF) est la campagne annuelle phare de Women Techmakers (WTM), au cours de laquelle les ambassadrices organisent et partagent leurs connaissances lors d'événements à travers le monde durant les mois de mars et avril pour pour célébrer cette occasion.",
+  "longDescription": "Des grands sommets aux rencontres plus intimistes, WTM célèbre cette journée en favorisant les connexions, en partageant des connaissances et en inspirant votre communauté technologique.",
   "date": "5 avril 2025",
   "location": "Collège de Maisonneuve",
   "locationLink": "#venue",
   "imageUrl": "/images/logo/hero.png",
-  "buttonText": "Obtenez des billets",
+  "buttonText": "Achetez des billets",
   "buttonLink": "https://wtmmontreal2025.eventbrite.ca"
 }
