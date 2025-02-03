@@ -26,12 +26,13 @@ const EventPhotos = () => {
 
       {/*Video Section*/}
       <iframe
-        src={`https://www.youtube.com/embed/${t('videoId')}?autoplay=1&mute=1&loop=1&playlist=${t('videoId')}`}
+        id="ytplayer"
+        src={`https://www.youtube.com/embed/${t('videoId')}?playlist=${t('videoId')}&autoplay=1&mute=1&loop=1&controls=0&showinfo=0`}
         frameBorder="0"
-        allow="autoplay"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         width="1500"
         height="844"
-      />
+        />
 
       <div className="columns-1 gap-6 sm:columns-2 sm:gap-8 md:columns-3 lg:columns-3 [&>img:not(:first-child)]:mt-8 place-items-center place-content-center">
         {photosWithUUIDs.map((eventPhoto) => {
