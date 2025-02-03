@@ -24,24 +24,36 @@ const EventPhotos = () => {
         subTitleClassName="max-w-xl"
       />
 
-      {/*Video Section*/}
-      <iframe
-        id="ytplayer"
-        src={`https://www.youtube.com/embed/${t('videoId')}?playlist=${t('videoId')}&autoplay=1&mute=1&loop=1&controls=0&showinfo=0`}
-        frameBorder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        width="1500"
-        height="844"
-        />
+      {/*/!*Video Section*!/*/}
 
-      <div className="columns-1 gap-6 sm:columns-2 sm:gap-8 md:columns-3 lg:columns-3 [&>img:not(:first-child)]:mt-8 place-items-center place-content-center">
+      <div
+        className={`relative w-full pt-[56.25%] rounded-2xl overflow-hidden`}
+      >
+        <iframe
+          src={`https://www.youtube.com/embed/${t('videoId')}?playlist=${t('videoId')}&autoplay=1&mute=1&loop=1&controls=0&showinfo=0`}
+          className="absolute top-0 left-0 w-full h-full border-0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowFullScreen
+        />
+      </div>
+
+      {/*<iframe*/}
+      {/*  id="ytplayer"*/}
+      {/*  src={`https://www.youtube.com/embed/${t('videoId')}?playlist=${t('videoId')}&autoplay=1&mute=1&loop=1&controls=0&showinfo=0`}*/}
+      {/*  frameBorder="0"*/}
+      {/*  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"*/}
+      {/*  width="1500"*/}
+      {/*  height="844"*/}
+      {/*/>*/}
+
+      <div className="columns-1 gap-5 sm:columns-2 md:columns-3 lg:columns-3 [&>img:not(:first-child)]:mt-5 place-items-center place-content-center">
         {photosWithUUIDs.map((eventPhoto) => {
           return (
             <Image
               key={eventPhoto.uuid}
               src={eventPhoto.image}
               alt={eventPhoto.title}
-              className="rounded-2xl mt-6 bg-white w-auto"
+              className="rounded-2xl mt-5 bg-white w-auto [&:first-child]:mt-0 shadow-lg"
               width={500} // Adjust width as needed
               height={300} // Adjust height as needed
             />
