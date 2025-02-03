@@ -1,7 +1,6 @@
 'use client';
 import Image from 'next/image';
 import logo from '@/public/images/logo/wtm_logo_year_color.svg';
-import anniversary from '@/public/images/logo/anniversary.png';
 import Link from 'next/link';
 import Navbar from '@/components/elements/Navbar';
 import MobileDrawer from '@/components/elements/MobileDrawer';
@@ -9,35 +8,31 @@ import { useState } from 'react';
 import { Bars3Icon } from '@heroicons/react/24/outline';
 import PillButton from '@/components/elements/PillButton';
 import { useTranslations } from 'next-intl';
+import LanguageSwitcher from '@/components/elements/LanguageSwitcher';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const t = useTranslations('navigation.header');
   return (
     <header className="sticky top-0 z-50 mt-0 px-3">
-      <div className="bg-white container mx-auto flex items-center justify-between pt-5">
+      <div className="bg-white container mx-auto flex items-center justify-between pt-3">
         <div className="bg-gray-50 container mx-auto flex items-center justify-between p-5 rounded-2xl shadow">
           {/* Logo and other elements on the left */}
           <div className="flex items-center space-x-3">
             <Link href="/">
               <Image
                 src={logo}
-                width={250}
+                width={350}
                 alt="Women Techmakers 2025 Montreal"
                 priority={true}
               />
             </Link>
-            <Image
-              src={anniversary}
-              width={65}
-              alt="10 Years Anniversary Icon"
-              priority={true}
-            />
           </div>
 
-          <div className="flex flex-row ">
+          <div className="flex flex-row space-x-3">
             {/* Navigation (Desktop) on the right */}
             <Navbar isMobile={false} />
+            <LanguageSwitcher />
             <PillButton
               className="ml-3 hidden md:flex"
               href={t('buttonLink')}

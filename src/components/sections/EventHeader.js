@@ -52,7 +52,7 @@ const EventHeader = () => {
       </div>
 
       {/* Main Content */}
-      <div className="mx-auto max-w-8xl md:pb-48 pt-24  lg:px-8 lg:pt-28">
+      <div className="mx-auto max-w-8xl md:pb-48 pt-10  lg:px-8">
         <div className="mx-auto max-w-2xl gap-x-14 lg:mx-0 md:flex flex-col xl:flex-row lg:max-w-none lg:items-center justify-center 2xl:justify-between">
           {/* Left Content Section */}
           <div className="w-full md:max-w-3xl xl:max-w-lg items-start lg:shrink-0 2xl:max-w-2xl ">
@@ -93,7 +93,6 @@ const EventHeader = () => {
             label={t('buttonText')}
             >
             */}
-            
           </div>
 
           {/* Right Image Grid Section */}
