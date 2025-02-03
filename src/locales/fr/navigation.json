@@ -1,7 +1,7 @@
 {
   "header": {
-    "buttonText": "Achetez des billets",
-    "buttonLink": "https://wtmmontreal2025.eventbrite.ca",
+    "buttonText": "Devenez conférencière !",
+    "buttonLink": "https://www.papercall.io/wtmmontreal2025",
     "headerNavigation": [
       {
         "href": "/",
@@ -10,11 +10,6 @@
       {
         "href": "/team",
         "label": "Équipe"
-      },
-      {
-        "href": "https://www.papercall.io/wtmmontreal2025",
-        "label": "Devenez conférencière !",
-        "newWindow": true
       }
     ]
   },
