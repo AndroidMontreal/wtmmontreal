@@ -1,7 +1,7 @@
 {
   "header": {
-    "buttonText": "Get Tickets",
-    "buttonLink": "https://wtmmontreal2025.eventbrite.ca",
+    "buttonText": "Call for Speakers",
+    "buttonLink": "https://www.papercall.io/wtmmontreal2025",
     "headerNavigation": [
       {
         "href": "/",
@@ -11,11 +11,6 @@
         "href": "/team",
         "label": "Team"
       },
-      {
-        "href": "https://www.papercall.io/wtmmontreal2025",
-        "label": "Call for Speakers",
-        "newWindow": true
-      }
     ]
   },
   "footer": {
