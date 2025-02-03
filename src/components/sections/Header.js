@@ -16,7 +16,7 @@ const Header = () => {
   return (
     <header className="sticky top-0 z-50 mt-0 px-3">
       <div className="bg-white container mx-auto flex items-center justify-between pt-3">
-        <div className="bg-gray-50 container mx-auto flex items-center justify-between p-5 rounded-2xl shadow">
+        <div className="bg-gray-50 container mx-auto flex items-center justify-between p-5 rounded-2xl shadow-md">
           {/* Logo and other elements on the left */}
           <div className="flex items-center space-x-3">
             <Link href="/">

@@ -56,18 +56,18 @@ const EventHeader = () => {
         <div className="mx-auto max-w-2xl gap-x-14 lg:mx-0 md:flex flex-col xl:flex-row lg:max-w-none lg:items-center justify-center 2xl:justify-between">
           {/* Left Content Section */}
           <div className="w-full md:max-w-3xl xl:max-w-lg items-start lg:shrink-0 2xl:max-w-2xl ">
-            <h1 className="md:text-7xl text-5xl leading-[1.3] tracking-normal font-bold text-[#2480F0]">
+            <h1 className="md:text-7xl text-4xl leading-[1.3] tracking-tight font-bold text-[#2480F0]">
               {t('title')}
             </h1>
-            <p className="mt-4 md:text-2xl text-xl leading-8 tracking-normal text-transparent bg-clip-text bg-gradient-to-b from-black to-gray-700 font-semibold">
+            <p className="mt-1 md:mt-3 md:text-2xl text-xl leading-8 tracking-normal text-transparent bg-clip-text bg-gradient-to-b from-black to-gray-700 font-semibold">
               {t('subTitle')}
             </p>
 
-            <p className="mt-7 text-lg leading-8 text-gray-600">
+            <p className="mt-7 md:text-lg leading-7 md:leading-8  text-gray-600">
               {t('shortDescription')}
             </p>
 
-            <p className="mt-6 text-lg leading-8 text-gray-600">
+            <p className="mt-6  md:text-lg leading-7 md:leading-8 text-gray-600">
               {t('longDescription')}
             </p>
 
@@ -105,6 +105,8 @@ const EventHeader = () => {
                   alt="Women Techmakers Montreal 2024 discussion"
                   width={300}
                   height={500}
+                  placeholder="blur"
+                  loading="lazy"
                   className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-xl"
                 />
               </div>
@@ -118,6 +120,8 @@ const EventHeader = () => {
                   alt="Women Techmakers Montreal 2024 panel"
                   width={300}
                   height={500}
+                  placeholder="blur"
+                  loading="lazy"
                   className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-xl"
                 />
               </div>
@@ -127,6 +131,8 @@ const EventHeader = () => {
                   alt="Women Techmakers Montreal 2024 panel"
                   width={300}
                   height={500}
+                  placeholder="blur"
+                  loading="lazy"
                   className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-xl"
                 />
               </div>
@@ -140,6 +146,8 @@ const EventHeader = () => {
                   alt="Women Techmakers Montreal 2024 celebration"
                   width={400}
                   height={500}
+                  placeholder="blur"
+                  loading="lazy"
                   className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-xl"
                 />
               </div>
@@ -149,6 +157,8 @@ const EventHeader = () => {
                   alt="Women Techmakers Montreal 2024 celebration"
                   width={300}
                   height={500}
+                  placeholder="blur"
+                  loading="lazy"
                   className="aspect-[2/3] w-full rounded-xl bg-gray-900/5 object-cover shadow-xl"
                 />
               </div>
