@@ -5,14 +5,13 @@ const withNextIntl = createNextIntlPlugin('./src/i18n/request.js');
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
   reactStrictMode: true,
   images: {
     unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: '**.googleusercontent.com',
+        hostname: '*.googleusercontent.com',
       },
     ],
   },
@@ -20,5 +19,4 @@ const nextConfig = {
     missingSuspenseWithCSRBailout: false,
   },
 };
-
 export default withNextIntl(nextConfig);
