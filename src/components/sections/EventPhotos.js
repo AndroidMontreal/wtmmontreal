@@ -32,6 +32,7 @@ const EventPhotos = () => {
         <iframe
           src={`https://www.youtube.com/embed/${t('videoId')}?playlist=${t('videoId')}&autoplay=1&mute=1&loop=1&controls=0&showinfo=0`}
           className="absolute top-0 left-0 w-full h-full border-0"
+          loading="lazy"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
         />

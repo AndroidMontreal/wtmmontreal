@@ -2,7 +2,16 @@
 @tailwind components;
 @tailwind utilities;
 
+:root {
+    ----font-open-sans: '--font-open-sans';
+}
+
+html {
+    font-family: var(--font-open-sans);
+}
+
+
 .swiper .swiper-pagination-bullet-active {
-  transform: scale(2);
-  transform-origin: center;
+    transform: scale(2);
+    transform-origin: center;
 }

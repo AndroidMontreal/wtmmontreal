@@ -1,8 +1,7 @@
 import Link from 'next/link';
-import { useParams, usePathname, useRouter } from 'next/navigation';
+import { useParams, usePathname } from 'next/navigation';
 import { v4 as uuidv4 } from 'uuid';
 import { useTranslations } from 'next-intl';
-import { useMemo } from 'react';
 
 const Navbar = ({ isMobile }) => {
   const pathname = usePathname();

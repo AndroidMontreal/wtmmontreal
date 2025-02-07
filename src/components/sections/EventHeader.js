@@ -9,6 +9,7 @@ import col2img2 from '@/public/images/eventHeader/woman_techmaker_202405.jpg';
 import col3img1 from '@/public/images/eventHeader/woman_techmaker_202406.jpg';
 import col3img2 from '@/public/images/eventHeader/woman_techmaker_202407.jpg';
 import { useTranslations } from 'next-intl';
+import formatText from '@/lib/formatText';
 
 const EventHeader = () => {
   const t = useTranslations('event');
@@ -52,7 +53,7 @@ const EventHeader = () => {
       </div>
 
       {/* Main Content */}
-      <div className="mx-auto max-w-8xl md:pb-48 pt-10  lg:px-8">
+      <div className="mx-auto max-w-8xl md:pb-20 pt-10  lg:px-8">
         <div className="mx-auto max-w-2xl gap-x-14 lg:mx-0 md:flex flex-col xl:flex-row lg:max-w-none lg:items-center justify-center 2xl:justify-between">
           {/* Left Content Section */}
           <div className="w-full md:max-w-3xl xl:max-w-lg items-start lg:shrink-0 2xl:max-w-2xl ">
@@ -64,11 +65,11 @@ const EventHeader = () => {
             </p>
 
             <p className="mt-7 md:text-lg leading-7 md:leading-8  text-gray-600">
-              {t('shortDescription')}
+              {formatText(t('shortDescription'))}
             </p>
 
             <p className="mt-6  md:text-lg leading-7 md:leading-8 text-gray-600">
-              {t('longDescription')}
+              {formatText(t('longDescription'))}
             </p>
 
             {/* event actions {Date, Location} */}

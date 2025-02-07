@@ -1,5 +1,6 @@
 import Header from '@/components/sections/Header';
 import Footer from '@/components/sections/Footer';
+import { locales } from '@/i18n';
 
 export default function CodeOfConduct() {
   return (
@@ -110,4 +111,8 @@ export default function CodeOfConduct() {
       </p>
     </div>
   );
+}
+
+export function generateStaticParams() {
+  return locales.map((locale) => ({ lang: locale }));
 }

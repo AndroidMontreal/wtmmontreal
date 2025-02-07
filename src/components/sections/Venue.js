@@ -30,7 +30,7 @@ const Venue = () => {
       />
 
       <div className="py-12 grid grid-cols-1 lg:grid-cols-2 gap-8">
-        <div className="relative h-full">
+        <div className="relative h-full rounded-lg overflow-hidden">
           <div className="aspect-video h-full">
             <iframe
               src={t('embededMapLink')}
@@ -67,13 +67,14 @@ const Venue = () => {
             {venueImagesWithUUIDs.map((image, index) => (
               <SwiperSlide
                 key={image.uuid}
-                className="w-full h-[400px] lg:h-full"
+                className="w-full h-[400px] lg:h-full relative"
               >
                 <Image
                   src={image.imagePath}
                   alt={`Venue Image ${index + 1}`}
                   fill
-                  className="rounded-lg "
+                  className="rounded-lg object-cover" // Added object-cover here
+                  sizes="(max-width: 768px) 100vw, 50vw"
                 />
               </SwiperSlide>
             ))}

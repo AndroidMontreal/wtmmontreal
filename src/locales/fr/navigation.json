@@ -14,22 +14,66 @@
     ]
   },
   "footer": {
-    "footerCopyright": "WTM Montréal. Tous droits réservés.",
-    "footerNavigation": [
-      {
-        "href": "https://www.papercall.io/wtmmontreal2025",
-        "label": "Devenez conférencière !",
-        "newWindow": true
-      },
-      {
-        "href": "mailto:sponsors@wtmmontreal.com?subject=Information pour la proposition de commandite",
-        "label": "Obtenez la proposition de commandite !"
-      },
-      {
-        "href": "/code-of-conduct",
-        "label": "Code de conduite"
-      }
-    ],
-    "newsletter": "Abonnez-vous à notre infolettre"
+    "description": "Women Techmakers est un programme créé par Google pour célébrer la Journée internationale de la femme et mettre en valeur le talent des femmes dans la technologie.",
+    "copyrightTitle": "WTM Montréal. Tous droits réservés.",
+    "pastEvents": {
+      "title": "Événements précédents",
+      "eventLinks": [
+        {
+          "href": "https://wtm2023.gdgmontreal.com/",
+          "label": "WTM Montréal 2023",
+          "newWindow": true
+        },
+        {
+          "href": "https://wtmmontreal2022.firebaseapp.com/",
+          "label": "WTM Montréal 2022",
+          "newWindow": true
+        },
+        {
+          "href": "https://wtmmontreal-2021.firebaseapp.com/",
+          "label": "WTM Montréal 2021",
+          "newWindow": true
+        },
+        {
+          "href": "https://wtmmontreal-2020.firebaseapp.com/",
+          "label": "WTM Montréal 2020",
+          "newWindow": true
+        },
+        {
+          "href": "https://wtmmontreal-2019.firebaseapp.com/",
+          "label": "WTM Montréal 2019",
+          "newWindow": true
+        },
+        {
+          "href": "https://wtmmontreal-2018.firebaseapp.com/",
+          "label": "WTM Montréal 2018",
+          "newWindow": true
+        }
+      ]
+    },
+    "quickLinks": {
+      "title": "Liens rapides",
+      "links": [
+        {
+          "href": "https://www.papercall.io/wtmmontreal2025",
+          "label": "Devenez conférencière !",
+          "newWindow": true
+        },
+        {
+          "href": "mailto:sponsors@wtmmontreal.com?subject=Information pour la proposition de commandite",
+          "label": "Obtenez la proposition de commandite !"
+        },
+        {
+          "href": "/code-of-conduct",
+          "label": "Code de conduite"
+        }
+      ]
+    },
+    "newsletter": {
+      "title": "Restez connecté",
+      "buttonText": "S'abonner",
+      "href": "https://wtmmontreal.us12.list-manage.com/subscribe?u=d1707279f0dde7f68a6f98ab0&id=35def8d91c",
+      "description": "Recevez les dernières informations et mises à jour directement dans votre boîte de réception. Pas de spam, seulement les dernières nouvelles et mises à jour !"
+    }
   }
 }

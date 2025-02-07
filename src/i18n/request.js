@@ -6,6 +6,7 @@ import { defaultLocale, locales } from '@/i18n/index';
 export const namespaces = [
   'navigation',
   'event',
+  'about',
   'eventPhoto',
   'sponsor',
   'partner',

@@ -15,6 +15,7 @@ const openSans = Open_Sans({
   style: 'normal', // or italic
   subsets: ['latin'],
   display: 'swap',
+  variable: '--font-open-sans',
 });
 
 export async function generateMetadata({ params: { lang } }) {
@@ -34,8 +35,8 @@ export default async function RootLayout({ children, params: { lang } }) {
   }
 
   return (
-    <html lang={lang}>
-      <body className={openSans.className}>
+    <html lang={lang} className={openSans.className}>
+      <body>
         <NextIntlClientProvider
           locale={lang}
           timeZone="UTC"

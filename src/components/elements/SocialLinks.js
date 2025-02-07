@@ -50,7 +50,7 @@ export default function SocialLinks() {
         <a
           key={link.label}
           href={link.href}
-          className="hover:text-gray-400 text-gray-200"
+          className="hover:text-gray-200 text-gray-400"
         >
           <span className="sr-only">{link.label}</span>
           <link.icon className="w-5 h-5" />

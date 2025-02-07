@@ -9,17 +9,20 @@ import { Bars3Icon } from '@heroicons/react/24/outline';
 import PillButton from '@/components/elements/PillButton';
 import { useTranslations } from 'next-intl';
 import LanguageSwitcher from '@/components/elements/LanguageSwitcher';
+import { useParams, usePathname, useRouter } from 'next/navigation';
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
   const t = useTranslations('navigation.header');
+  const { lang } = useParams();
+
   return (
     <header className="sticky top-0 z-50 mt-0 px-3">
       <div className="bg-white container mx-auto flex items-center justify-between pt-3">
         <div className="bg-gray-50 container mx-auto flex items-center justify-between p-5 rounded-2xl shadow-md">
           {/* Logo and other elements on the left */}
           <div className="flex items-center space-x-3">
-            <Link href="/">
+            <Link href={`/${lang}`}>
               <Image
                 src={logo}
                 width={350}

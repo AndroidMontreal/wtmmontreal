@@ -14,22 +14,67 @@
     ]
   },
   "footer": {
-    "footerCopyright": "WTM Montreal. All rights reserved.",
-    "footerNavigation": [
-      {
-        "href": "https://www.papercall.io/wtmmontreal2025",
-        "label": "Call for Speakers",
-        "newWindow": true
-      },
-      {
-        "href": "mailto:sponsors@wtmmontreal.com?subject=Information about sponsorship",
-        "label": "Get Sponsorship Proposal"
-      },
-      {
-        "href": "/code-of-conduct",
-        "label": "Code of Conduct"
-      }
-    ],
-    "newsletter": "Subscribe to our newsletter"
+    "description": "Women Techmakers is a program created by Google to celebrate International Women's Day and to highlight the talent of women in technology.",
+    "copyrightTitle": "WTM Montreal. All rights reserved.",
+    "pastEvents": {
+      "title": "Explore Past WTM Events",
+      "eventLinks": [
+        {
+          "href": "https://wtm2023.gdgmontreal.com/",
+          "label": "WTM Montreal 2023",
+          "newWindow": true
+        },
+        {
+          "href": "https://wtmmontreal2022.firebaseapp.com/",
+          "label": "WTM Montreal 2022",
+          "newWindow": true
+        },
+        {
+          "href": "https://wtmmontreal-2021.firebaseapp.com/",
+          "label": "WTM Montreal 2021",
+          "newWindow": true
+        },
+        {
+          "href": "https://wtmmontreal-2020.firebaseapp.com/",
+          "label": "WTM Montreal 2020",
+          "newWindow": true
+        },
+        {
+          "href": "https://wtmmontreal-2019.firebaseapp.com/",
+          "label": "WTM Montreal 2019",
+          "newWindow": true
+        },
+        {
+          "href": "https://wtmmontreal-2018.firebaseapp.com/",
+          "label": "WTM Montreal 2018",
+          "newWindow": true
+        }
+      ]
+    },
+    "quickLinks": {
+      "title": "Quick Links",
+      "links": [
+        {
+          "href": "https://www.papercall.io/wtmmontreal2025",
+          "label": "Call for Speakers",
+          "newWindow": true
+        },
+        {
+          "href": "mailto:sponsors@wtmmontreal.com?subject=Information about sponsorship",
+          "label": "Get Sponsorship Proposal",
+          "newWindow": true
+        },
+        {
+          "href": "/code-of-conduct",
+          "label": "Code of Conduct"
+        }
+      ]
+    },
+    "newsletter": {
+      "title": "Stay Connected",
+      "buttonText": "Subscribe",
+      "href": "https://wtmmontreal.us12.list-manage.com/subscribe?u=d1707279f0dde7f68a6f98ab0&id=35def8d91c",
+      "description": "Get the latest insights and updates delivered straight to your inbox. No spam, only the latest news and updates!"
+    }
   }
 }

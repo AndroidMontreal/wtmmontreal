@@ -5,17 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c94189e5-5657-4e02-be2d-51c766fcc41f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/nextjs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/nextjs.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo/wtm_logo_year_footer_2025.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/sections/EventAbout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/formatText.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/en/about.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/fr/about.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/eventHeader/woman_techmaker_202401.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/eventHeader/woman_techmaker_202401.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/eventHeader/woman_techmaker_202402.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/eventHeader/woman_techmaker_202402.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/eventHeader/woman_techmaker_202405.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/eventHeader/woman_techmaker_202405.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/eventHeader/woman_techmaker_202406.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/eventHeader/woman_techmaker_202406.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/eventHeader/woman_techmaker_202407.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/eventHeader/woman_techmaker_202407.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/logo/wtm_logo_year_mono_2025.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[lang]/code-of-conduct/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/code-of-conduct/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[lang]/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[lang]/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/elements/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/elements/SocialLinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/SocialLinks.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/sections/EventHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/EventHeader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/sections/EventPhotos.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/EventPhotos.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Footer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/sections/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/Venue.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Venue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/i18n/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/i18n/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/event.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/event.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/navigation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/navigation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/fr/navigation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/navigation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,18 +48,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Solankimimoh"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Solankimimoh&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:AndroidMontreal/wtmmontreal.git",
-    "accountId": "e6ea50a2-429e-4942-9a15-a5d2c0ca483c"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:AndroidMontreal/wtmmontreal.git&quot;,
+    &quot;accountId&quot;: &quot;e6ea50a2-429e-4942-9a15-a5d2c0ca483c&quot;
   }
-}]]></component>
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -97,7 +110,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
       </set>
     </attachedChunks>
   </component>
@@ -144,7 +157,11 @@
       <workItem from="1738267200984" duration="8806000" />
       <workItem from="1738462685642" duration="3568000" />
       <workItem from="1738473109723" duration="1425000" />
-      <workItem from="1738553317517" duration="11351000" />
+      <workItem from="1738553317517" duration="12330000" />
+      <workItem from="1738689391526" duration="6255000" />
+      <workItem from="1738792950269" duration="11799000" />
+      <workItem from="1738860734716" duration="31000" />
+      <workItem from="1738860849196" duration="13060000" />
     </task>
     <servers />
   </component>
