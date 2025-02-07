@@ -5,10 +5,28 @@
     "title": "Organisatrices et Organisateurs",
     "organizers": [
       {
-        "name": "Stefania Pecore",
-        "title": "Directrice R&D chez Sardo, ambassadrice et cheffe de WTM MTL",
+        "name": "Stefania Pecòre",
+        "title": "Executive Director at Women Techmakers Montréal",
         "image": "/images/team/stefania.jpg",
         "link": "https://developers.google.com/profile/u/specore"
+      },
+      {
+        "name": "Brigitte Couture",
+        "title": "Étudiante en développement d’application mobile, Consultante en gouvernance et gestion pour les OSBL",
+        "image": "/images/team/placeholder.png",
+        "link": "https://www.linkedin.com"
+      },
+      {
+        "name": "Camila Henrique",
+        "title": "Reporting Specialist at GameAddik. Women Techmakers Ambassador",
+        "image": "/images/team/Camila.jpeg",
+        "link": "https://www.linkedin.com/in/camila-henrique-santos/"
+      },
+      {
+        "name": "Denny Perez",
+        "title": "Analyste en Assurance Qualité. Ambassadrice WTM",
+        "image": "/images/team/denny.png",
+        "link": "https://www.linkedin.com/in/dennyperez18/"
       },
       {
         "name": "Jihoo Park",
@@ -23,14 +41,14 @@
         "link": "https://www.linkedin.com/in/leticia-pires/"
       },
       {
-        "name": "Saleem Yadav",
+        "name": "Salee Yadav",
         "title": "Data analyste",
         "image": "/images/team/Saleem.jpg",
         "link": "https://www.linkedin.com/in/saleem-yadav-03271116b/"
       },
       {
-        "name": "Sofia Guerrero",
-        "title": "Étudiante en IA et apprentissage machine",
+        "name": "Sofia Guego",
+        "title": "Jr. Knowledge Graph Architect | Google Women Techmakers Ambassador",
         "image": "/images/team/Sofia.jpg",
         "link": "https://www.linkedin.com/in/sofia-guerro-b9613915b/sofia%20Guerrero"
       },
@@ -52,21 +70,9 @@
     "title": "Bénévoles",
     "volunteers": [
       {
-        "name": "Anureet Kaur",
-        "title": "",
-        "image": "/images/team/volunteers/Anureet_Kaur.jpeg",
-        "link": ""
-      },
-      {
         "name": "Cecilia",
         "title": "",
         "image": "/images/team/volunteers/Cecilia.jpg",
-        "link": ""
-      },
-      {
-        "name": "Jacqueline",
-        "title": "",
-        "image": "/images/team/volunteers/Jacqueline.JPG",
         "link": ""
       },
       {

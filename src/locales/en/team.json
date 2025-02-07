@@ -5,14 +5,32 @@
     "title": "Organizers",
     "organizers": [
       {
-        "name": "Stefania Pecore",
-        "title": "Director of AI development at Sardo, WomenTechmakers Montréal lead and ambassador",
+        "name": "Stefania Pecòre",
+        "title": "Executive Director at Women Techmakers Montréal",
         "image": "/images/team/stefania.jpg",
         "link": "https://developers.google.com/profile/u/specore"
       },
       {
+        "name": "Brigitte Couture",
+        "title": "Mobile app development student, Non-profit organization governance and management consultant",
+        "image": "/images/team/placeholder.png",
+        "link": "https://www.linkedin.com"
+      },
+      {
+        "name": "Camila Henrique",
+        "title": "Reporting Specialist at GameAddik. Women Techmakers Ambassador",
+        "image": "/images/team/Camila.jpeg",
+        "link": "https://www.linkedin.com/in/camila-henrique-santos/"
+      },
+      {
+        "name": "Denny Perez",
+        "title": "Software QA Analyst. Women Techmakers Ambassador",
+        "image": "/images/team/denny.png",
+        "link": "https://www.linkedin.com/in/dennyperez18/"
+      },
+      {
         "name": "Jihoo Park",
-        "title": "Senior Data Analyst @ Warner Bros. Games Montreal | WTM ambassador | Google BI customer Council Member",
+        "title": "Analyste de données senior @ Warner Bros. Games Montréal | Ambassadrice WTM | Membre du conseil des clients Google BI",
         "image": "/images/team/Jihoo.jpeg",
         "link": "https://developers.google.com/profile/u/109280340170455499902"
       },
@@ -23,14 +41,14 @@
         "link": "https://www.linkedin.com/in/leticia-pires/"
       },
       {
-        "name": "Saleem Yadav",
+        "name": "Salee Yadav",
         "title": "Data Analyst",
         "image": "/images/team/Saleem.jpg",
         "link": "https://www.linkedin.com/in/saleem-yadav-03271116b/"
       },
       {
-        "name": "Sofia Guerrero",
-        "title": "Artificial Intelligence and Machine Learning Student",
+        "name": "Sofia Guego",
+        "title": "Jr. Knowledge Graph Architect | Google Women Techmakers Ambassador",
         "image": "/images/team/Sofia.jpg",
         "link": "https://www.linkedin.com/in/sofia-guerrero-b9613915b/Sofia%20Guerrero"
       },
@@ -52,21 +70,9 @@
     "title": "Volunteers",
     "volunteers": [
       {
-        "name": "Anureet Kaur",
-        "title": "",
-        "image": "/images/team/volunteers/Anureet_Kaur.jpeg",
-        "link": ""
-      },
-      {
         "name": "Cecilia",
         "title": "",
         "image": "/images/team/volunteers/Cecilia.jpg",
-        "link": ""
-      },
-      {
-        "name": "Jacqueline",
-        "title": "",
-        "image": "/images/team/volunteers/Jacqueline.JPG",
         "link": ""
       },
       {
