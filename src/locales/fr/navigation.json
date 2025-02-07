@@ -53,6 +53,11 @@
           "href": "https://wtmmontreal-2018.firebaseapp.com/",
           "label": "WTM Montréal 2018",
           "newWindow": true
+        },
+        {
+          "href": "https://ldev6.github.io/",
+          "label": "WTM Montréal 2017",
+          "newWindow": true
         }
       ]
     },
