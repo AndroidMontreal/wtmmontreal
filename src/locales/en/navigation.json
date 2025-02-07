@@ -20,6 +20,11 @@
       "title": "Explore Past WTM Events",
       "eventLinks": [
         {
+          "href": "https://wtm2024.gdgmontreal.com/",
+          "label": "WTM Montreal 2024",
+          "newWindow": true
+        },
+        {
           "href": "https://wtm2023.gdgmontreal.com/",
           "label": "WTM Montreal 2023",
           "newWindow": true
