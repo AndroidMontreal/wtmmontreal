@@ -11,8 +11,14 @@
         "link": "https://developers.google.com/profile/u/specore"
       },
       {
+        "name": "Carolina Torres Restrepo",
+        "title": "Configuration and Data Management Analyst at MDA Space | Google Women Techmakers Ambassador",
+        "image": "/images/team/carolina.png",
+        "link": " https://www.linkedin.com/in/carolinatorresrestrepo/"
+      },
+      {
         "name": "Brigitte Couture",
-        "title": "Mobile app development student, Non-profit organization governance and management consultant",
+        "title": "Mobile app development student, Non-profit organizations governance and management consultant",
         "image": "/images/team/placeholder.png",
         "link": "https://www.linkedin.com"
       },
@@ -24,13 +30,13 @@
       },
       {
         "name": "Denny Perez",
-        "title": "Software QA Analyst. Women Techmakers Ambassador",
+        "title": "Software QA Analyst at Nventive Women Techmakers Ambassador",
         "image": "/images/team/denny.png",
         "link": "https://www.linkedin.com/in/dennyperez18/"
       },
       {
         "name": "Jihoo Park",
-        "title": "Analyste de données senior @ Warner Bros. Games Montréal | Ambassadrice WTM | Membre du conseil des clients Google BI",
+        "title": "Senior Data Analyst @ Warner Bros. Games Montreal | WTM Ambassador | Member of the Google BI Customer Council",
         "image": "/images/team/Jihoo.jpeg",
         "link": "https://developers.google.com/profile/u/109280340170455499902"
       },
@@ -60,7 +66,7 @@
       },
       {
         "name": "Mimoh Solanki",
-        "title": "Full Stack Developer | GDG Organizer",
+        "title": "Full Stack Developer | GDG Montreal Organizer | WTM Montreal Organizer",
         "image": "/images/team/mimoh.jpg",
         "link": "https://www.linkedin.com/in/mimohsolanki/"
       }
@@ -71,9 +77,9 @@
     "volunteers": [
       {
         "name": "Cecilia",
-        "title": "",
+        "title": "Batch Manager at Le Wagon Latam | Women Techmakers Ambassador",
         "image": "/images/team/volunteers/Cecilia.jpg",
-        "link": ""
+        "link": "https://www.linkedin.com/in/cecilia-ramallo/"
       },
       {
         "name": "Sahil Patel",

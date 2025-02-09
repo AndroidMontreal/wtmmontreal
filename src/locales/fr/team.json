@@ -6,9 +6,15 @@
     "organizers": [
       {
         "name": "Stefania Pecòre",
-        "title": "Executive Director at Women Techmakers Montréal",
+        "title": "Directrice générale de Women Techmakers Montréal",
         "image": "/images/team/stefania.jpg",
         "link": "https://developers.google.com/profile/u/specore"
+      },
+      {
+        "name": "Carolina Torres Restrepo",
+        "title": "Analyste de la gestion des données et de la configuration chez MDA Space | Google Women Techmakers Ambassador",
+        "image": "/images/team/carolina.png",
+        "link": " https://www.linkedin.com/in/carolinatorresrestrepo/"
       },
       {
         "name": "Brigitte Couture",
@@ -18,13 +24,13 @@
       },
       {
         "name": "Camila Henrique",
-        "title": "Reporting Specialist at GameAddik. Women Techmakers Ambassador",
+        "title": "Spécialiste des rapports chez GameAddik | Ambassadrice de Women Techmakers",
         "image": "/images/team/Camila.jpeg",
         "link": "https://www.linkedin.com/in/camila-henrique-santos/"
       },
       {
         "name": "Denny Perez",
-        "title": "Analyste en Assurance Qualité. Ambassadrice WTM",
+        "title": " Analyste en Assurance Qualité à Nventive | Ambassadrice WTM",
         "image": "/images/team/denny.png",
         "link": "https://www.linkedin.com/in/dennyperez18/"
       },
@@ -48,7 +54,7 @@
       },
       {
         "name": "Sofia Guego",
-        "title": "Jr. Knowledge Graph Architect | Google Women Techmakers Ambassador",
+        "title": "Jr. Knowledge Graph Architect | Ambassadrice de Google Women Techmakers",
         "image": "/images/team/Sofia.jpg",
         "link": "https://www.linkedin.com/in/sofia-guerro-b9613915b/sofia%20Guerrero"
       },
@@ -60,7 +66,7 @@
       },
       {
         "name": "Mimoh Solanki",
-        "title": "Développeur Full Stack | Organisateur GDG",
+        "title": "Développeur Full Stack | GDG Montréal Organizer | WTM Montreal Organizer ",
         "image": "/images/team/mimoh.jpg",
         "link": "https://www.linkedin.com/in/mimohsolanki/"
       }
@@ -71,9 +77,9 @@
     "volunteers": [
       {
         "name": "Cecilia",
-        "title": "",
+        "title": "Chef de lot chez Le Wagon Latam | Ambassadrice des femmes Techmakers",
         "image": "/images/team/volunteers/Cecilia.jpg",
-        "link": ""
+        "link": "https://www.linkedin.com/in/cecilia-ramallo/"
       },
       {
         "name": "Sahil Patel",

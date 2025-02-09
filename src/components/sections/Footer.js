@@ -52,16 +52,14 @@ const Footer = () => {
           </div>
 
           {/* Column 2: Previous Years Event */}
-          <div className="space-y-4 px-2 ">
-            <h3 className="text-lg font-semibold tracking-normal">
-              {t('pastEvents.title')}
-            </h3>
-            <ul className="space-y-2 ">
+          <div className="space-y-2 px-2">
+            <h3 className="text-md tracking-normal">{t('pastEvents.title')}</h3>
+            <ul className="space-y-1">
               {pastEventLinkWithUUIDs.map((link) => (
                 <li key={link.uuid}>
                   <Link
                     href={link.href}
-                    className="text-gray-400 hover:text-gray-300 transition-colors"
+                    className="text-sm text-gray-400 hover:text-gray-300 transition-colors"
                     target={link.newWindow ? '_blank' : '_self'}
                     rel={link.newWindow ? 'noopener noreferrer' : undefined}
                   >
@@ -73,17 +71,15 @@ const Footer = () => {
           </div>
 
           {/* Column 3: Quick Links */}
-          <div className="space-y-4 px-2 ">
-            <h3 className="text-lg font-semibold tracking-normal">
-              {t('quickLinks.title')}
-            </h3>
-            <ul className="space-y-2">
+          <div className="space-y-2 px-2">
+            <h3 className="text-md tracking-normal">{t('quickLinks.title')}</h3>
+            <ul className="space-y-1">
               {quickLinksWithUUIDs.map((link) => (
                 <li key={link.uuid}>
                   <Link
                     key={link.uuid}
                     href={link.newWindow ? link.href : `/${lang}${link.href}`}
-                    className="text-gray-400 hover:text-gray-300 transition-colors"
+                    className="text-sm text-gray-400 hover:text-gray-300 transition-colors"
                     target={link.newWindow ? '_blank' : '_self'}
                     rel={link.newWindow ? 'noopener noreferrer' : undefined}
                   >
@@ -95,13 +91,13 @@ const Footer = () => {
           </div>
 
           {/* Column 4: Subscribe */}
-          <div className="space-y-6 px-2 ">
-            <div className="space-y-4">
-              <h3 className="text-lg font-semibold">{t('newsletter.title')}</h3>
-              <p className="text-sm text-gray-400 leading-normal pt-1 mb-2">
+          <div className="space-y-2 px-2">
+            <div className="space-y-2">
+              <h3 className="text-md">{t('newsletter.title')}</h3>
+              <p className="text-sm text-gray-400 leading-normal mb-2">
                 {t('newsletter.description')}
               </p>
-              <div className="pt-3">
+              <div className="pt-2">
                 <Link
                   href={t('newsletter.href')}
                   aria-label={t('newsletter.title')}
