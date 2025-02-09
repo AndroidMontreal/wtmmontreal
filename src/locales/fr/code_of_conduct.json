@@ -1,0 +1,48 @@
+{
+  "title": "Code de conduite",
+  "whyPolicy": "Pourquoi avons-nous une politique anti-harcèlement officielle pour les événements WTM Montréal ?",
+  "policyReasons": [
+    "Elle établit des attentes claires concernant le comportement lors de l'événement. Le simple fait d'avoir une politique anti-harcèlement peut prévenir le harcèlement.",
+    "Elle encourage la participation des personnes ayant vécu de mauvaises expériences lors d'autres événements.",
+    "Elle fournit au personnel et aux bénévoles de l'événement des directives pour gérer rapidement les situations de harcèlement, en minimisant les perturbations pendant l'événement."
+  ],
+  "dedicationIntro": "WTM Montréal Android s'engage à offrir une expérience sans harcèlement pour tous les participants, sans égard à :",
+  "protectedCharacteristics": [
+    "genre",
+    "orientation sexuelle",
+    "handicap",
+    "identité de genre",
+    "âge",
+    "origine ethnique",
+    "religion",
+    "nationalité"
+  ],
+  "notExhaustive": "Cette liste n'est pas exhaustive - nous ne tolérons aucune forme de harcèlement envers les participants à l'événement.",
+  "sexualContent": "Le langage et les images à caractère sexuel ne sont pas appropriés dans aucun lieu de l'événement, y compris lors des présentations. Les participants qui ne respectent pas ces règles pourront être expulsés de l'événement, voire bannis des futurs événements, à la discrétion des organisateurs.",
+  "harassmentIntro": "Le harcèlement inclut, sans s'y limiter :",
+  "harassmentExamples": [
+    "Les commentaires offensants liés au genre, à l'orientation sexuelle, au handicap, à l'identité de genre, à l'âge, à l'origine ethnique ou à la religion",
+    "L'utilisation ou l'affichage d'images à caractère sexuel dans les espaces publics",
+    "L'intimidation délibérée",
+    "La traque ou le harcèlement",
+    "La prise de photos ou l'enregistrement harcelant",
+    "L'interruption prolongée des présentations ou d'autres événements",
+    "Les contacts physiques inappropriés",
+    "Les attentions sexuelles non désirées"
+  ],
+  "complianceNote": "Les participants à qui l'on demande de cesser tout comportement harcelant doivent obtempérer immédiatement.",
+  "exhibitorsNote": "Les partenaires exposants et les conférenciers invités sont également soumis à la politique anti-harcèlement. En particulier, ils ne doivent pas utiliser d'images, d'activités ou de matériel à caractère sexuel, ni créer un environnement sexualisé dans leurs présentations, leur matériel d'exposition, leur personnel, leurs articles promotionnels ou leur matériel de démonstration.",
+  "reportingInfo": "Si vous êtes victime de harcèlement, si vous remarquez que quelqu'un d'autre est harcelé ou si vous avez d'autres préoccupations, veuillez contacter immédiatement un organisateur ou un bénévole de l'événement. Les organisateurs et les bénévoles sont identifiables par leurs t-shirts ou leurs badges/cordons spéciaux. Les organisateurs examineront la situation et prendront les mesures appropriées. Cela peut inclure l'aide aux participants pour contacter la sécurité du lieu ou les forces de l'ordre locales, fournir des escortes ou aider de toute autre manière les personnes victimes de harcèlement à se sentir en sécurité pendant toute la durée de l'événement.",
+  "contacts": {
+    "title": "Contacts :",
+    "emails": [
+      "info@wtmmontreal.com",
+      "stefania@wtmmontreal.com"
+    ]
+  },
+  "conclusion": "Bien que nous espérons ne jamais avoir à invoquer cette politique, nous croyons que ce document aide chacun à réfléchir davantage à l'impact de ses actions et de ses paroles sur l'ensemble de la communauté, ainsi que sur les individus qui la composent.",
+  "license": {
+    "title": "Licence et attribution",
+    "text": "Cette politique est publiée sous la licence Creative Commons Zero. Cette politique est basée sur plusieurs autres politiques, notamment la politique anti-harcèlement de l'Ohio LinuxFest, rédigée par Esther Filderman et Beth Lynn Eicher, et le projet Con Anti-Harassment. Mary Gardiner, Valerie Aurora, Sarah Smith et Donna Benjamin ont généralisé les politiques et ajouté du matériel de soutien. De nombreux membres de LinuxChix, Geek Feminism et d'autres groupes ont contribué à ce travail."
+  }
+}

@@ -1,4 +1,3 @@
-// src/i18n/request.js
 import { getRequestConfig } from 'next-intl/server';
 import { defaultLocale, locales } from '@/i18n/index';
 
@@ -12,6 +11,7 @@ export const namespaces = [
   'partner',
   'venue',
   'team',
+  'code_of_conduct',
 ];
 
 export async function loadTranslations(locale, namespaces) {
