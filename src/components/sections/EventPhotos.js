@@ -35,6 +35,7 @@ const EventPhotos = () => {
           loading="lazy"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
+          title="WTM 2024 Event Highlights"
         />
       </div>
 

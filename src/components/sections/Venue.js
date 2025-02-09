@@ -9,6 +9,7 @@ import { Autoplay, Navigation, Pagination } from 'swiper/modules';
 import TitleWithSubtitle from '@/components/elements/TitleWithSubtitle';
 import { v4 as uuidv4 } from 'uuid';
 import { useTranslations } from 'next-intl';
+import Link from 'next/link';
 
 const Venue = () => {
   const t = useTranslations('venue');
@@ -21,7 +22,7 @@ const Venue = () => {
     }));
 
   return (
-    <section id="venue" className="container mx-auto px-4 py-12">
+    <section id="venue" className="container mx-auto py-12">
       <TitleWithSubtitle
         title={t('title')}
         subTitle={t('description')}
@@ -44,12 +45,20 @@ const Venue = () => {
             ></iframe>
           </div>
           <div className="absolute bottom-2 left-2 bg-white p-2 rounded-md shadow-md">
-            <Image
-              src={t('logo')}
-              alt={`${t('name')} logo`}
-              width={250}
-              height={50}
-            />
+            <Link
+              href={t('href')}
+              target="_blank"
+              rel="noopener noreferrer"
+              aria-label={t('name')}
+            >
+              <Image
+                src={t('logo')}
+                alt={t('name')}
+                width={250}
+                height={50}
+                className="w-[120px] sm:w-[150px] md:w-[180px] h-auto"
+              />
+            </Link>
           </div>
         </div>
         {/* Right Column (Swiper Slider) */}

@@ -31,7 +31,7 @@ const Footer = () => {
       <div className="container mx-auto px-6">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 lg:place-items-start lg:justify-items-center">
           {/* Column 1: Logo, Description and Social */}
-          <div className="space-y-4 px-2 ">
+          <div className="space-y-4 md:px-2 ">
             <Link href={`/${lang}`}>
               <Image
                 src={logo}
@@ -52,7 +52,7 @@ const Footer = () => {
           </div>
 
           {/* Column 2: Previous Years Event */}
-          <div className="space-y-2 px-2">
+          <div className="space-y-2 md:px-2">
             <h3 className="text-md tracking-normal">{t('pastEvents.title')}</h3>
             <ul className="space-y-1">
               {pastEventLinkWithUUIDs.map((link) => (
@@ -71,7 +71,7 @@ const Footer = () => {
           </div>
 
           {/* Column 3: Quick Links */}
-          <div className="space-y-2 px-2">
+          <div className="space-y-2 md:px-2">
             <h3 className="text-md tracking-normal">{t('quickLinks.title')}</h3>
             <ul className="space-y-1">
               {quickLinksWithUUIDs.map((link) => (
@@ -91,7 +91,7 @@ const Footer = () => {
           </div>
 
           {/* Column 4: Subscribe */}
-          <div className="space-y-2 px-2">
+          <div className="space-y-2 md:px-2">
             <div className="space-y-2">
               <h3 className="text-md">{t('newsletter.title')}</h3>
               <p className="text-sm text-gray-400 leading-normal mb-2">
