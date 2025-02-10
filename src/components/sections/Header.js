@@ -37,14 +37,14 @@ const Header = () => {
             <Navbar isMobile={false} />
             <LanguageSwitcher />
             <PillButton
-              className="ml-3 hidden md:flex"
+              className="ml-3 hidden lg:flex"
               href={t('buttonLink')}
               label={t('buttonText')}
             />
           </div>
           {/* Hamburger Menu (Mobile) */}
           <button
-            className="md:hidden text-gray-800 hover:text-black focus:outline-none p-2 hover:bg-gray-200 rounded-full"
+            className="lg:hidden text-gray-800 hover:text-black focus:outline-none p-2 hover:bg-gray-200 rounded-full"
             onClick={() => setIsMenuOpen(true)}
             role="button"
             aria-label="menu"

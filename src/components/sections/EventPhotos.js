@@ -16,7 +16,7 @@ const EventPhotos = () => {
     }));
 
   return (
-    <div className="flex flex-col gap-6 text-center items-center justify-center my-10">
+    <div className="flex flex-col gap-3 md:gap-6 text-center items-center justify-center my-10">
       <TitleWithSubtitle
         title={t('title')}
         subTitle={t('description')}
@@ -39,14 +39,14 @@ const EventPhotos = () => {
         />
       </div>
 
-      <div className="columns-1 gap-6 sm:columns-2 md:columns-3 lg:columns-3 [&>img:not(:first-child)]:mt-6 place-items-center place-content-center">
+      <div className="columns-1 gap-3 md:gap-6 sm:columns-2 md:columns-3 lg:columns-3 md:[&>img:not(:first-child)]:mt-6 place-items-center place-content-center">
         {photosWithUUIDs.map((eventPhoto) => {
           return (
             <Image
               key={eventPhoto.uuid}
               src={eventPhoto.image}
               alt={eventPhoto.title}
-              className="rounded-2xl mt-6 bg-white w-auto [&:first-child]:mt-0 shadow-lg"
+              className="rounded-2xl mt-4 md:mt-6 bg-white w-auto [&:first-child]:mt-0 shadow-lg"
               width={500} // Adjust width as needed
               height={300} // Adjust height as needed
             />

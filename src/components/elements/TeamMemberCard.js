@@ -11,7 +11,6 @@ const TeamMemberCard = ({ member }) => {
     >
       <div className="flex flex-col">
         <div className="relative aspect-square overflow-hidden rounded-2xl shadow-xl hover:shadow-2xl transition-shadow duration-300">
-          {' '}
           {/* Fixed aspect ratio container */}
           <Image
             src={member.image}

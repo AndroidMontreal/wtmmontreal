@@ -3,12 +3,12 @@ import '@/styles/globals.css';
 import { Open_Sans } from 'next/font/google';
 import Header from '@/components/sections/Header';
 import Footer from '@/components/sections/Footer';
-import { notFound } from 'next/navigation';
 import { NextIntlClientProvider } from 'next-intl';
 import { locales } from '@/i18n';
 import { loadTranslations, namespaces } from '@/i18n/request';
-import { generatePageMetadata } from '@/lib/metadata';
+import { getPageMetadata } from '@/lib/metadata';
 import { setRequestLocale } from 'next-intl/server';
+import { notFound } from 'next/navigation';
 
 const openSans = Open_Sans({
   weight: ['400', '700'], // Include the font weights you'll use
@@ -19,7 +19,7 @@ const openSans = Open_Sans({
 });
 
 export async function generateMetadata({ params: { lang } }) {
-  return generatePageMetadata(lang); // Pass the necessary data
+  return getPageMetadata(lang, 'site'); // Pass the page key!
 }
 
 export default async function RootLayout({ children, params: { lang } }) {

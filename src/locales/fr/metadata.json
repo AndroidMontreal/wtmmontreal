@@ -1,4 +1,22 @@
 {
-  "title": "Women Techmakers Montréal 2025 | ",
-  "description": "Une conférence mettant en valeur des femmes talentueuses et passionnées, renforçant la visibilité de la communauté technologique de Montréal et encourageant les femmes à prendre leur place en technologie."
+  "site": {
+    "title": "Women Techmakers Montréal 2025 | GDG Montréal | WTM Montréal | Flutter Montréal",
+    "description": "Une conférence mettant en valeur des femmes talentueuses et passionnées, renforçant la visibilité de la communauté technologique de Montréal et encourageant les femmes à prendre leur place en technologie.",
+    "og_image": "/images/logo/eventHeader.gif"
+  },
+  "home": {
+    "title": "Women Techmakers Montréal 2025 | GDG Montréal | WTM Montréal | Flutter Montréal",
+    "description": "Une conférence mettant en valeur des femmes talentueuses et passionnées, renforçant la visibilité de la communauté technologique de Montréal et encourageant les femmes à prendre leur place en technologie.",
+    "og_image": "/images/logo/eventHeader.gif"
+  },
+  "team": {
+    "title": "Rencontrez notre équipe | WTM Montréal",
+    "description": "Découvrez les personnes talentueuses derrière WTM Montréal.",
+    "og_image": "/images/logo/eventHeader.gif"
+  },
+  "code-of-conduct": {
+    "title": "Code de conduite | WTM Montreal",
+    "description": "Description du code de conduite",
+    "og_image": "/images/logo/eventHeader.gif"
+  }
 }

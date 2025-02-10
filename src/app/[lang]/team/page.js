@@ -5,7 +5,6 @@ import TeamMemberCard from '@/components/elements/TeamMemberCard';
 import { sortTeamByFirstName } from '@/lib/utils';
 import { v4 as uuidv4 } from 'uuid';
 import { useTranslations } from 'next-intl';
-import { locales } from '@/i18n';
 
 export default function Home() {
   const t = useTranslations('team');

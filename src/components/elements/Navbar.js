@@ -27,7 +27,7 @@ const Navbar = ({ isMobile }) => {
       className={
         isMobile
           ? 'flex flex-col space-y-2 '
-          : 'hidden md:flex space-x-3 items-center'
+          : 'hidden lg:flex space-x-3 items-center'
       }
     >
       {headerNavigationWithUUIDs.map((link) => {
