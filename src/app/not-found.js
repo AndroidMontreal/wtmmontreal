@@ -6,7 +6,6 @@ import Image from 'next/image';
 export default function NotFound() {
   return (
     <div className="min-h-screen bg-gray-900 flex flex-col items-center justify-center p-4 text-center">
-      {/* Image container */}
       <Image
         src={notFoundsvg}
         alt="404 illustration"
@@ -21,7 +20,7 @@ export default function NotFound() {
 
       {/* Subtitle */}
       <h2 className="text-white text-3xl md:text-4xl font-bold mb-6 bg-clip-text">
-        Whoops! That page doesn't exist.
+        Whoops! That page does not exist.
       </h2>
 
       {/* Helper text */}
