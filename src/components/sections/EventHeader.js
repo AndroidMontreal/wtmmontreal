@@ -1,7 +1,6 @@
 'use client';
 import Image from 'next/image';
 import { CalendarDaysIcon, MapPinIcon } from '@heroicons/react/24/outline';
-import PillButton from '@/components/elements/PillButton';
 import Link from 'next/link';
 import col1img1 from '@/public/images/eventHeader/woman_techmaker_202401.jpg';
 import col2img1 from '@/public/images/eventHeader/woman_techmaker_202402.jpg';

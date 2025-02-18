@@ -1,16 +1,9 @@
 import '@/styles/globals.css';
-import { locales } from '@/i18n';
 
-export default function RootLayout({ children }) {
+export default async function RootLayout({ children }) {
   return (
     <html lang="fr">
-      <body>
-        <div>{children}</div>
-      </body>
+      <body>{children}</body>
     </html>
   );
-}
-
-export function generateStaticParams() {
-  return locales.map((locale) => ({ lang: locale }));
 }

@@ -1,13 +1,14 @@
-'use client'; // Mark this as a Client Component
+'use client';
 import '@/styles/globals.css';
 import { useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 
-export default function Page() {
+export default function HomePage() {
   const router = useRouter();
 
   useEffect(() => {
-    router.replace('/fr'); // Redirect to /fr
+    const defaultLang = 'fr'; // Set your default language here
+    router.replace(`/${defaultLang}`);
   }, [router]);
 
   return null; // Render nothing while redirecting

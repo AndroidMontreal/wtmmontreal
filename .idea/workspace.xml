@@ -6,25 +6,15 @@
   <component name="ChangeListManager">
     <list default="true" id="c94189e5-5657-4e02-be2d-51c766fcc41f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/partners/google_for_developers.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/partners/google_for_developers.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/partners/transit.svg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/partners/transit.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[lang]/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[lang]/team/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/team/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[lang]/team/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/team/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/not-found.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/not-found.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/robots.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/robots.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/sitemap.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/sitemap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/elements/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/elements/TeamMemberCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/TeamMemberCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/EventPhotos.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/EventPhotos.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/metadata.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/lib/metadata.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/locales/en/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/locales/fr/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/sections/EventHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/EventHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/partner.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/partner.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/venue.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/venue.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/fr/partner.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/partner.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/fr/venue.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/venue.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +64,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/solan/Desktop/WTM 2025/wtm-2025/src/locales/fr&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/solan/Desktop/WTM 2025/wtm-2025/src/app&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -90,11 +80,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\app" />
       <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\locales\fr" />
       <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\public\images\logo" />
       <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\public\images\team" />
       <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\src\app\team" />
-      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\src\components\elements" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\app" />
@@ -162,7 +152,8 @@
       <workItem from="1738948678243" duration="2312000" />
       <workItem from="1739064864224" duration="16768000" />
       <workItem from="1739131735905" duration="2012000" />
-      <workItem from="1739212825768" duration="690000" />
+      <workItem from="1739212825768" duration="8653000" />
+      <workItem from="1739855971550" duration="3456000" />
     </task>
     <servers />
   </component>
