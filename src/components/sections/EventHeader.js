@@ -9,6 +9,7 @@ import col3img1 from '@/public/images/eventHeader/woman_techmaker_202406.jpg';
 import col3img2 from '@/public/images/eventHeader/woman_techmaker_202407.jpg';
 import { useTranslations } from 'next-intl';
 import formatText from '@/lib/formatText';
+import PillButton from '@/components/elements/PillButton';
 
 const EventHeader = () => {
   const t = useTranslations('event');
@@ -86,13 +87,11 @@ const EventHeader = () => {
               </div>
             </div>
 
-
             <PillButton
-            className="my-6 flex"
-            href={t('buttonLink')}
-            label={t('buttonText')}
+              className="my-6 flex"
+              href={t('buttonLink')}
+              label={t('buttonText')}
             />
-
           </div>
 
           {/* Right Image Grid Section */}

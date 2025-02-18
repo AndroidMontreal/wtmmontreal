@@ -6,16 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="c94189e5-5657-4e02-be2d-51c766fcc41f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/not-found.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/not-found.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/partners/Somos_lit_latinx_in_tech.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/sections/EventHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/EventHeader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/locales/en/partner.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/partner.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/locales/en/venue.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/venue.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/locales/fr/partner.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/partner.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/locales/fr/venue.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/venue.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tailwind.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/tailwind.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +146,7 @@
       <workItem from="1739064864224" duration="16768000" />
       <workItem from="1739131735905" duration="2012000" />
       <workItem from="1739212825768" duration="8653000" />
-      <workItem from="1739855971550" duration="3456000" />
+      <workItem from="1739855971550" duration="4023000" />
     </task>
     <servers />
   </component>
