@@ -86,7 +86,7 @@ docker-compose down
 
 ## Updating Data
 
-The data for the event, speakers, schedule, sponsors, team, and communities are stored in JSON files within the `src/locales` and `src/data` directories. You can update these files to change the content displayed on the website.
+The data for the event, speakers, schedule, sponsors, team, and communities are stored in JSON files within the `src/locales` directory. You can update these files to change the content displayed on the website. The folders, `en` and `fr`, represents English and French language locales. Changing files in either of the locale folders will update content for that particular version on the website.
 
 ### Using GitHub Codespaces
 
