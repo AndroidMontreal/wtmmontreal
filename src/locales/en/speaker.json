@@ -1,0 +1,116 @@
+{
+  "title": "Speakers",
+  "description": "Learn from the best in the industry. Our speakers are experts in their field and are excited to share their knowledge with you.",
+  "speakers": [
+    {
+      "name": "Anita (YinTing) He",
+      "uuid": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "slug": "anita-he",
+      "title": "Unity",
+      "shortBio": "As a Lead Senior UX Designer at Unity Technologies, I’ve spent the past 4 years designing complex tools for game developers, tackling the challenge of balancing usability with power. This experience has given me deep insight into the challenges and opportunities that UX presents in creative tools.\n\nHaving benefited from mentorship and support programs, I’m passionate about helping underrepresented creators thrive in the tech and gaming industries. By rethinking UX in creative tools, we can build more inclusive environments where everyone has the opportunity to participate, experiment, and innovate - “redefining what’s possible” and making the impossible accessible and achievable.",
+      "image": "/images/speakers/anita_he.jpg",
+      "social": {
+        "email": "heeyinting@gmail.com"
+      }
+    },
+    {
+      "name": "Dina Kada",
+      "uuid": "1a2b3c4d-5e6f-7890-abcd-ef1234567890",
+      "slug": "dina-kada",
+      "title": "Bell",
+      "shortBio": "I’m Dina, a freshly graduated software developer based in Montreal. I mostly work on backend and data, but I love exploring new areas—right now, that means frontend and machine learning.\n\nOutside of work, you’ll find me wandering the city, working from a café, or experimenting in the kitchen. The rest of my time is spent learning languages, sipping tea, and enjoying the little things in life.",
+      "image": "/images/speakers/dina_kada.png",
+      "social": {
+        "email": "ermynee2102@gmail.com"
+      }
+    },
+    {
+      "name": "Brittney Muto",
+      "uuid": "2e3f4g5h-6i7j-8k9l-mnop-qrstuvwxyz123",
+      "slug": "brittney-muto",
+      "title": "Osedea",
+      "shortBio": "Brittney began her career in UX research, specializing in understanding user behaviors to craft innovative, human-centered solutions. Her passion for solving complex problems has driven her to design intuitive products that balance user needs and business objectives.\n\nPreviously, Brittney was the Design Manager at Vention, an automation startup specializing in robotics and industrial automation. In this role, she owned the UX/UI strategy for the company’s entire product ecosystem, including digital touchpoints, robot apps, and four core product offerings. Her leadership ensured cohesive experiences across all platforms. From there Brittney transitioned to the dynamic agency world, applying her expertise to a range of clients and projects. She is now a Lead UX/UI Designer at Osedea, a passion-driven software development agency delivering innovative solutions across industries such as healthcare, mining, manufacturing, and finance. With extensive experience spanning healthcare, robotics, and industrial automation, Brittney brings a collaborative and empathy-driven approach to every project. She thrives on translating complex challenges into thoughtful, user-focused designs that deliver meaningful impact.",
+      "image": "/images/speakers/brittney_muto.jpg",
+      "social": {
+        "email": "brittney.muto@osedea.com"
+      }
+    },
+    {
+      "name": "Rucha Shende",
+      "uuid": "3h4i5j6k-7l8m-9n0o-pqrs-tuvwxyz123abc",
+      "slug": "rucha-shende",
+      "title": "Haven Studios",
+      "shortBio": "Rucha Shende is currently a Machine Learning researcher at Haven Studios (a PlayStation studio) specializing in generative AI to enhance gaming experiences. With a Master of Computer Science from Concordia University, her research explored 3D reconstruction and computer vision techniques for heritage documentation and city modeling. Rucha also brings two years of industry experience in software development.",
+      "image": "/images/speakers/rucha.jpg",
+      "social": {
+        "email": "rucha.shende1997@gmail.com"
+      }
+    },
+    {
+      "name": "Iris Cawley",
+      "uuid": "4k5l6m7n-8o9p-0qrs-tuvw-xyz123abc456",
+      "slug": "iris-cawley",
+      "title": "Ubisoft",
+      "shortBio": "Iris Cawley is a multidisciplinary artist, UX designer, and researcher driven by a deep curiosity about the intersection of AI, creativity, and human experience. Her work explores how emerging technologies reshape design, ethics, and user interactions, pushing the boundaries of what’s possible while staying grounded in responsible innovation. She is passionate about leveraging AI to design ethical, inclusive, and forward-thinking digital experiences. Through research and hands-on experimentation, she investigates how the latest AI tools—such as generative design systems and intelligent prototyping platforms—can enhance, rather than replace, human creativity in UX design. Her goal is to ensure that AI remains a tool for empowerment, enabling designers to create meaningful and impactful user experiences.",
+      "image": "/images/speakers/iris_cawley.jpeg",
+      "social": {
+        "email": "irisxcawley@gmail.com"
+      }
+    },
+    {
+      "name": "Andrea Deković Bravo",
+      "uuid": "5m6n7o8p-9q0r-stuv-wxyz-123abc456def",
+      "slug": "andrea-dekovic-bravo",
+      "title": "Las Flores",
+      "shortBio": "Andrea Dekovic is the founder of Las Flores Web3 Film Festival, the first of its kind in Montreal, highlighting the convergence of cinema and emerging technologies like AI and blockchain. A leader in the tech and creative industries, she champions gender diversity and innovative solutions to redefine what’s possible. Recognized for her achievements in international competitions, Andrea has spoken at global conferences and organizes events that inspire and empower women in technology. Outside of her work, she is an advocate for sustainability and inclusive tech communities.",
+      "image": "/images/speakers/andrea_dekovic.jpg",
+      "social": {
+        "email": "andreadekovicb@gmail.com"
+      }
+    },
+    {
+      "name": "Temi Bolaji-Jegede",
+      "uuid": "6n7o8p9q-0rst-uvw1-2xyz-3abc456def78",
+      "slug": "temi-bolaji-jegede",
+      "title": "Tandemcoach",
+      "shortBio": "Temi has 15+ years of industry experience in product, project & change management and business analysis across United Kingdom & North America. She has worked extensively in healthtech and applied sciences - involved in product initiation, commercialisation and sunsetting, agile transformation. Temi works with technology organisations on team transformation – building trust-based and effective teams.\n\nHer passion includes helping professionals arrive at new results that they desire personally and professionally through transformational coaching. She is a Maxwell certified coach and a behavioural analyst (Maxwell DISC). She volunteers as an executive coach with The Center for Non-Profit Coaching which offers coaching services to executives of non-profit organisations. She is an international conference speaker. Temi believes sleep and rest are under-rated and these are key to emotional regulation. Temi is ever learning & ever giving. Fun fact: 2x burn-out survivor. You never want to experience this. If you have experienced it once, you want to prevent it from happening again.",
+      "image": "/images/speakers/temitope_bolaji_jegede.jpg",
+      "social": {
+        "email": "btdj.ltd@gmail.com"
+      }
+    },
+    {
+      "name": "Cecy Ramallo",
+      "uuid": "7o8p9q0r-stuv-wxyz-1234-5abc6def7890",
+      "slug": "cecy-ramallo",
+      "title": "Le Wagon",
+      "shortBio": "I’m Cecy Ramallo, a historian and classical guitarist turned Front-end Developer during the pandemic. Since September 2021, I’ve been a digital nomad, traveling solo to 13 countries while working remotely. Currently, I’m a Batch Manager and Lecturer at Le Wagon and a Community Builder at A Lo Tuyo, a community for digital nomads. I also create content about travel, digital nomadism, and Women in Tech.",
+      "image": "/images/speakers/cecy_ramallo.jpg",
+      "social": {
+        "email": "cecilia@wtmmontreal.com"
+      }
+    },
+    {
+      "name": "Stéphanie Akré",
+      "uuid": "8p9q0rst-uvwx-yz12-3456-7abc8def9012",
+      "slug": "stephanie-akre",
+      "title": "Ludociels",
+      "shortBio": "I am Stéphanie Akré, co-founder of the NPO Ludociels pour tous, a social economy digital company. Within Ludociels, I am an administrative manager and communications manager (and accountant, and manager of social networks, our websites, and podcast and video editor, and…). Like many small businesses, I wear multiple hats. In another life, I was a Massage Therapist / Physiotherapist. “One day”, I burned out… And I told myself that I needed time to rebuild myself and rest, so why not co-found a company??? Ha, ha… Here we go! How to make a website? How to be present on social networks? Which ones to choose? How to keep an accounting book? Um… What is bookkeeping??!! Stop, I'm breathing... I'll start again, one step at a time and I'll get help: - \"Hello, I'm Sophie, I really like your mission, I can help you with social networks.\" - \"Hi! It’s Justine, I’m ok to be part of your board of directors and help you clarify your mission and share your values.” … I surround myself with competent and talented women… And the adventure continues…",
+      "image": "/images/speakers/stephanie_akre.jpg",
+      "social": {
+        "email": "info@ludocielspourtous.org"
+      }
+    },
+    {
+      "name": "Sophie Li",
+      "uuid": "9q0rstuv-wxyz-1234-5678-9abc0def1234",
+      "slug": "sophie-li",
+      "title": "Dialogue",
+      "shortBio": "I love food and code for a living Hobbies include TV watching, reading, video games & coffee hopping I have travelled to a few countries, and can’t wait to plan my next one (Disney cruise)!\n\nMy favorite color is lavender, but I wear mostly autumn-colored clothes",
+      "image": "/images/speakers/sophie_li.jpeg",
+      "social": {
+        "email": "sophie.li@dialogue.co"
+      }
+    }
+  ]
+}

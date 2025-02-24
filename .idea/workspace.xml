@@ -5,10 +5,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c94189e5-5657-4e02-be2d-51c766fcc41f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/[lang]/code-of-conduct/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/[lang]/schedule/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/app/[lang]/speakers/[slug]/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/elements/SpeakerInfo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/speakers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/en/schedule.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/en/session.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/en/speaker.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/fr/schedule.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/fr/session.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/locales/fr/speaker.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/partners/Somos_lit_latinx_in_tech.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/sections/EventHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/sections/EventHeader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/locales/en/partner.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/partner.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/ali.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/allen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/billy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/boris.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/bryce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/daniel.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/etienne.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/francois.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/gleb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/jhin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/jl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/julia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/kevin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/nav.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/nav.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/stacy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/stefania.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/ashley.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/boris.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/david.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/eckarath.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/eric.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/etienne.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/gleb.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/jl.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/kiruthika-subramani.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/mathieu.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/medha.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/shannon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/stacy_veronneau.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/stefania.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/vincent.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/yan.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[lang]/schedule/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/schedule/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[lang]/speakers/[slug]/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/speakers/[slug]/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[lang]/speakers/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/speakers/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/not-found.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/not-found.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/elements/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/Navbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/elements/SessionInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/SessionInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/elements/SpeakerCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/SpeakerCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/i18n/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/i18n/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/navigation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/navigation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/fr/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/fr/navigation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/navigation.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +118,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/solan/Desktop/WTM 2025/wtm-2025/src/app&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/solan/Desktop/WTM 2025/wtm-2025/src/locales/fr&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -73,18 +134,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\app" />
       <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\locales\fr" />
-      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\public\images\logo" />
-      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\public\images\team" />
-      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\src\app\team" />
+      <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\app\[lang]\speakers" />
+      <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\app\[lang]\schedule" />
+      <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\app" />
+      <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\app\[lang]\code-of-conduct" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\components\elements" />
       <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\app" />
       <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\app\[lang]" />
       <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\public\images\partners" />
       <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\public\images\logo" />
-      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\src\app\speakers\[slug]" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -147,6 +208,9 @@
       <workItem from="1739131735905" duration="2012000" />
       <workItem from="1739212825768" duration="8653000" />
       <workItem from="1739855971550" duration="4023000" />
+      <workItem from="1740193709423" duration="2524000" />
+      <workItem from="1740275603678" duration="17120000" />
+      <workItem from="1740360154886" duration="14879000" />
     </task>
     <servers />
   </component>

@@ -1,32 +1,42 @@
-// components/SpeakerDetails/SessionInfo.js
-import { scheduleData } from '@/data/scheduleData';
+'use client';
+import { useTranslations } from 'next-intl';
 
 export const SessionInfo = ({ session }) => {
-  const timeSlot = scheduleData.timeSlots.find((ts) =>
+  // Get schedule data from translations
+  const s = useTranslations('schedule');
+  const timeSlots = Array.isArray(s.raw('timeSlots')) ? s.raw('timeSlots') : [];
+  const rooms = Array.isArray(s.raw('rooms')) ? s.raw('rooms') : [];
+
+  const timeSlot = timeSlots.find((ts) =>
     ts.sessions.some((s) => s.sessionUUID === session.uuid)
   );
 
-  const room = scheduleData.rooms.find(
+  const room = rooms.find(
     (r) =>
       r.uuid ===
       timeSlot?.sessions.find((s) => s.sessionUUID === session.uuid).roomUUID
   );
-
-  const formattedStartTime = new Date(
-    `2024-11-09 ${timeSlot.startTime}`
-  ).toLocaleTimeString([], {
-    hour: '2-digit',
-    minute: '2-digit',
-    hour12: false,
-  });
-
-  const formattedEndTime = new Date(
-    `2024-11-09 ${timeSlot.endTime}`
-  ).toLocaleTimeString([], {
-    hour: '2-digit',
-    minute: '2-digit',
-    hour12: false,
-  });
+  /*Temporary comment*/
+  // If no timeSlot is found, return null or an error message
+  // if (!timeSlot) {
+  //   return null;
+  // }
+  //
+  // const formattedStartTime = new Date(
+  //   `2025-04-05 ${timeSlot.startTime}`
+  // ).toLocaleTimeString([], {
+  //   hour: '2-digit',
+  //   minute: '2-digit',
+  //   hour12: false,
+  // });
+  //
+  // const formattedEndTime = new Date(
+  //   `2025-04-05 ${timeSlot.endTime}`
+  // ).toLocaleTimeString([], {
+  //   hour: '2-digit',
+  //   minute: '2-digit',
+  //   hour12: false,
+  // });
 
   return (
     <div key={session.uuid} id="sessionDetails" className="prose">
@@ -37,9 +47,10 @@ export const SessionInfo = ({ session }) => {
         {session.title}
       </h3>
       <div className="flex mb-6">
-        <p className="text-gray-600 m-0">
-          {room?.name} ({formattedStartTime} ~ {formattedEndTime})
-        </p>
+        {/*Temporary comment*/}
+        {/*<p className="text-gray-600 m-0">*/}
+        {/*  {room?.name} ({formattedStartTime} ~ {formattedEndTime})*/}
+        {/*</p>*/}
       </div>
       <div className="prose lg:prose-base">
         {session.description.split('\n').map((paragraph, index) => (

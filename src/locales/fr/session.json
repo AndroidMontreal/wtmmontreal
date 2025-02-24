@@ -1,0 +1,175 @@
+{
+  "title": "Séances",
+  "description": "Séances | WTM Montreal 2025",
+  "sessions": [
+    {
+      "title": "Registration",
+      "uuid": "246a17da-adf9-4d8e-9c50-ef84bdf68c55",
+      "description": "Enjoy the breakfast and network with other attendees",
+      "speakerUUID": []
+    },
+    {
+      "title": "Opening Note",
+      "uuid": "4d0cb762-4de4-43cf-b4ea-f02bcfa5b559",
+      "description": "Welcome message and introduction to the event",
+      "speakerUUID": []
+    },
+    {
+      "title": "Concevoir pour les créateur·trice·s : Stratégies UX pour les logiciels complexes",
+      "uuid": "a1b2c3d4-e5f6-7890-1abc-2def3ghi4jkl",
+      "description": "Les outils de création, comme les moteurs de jeux et les logiciels professionnels, sont pour la plupart conçus pour les utilisateur·rice·s intensif·ve·s qui ont besoin de flexibilité et de contrôle. Trop souvent, ces outils supposent que complexité et difficulté vont de pair, l'expérience utilisateur (UX) étant fréquemment reléguée au second plan. Cela se traduit par des courbes d'apprentissage abruptes, des interfaces encombrées et des flux de travail inefficaces.\n\nDans cet exposé, j'explorerai comment les stratégies UX peuvent redéfinir ce qui est possible dans les logiciels de création en les rendant plus intuitifs sans toutefois en sacrifier la puissance. Nous aborderons des concepts clés tels que la définition des profils d'utilisateur·rice·s, la priorisation des flux de travail et l'introduction de la complexité uniquement lorsque cela est nécessaire, permettant ainsi à divers créateur·rice·s de tous niveaux de compétences techniques de participer, d'expérimenter et d'innover.",
+      "shortDescription": "Les outils de création, comme les moteurs de jeux et les logiciels professionnels, sont pour la plupart conçus pour les utilisateur·rice·s intensif·ve·s qui ont besoin de flexibilité et de contrôle. Trop souvent, ces outils supposent que complexité et difficulté vont de pair, l'expérience utilisateur (UX) étant fréquemment reléguée au second plan. Cela se traduit par des courbes d'apprentissage abruptes, des interfaces encombrées et des flux de travail inefficaces.",
+      "speakerUUID": [
+        "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+      ],
+      "tags": [
+        "UX",
+        "Design",
+        "Logiciels",
+        "Créativité"
+      ]
+    },
+    {
+      "title": "L'IA rencontre le développement web : créez votre portfolio en 30 minutes avec Cursor",
+      "uuid": "b2c3d4e5-f6g7-8901-2bcd-3efg4hij5klm",
+      "description": "Si vous avez déjà utilisé des outils comme GitHub Copilot ou ChatGPT, vous êtes déjà familier·ère·s avec les possibilités offertes par l'IA pour la programmation. Toutefois Cursor permet d'aller encore plus loin, facilitant la création de ce qu'on souhaite réaliser, rapidement et de façon efficiente.\n\nDans cet atelier, je vais vous présenter Cursor et vous démontrer la facilité avec laquelle vous pouvez l'utiliser pour donner vie à vos projets. Que ce soit pour apprendre une nouvelle technologie ou pour créer votre portfolio, la programmation assistée par Cursor permet non seulement de simplifier l'écriture du code, mais en faciliter également l'apprentissage par des explications données en temps réel. Joignez-vous à moi pour apprendre comment vous pourrez bâtir votre portfolio en 30 minutes seulement, et découvrir comment l'IA peut ouvrir des nouvelles possibilités durant votre cheminement en programmation.",
+      "shortDescription": "Si vous avez déjà utilisé des outils comme GitHub Copilot ou ChatGPT, vous êtes déjà familier·ère·s avec les possibilités offertes par l'IA pour la programmation. Toutefois Cursor permet d'aller encore plus loin, facilitant la création de ce qu'on souhaite réaliser, rapidement et de façon efficiente.",
+      "speakerUUID": [
+        "1a2b3c4d-5e6f-7890-abcd-ef1234567890"
+      ],
+      "tags": [
+        "IA",
+        "Développement Web",
+        "Codage",
+        "Portfolio"
+      ]
+    },
+    {
+      "title": "Humaniser l'IA : donner du pouvoir à l'utilisateur grâce à la transparence du design",
+      "uuid": "c3d4e5f6-g7h8-9012-3cde-4fgh5ijk6lmn",
+      "description": "Découvrez les 5 piliers de la conception de l'IA, eux-mêmes basés sur les principes de conception de produits pour les soins de santé. Ensemble nous allons examiner comment créer une expérience utilisateur qui soit à la fois personnalisée, accessible et fiable, permettant de rejoindre une diversité d'individus, tout en favorisant l'inclusivité et la transparence. Que vous soyez novice ou expert·e, vous sortirez de cette conférence avec des outils qui vous aideront à développer des stratégies afin d'humaniser l'IA et qui auront un impact positif sur l'avenir du design.\n\nLes points suivants seront abordés dans cet atelier qui est conçu à la fois pour inspirer et outiller : Similitude entre la conception de l'IA et la conception de produits pour les soins de santé... Cas concrets, comme l'intégration de l'IA dans l'application virtuelle d'une clinique de fertilité...",
+      "shortDescription": "Découvrez les 5 piliers de la conception de l'IA, eux-mêmes basés sur les principes de conception de produits pour les soins de santé. Ensemble nous allons examiner comment créer une expérience utilisateur qui soit à la fois personnalisée, accessible et fiable, permettant de rejoindre une diversité d'individus, tout en favorisant l'inclusivité et la transparence.",
+      "speakerUUID": [
+        "2e3f4g5h-6i7j-8k9l-mnop-qrstuvwxyz123"
+      ],
+      "tags": [
+        "IA",
+        "UX",
+        "Design",
+        "Transparence"
+      ]
+    },
+    {
+      "title": "Développer un agent d'IA en 10 minutes grâce au framework Letta",
+      "uuid": "d4e5f6g7-h8i9-0jkl-mnop-qrstu1234567",
+      "description": "Letta est un cadriciel (framework) qui grâce à son architecture axée sur la mémoire (MDC) et son environnement (ADE) visuel, facilite le développement d'agents IA. Durant cet atelier vous pourrez découvrir quelles fonctionnalités en font sa particularité, et vous assisterez en direct à la création d'un agent IA.",
+      "shortDescription": "Letta est un cadriciel (framework) qui grâce à son architecture axée sur la mémoire (MDC) et son environnement (ADE) visuel, facilite le développement d'agents IA.",
+      "speakerUUID": [
+        "3h4i5j6k-7l8m-9n0o-pqrs-tuvwxyz123abc"
+      ],
+      "tags": [
+        "IA",
+        "Apprentissage Machine",
+        "Framework",
+        "Démo"
+      ]
+    },
+    {
+      "title": "L'évolution de l'expérience utilisateur (UX) à travers l'Intelligence artificielle: redefinir le design et les interactions avec l'usager",
+      "uuid": "e5f6g7h8-i9j0-klmn-opqr-stuv1234wxyz",
+      "description": "L’IA est en train de transformer la conception de l'expérience utilisateur (UX), en permettant une plus grande personnalisation, une meilleure prévisibilité des comportements et une plus grande capacité d'adaptation. Mais cette capacité accrue vient avec son lot de responsabilités : comment s'assurer que l'IA offre une meilleure expérience sans faire de compromis sur le plan éthique? Durant cet atelier nous allons examiner quelles fonctionnalités de l’IA influencent les tendances en UX, telles que le design génératif, la recherche sur les utilisateur·rice·s, l'automatisation de tâches répétitives lors du prototypage, et la réduction des biais. Nous allons explorer comment les outils offerts par l'IA transforment les patrons de conception du UX, aident à repenser l'accessibilité, et poussent les designers à travailler en symbiose avec celle-ci. À la fin de la conférence, les participant·e·s auront une meilleure idée des possibilités offertes par l'IA, seront mieux outillé·e·s pour l’intégrer de façon éthique, et réaliseront les opportunités de carrières d'avenir.",
+      "shortDescription": "L’IA est en train de transformer la conception de l'expérience utilisateur (UX), en permettant une plus grande personnalisation, une meilleure prévisibilité des comportements et une plus grande capacité d'adaptation. Mais cette capacité accrue vient avec son lot de responsabilités : comment s'assurer que l'IA offre une meilleure expérience sans faire de compromis sur le plan éthique?",
+      "speakerUUID": [
+        "4k5l6m7n-8o9p-0qrs-tuvw-xyz123abc456"
+      ],
+      "tags": [
+        "IA",
+        "UX",
+        "Design",
+        "Éthique"
+      ]
+    },
+    {
+      "title": "Repenser le cinéma : un festival de films mêlant technologie et culture s'invite à Montréal",
+      "uuid": "f6g7h8i9-j0k1-lmno-pqrs-tuvw1234xyz5",
+      "description": "Le mariage entre la technologie et le cinéma a ouvert des possibilités jusqu’ici insoupçonnées, de la création narrative pilotée par l’IA aux modèles de financement décentralisés du Web3. En tant que fondatrice de Las Flores, un festival de films Web3, j’ai dû surmonter plusieurs obstacles de nature culturelle, sexiste et financière pour parvenir à donner vie à cet événement hors du commun à Montréal.\n\nMon exposé portera sur : Comment surmonter l’adversité : mon parcours en tant que femme mexicaine avant-gardiste dans une industrie essentiellement masculine. Redéfinir le cinéma : comment le Web3 et l’IA transforment la création, le financement et la distribution de films. Créer des initiatives technologiques fondées sur des principes d’inclusivité, d’accessibilité et de durabilité : enseignements tirés du développement d’un programme de financement de projets de films Web3-IA. Donner du pouvoir aux femmes dans la technologie : leçons sur la résilience, le leadership et la création d’impact dans les industries technologiques et créatives. En redéfinissant ce qui est possible, Las Flores est devenu un catalyseur de collaboration, d’innovation et de diversité dans les arts cinématographiques.",
+      "shortDescription": "Le mariage entre la technologie et le cinéma a ouvert des possibilités jusqu’ici insoupçonnées, de la création narrative pilotée par l’IA aux modèles de financement décentralisés du Web3. En tant que fondatrice de Las Flores, un festival de films Web3, j’ai dû surmonter plusieurs obstacles de nature culturelle, sexiste et financière pour parvenir à donner vie à cet événement hors du commun à Montréal.",
+      "speakerUUID": [
+        "5m6n7o8p-9q0r-stuv-wxyz-123abc456def"
+      ],
+      "tags": [
+        "Web3",
+        "IA",
+        "Cinéma",
+        "Diversité"
+      ]
+    },
+    {
+      "title": "L'Art de Jongler : Comment naviguer les exigences de la vie en tant que femmes",
+      "uuid": "g7h8i9j0-k1l2-mnop-qrst-uvw123xyz456",
+      "description": "Cette table ronde explore les multiples facettes de la vie des femmes d'aujourd'hui, en se penchant sur l'équilibre délicat entre carrière, famille, aspirations personnelles et bien-être. Joignez-vous à nous pour explorer les défis et les réussites que rencontrent les femmes alors qu'elles naviguent dans les exigences en constante évolution de la vie moderne. Nos panélistes partageront leurs expériences personnelles, leurs idées et leurs stratégies pour prospérer dans un monde qui s'attend souvent à ce que les femmes soient tout pour tout le monde. Il s'agit d'une conversation pour les femmes qui recherchent de l'inspiration, du soutien et des conseils pratiques sur la façon de mener une vie épanouie et équilibrée.",
+      "shortDescription": "Cette table ronde explore les multiples facettes de la vie des femmes d'aujourd'hui, en se penchant sur l'équilibre délicat entre carrière, famille, aspirations personnelles et bien-être.",
+      "speakerUUID": [
+        "6n7o8p9q-0rst-uvw1-2xyz-3abc456def78"
+      ],
+      "tags": [
+        "Femmes",
+        "Leadership",
+        "Équilibre",
+        "Compétences Douces"
+      ]
+    },
+    {
+      "title": "Mythes et réalités entourant le nomadisme numérique : au-delà de la photo Instagram parfaite",
+      "uuid": "h8i9j0k1-l2m3-nopq-rstu-vwxyz1234567",
+      "description": "Dans cette conférence, je vous dévoilerai ce que signifie réellement d'être une nomade numérique, au-delà des photos Instagram de rêve prises au bord d’une piscine ou sur une plage tropicale. Pour certaines personnes, les plus grandes difficultés sont de passer de longues périodes loin de leurs proches, ou encore de devoir constamment s'adapter à des cultures différentes. Mais pour moi le principal défi est de nature beaucoup plus simple : trouver les endroits où je peux laver mes vêtements, considérant que je voyage très légèrement.\n\nJe vous partagerai des informations sur les destinations de voyage les plus sécuritaires, ce que les nomades numériques emportent dans leurs bagages, des recommandations et des conseils si vous travaillez dans le secteur de la technologie, et le véritable coût de la vie sur la route. En passant ce n'est pas aussi cher qu'on pourrait le penser. Être une nomade numérique n'est pas pour tout le monde, et c'est probablement un métier qu'on fait à court terme. En revanche, c'est un style de vie unique qui vous permet d'explorer des endroits magnifiques, de rencontrer des gens fascinants et, surtout, de vous découvrir vous-même.",
+      "shortDescription": "Dans cette conférence, je vous dévoilerai ce que signifie réellement d'être une nomade numérique, au-delà des photos Instagram de rêve prises au bord d’une piscine ou sur une plage tropicale. Pour certaines personnes, les plus grandes difficultés sont de passer de longues périodes loin de leurs proches, ou encore de devoir constamment s'adapter à des cultures différentes. Mais pour moi le principal défi est de nature beaucoup plus simple : trouver les endroits où je peux laver mes vêtements, considérant que je voyage très légèrement.",
+      "speakerUUID": [
+        "7o8p9q0r-stuv-wxyz-1234-5abc6def7890"
+      ],
+      "tags": [
+        "Nomade Numérique",
+        "Tech",
+        "Style de Vie",
+        "Voyage"
+      ]
+    },
+    {
+      "title": "Apprendre au fil de l’expérience",
+      "uuid": "i9j0k1l2-m3n4-opqr-stuv-wxyz12345678",
+      "description": "Mon hypothèse : Vous pouvez commencer, même avec 0 % de qualification, et apprendre par l’expérience: un encouragement à se lancer, peu importe votre niveau de compétence au départ. Pour entreprendre, pour démarrer une entreprise collective ou un OBNL, pas le choix d’avoir ce trait de caractère!\n\nComment «survivre» à l’apprentissage par expérience? - Gérer son stress (Les facteurs du stress) Cette méthode peut générer plus de stress, mais des outils aident à le gérer - Gérer chaque situation à la fois : Trouver de l’aide dès qu’un blocage survient - Abandonner le culte de la perfection : accepter que «assez bon» est suffisant et que chaque itération améliore les résultats - Redéfinir la perfection: créer / inventer un environnement de travail aligné avec vos valeurs et votre bien-être. Conclusion : C’est votre tour! - Appel à l’action : «Commencez là où vous êtes, avec ce que vous avez.»",
+      "shortDescription": "Mon hypothèse : Vous pouvez commencer, même avec 0 % de qualification, et apprendre par l’expérience: un encouragement à se lancer, peu importe votre niveau de compétence au départ. Pour entreprendre, pour démarrer une entreprise collective ou un OBNL, pas le choix d’avoir ce trait de caractère!",
+      "speakerUUID": [
+        "8p9q0rst-uvwx-yz12-3456-7abc8def9012"
+      ],
+      "tags": [
+        "Apprentissage",
+        "Expérience",
+        "Entrepreneuriat",
+        "Compétences Douces"
+      ]
+    },
+    {
+      "title": "Redéfinir la technologie à travers les communautés de femmes en tech",
+      "uuid": "j0k1l2m3-n4o5-pqrs-tuvw-xyz123456789a",
+      "description": "Dans ce monde où la technologie est en constante évolution, l’inclusivité et l’innovation vont de pair. Je vous invite à plonger dans un parcours profondément personnel qui a débuté par la création – en partie par hasard– d’une communauté de femmes œuvrant en tech, et qui a eu un impact important sur les individus, les équipes et la culture du travail.\n\nÀ travers des réflexions personnelles, des étapes concrètes et des leçons apprises, vous découvrirez comment créer un environnement de travail où les femmes s’épanouissent, brisent les barrières et redéfinissent ce qui est possible dans l’industrie. Que vous soyez une cadre cherchant à instaurer des changements ou simplement un·e allié·e curieux·se de savoir comment soutenir vos collègues, cette session vous inspirera à passer à l’action et à contribuer à un avenir où chacun·e a une voix.",
+      "shortDescription": "Dans ce monde où la technologie est en constante évolution, l’inclusivité et l’innovation vont de pair. Je vous invite à plonger dans un parcours profondément personnel qui a débuté par la création – en partie par hasard– d’une communauté de femmes œuvrant en tech, et qui a eu un impact important sur les individus, les équipes et la culture du travail.",
+      "speakerUUID": [
+        "9q0rstuv-wxyz-1234-5678-9abc0def1234"
+      ],
+      "tags": [
+        "Femmes en Tech",
+        "Inclusivité",
+        "Communauté",
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Break",
+      "uuid": "27ff7729-5792-4efd-a813-321fd6523e63",
+      "description": "Enjoy a break and network with other attendees",
+      "shortDescription": "Enjoy a break and network with other attendees",
+      "speakerUUID": []
+    }
+  ]
+}

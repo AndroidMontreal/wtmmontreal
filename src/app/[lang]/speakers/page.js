@@ -1,25 +1,18 @@
 'use client';
 import SpeakerCard from '@/components/elements/SpeakerCard';
-import YearSelector from '@/components/elements/YearSelector';
-import PillButton from '@/components/elements/PillButton';
 import TitleWithSubtitle from '@/components/elements/TitleWithSubtitle';
-import { speakers2023 } from '@/data/speakers2023Data';
-import { useMemo, useState } from 'react';
-import { v4 as uuidv4 } from 'uuid';
-import { speakers2024 } from '@/data/speakers2024Data';
+import { useTranslations } from 'next-intl';
+import { sortTeamByFirstName } from '@/lib/utils';
+import { getPageMetadata } from '@/lib/metadata';
 
 const Speakers = () => {
-  const [selectedYear, setSelectedYear] = useState(2024);
+  const t = useTranslations('speaker');
 
-  const handleYearChange = (year) => {
-    setSelectedYear(year);
-  };
+  // error check for data
+  const speakers = Array.isArray(t.raw('speakers')) ? t.raw('speakers') : [];
 
-  const speakers = useMemo(() => {
-    return (selectedYear === 2023 ? speakers2023 : speakers2024).sort((a, b) =>
-      a.name.localeCompare(b.name)
-    );
-  }, [selectedYear]);
+  // sort method for speaker by name
+  const sortedSpeakers = sortTeamByFirstName(speakers);
 
   return (
     <div
@@ -27,28 +20,19 @@ const Speakers = () => {
       className="flex flex-col gap-6 text-center items-center justify-center my-24"
     >
       <TitleWithSubtitle
-        title="Speakers"
-        subTitle="Learn from the best in the industry. Our speakers are experts in their field and are excited to share their knowledge with you."
+        title={t('title')}
+        subTitle={t('description')}
         titleClassName="max-w-2xl"
         subTitleClassName="max-w-xl"
       />
 
-      <YearSelector
-        years={[2023, 2024]}
-        selectedYear={selectedYear}
-        handleYearChange={handleYearChange}
-      />
-
-      <ul
-        className={`grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 ${selectedYear === 2024 ? 'lg:grid-cols-3' : 'lg:grid-cols-4'}  gap-6 max-w-7xl mx-auto`}
-      >
-        {speakers.map((speaker) => (
-          <li key={uuidv4()} className="flex items-start">
-            <SpeakerCard speaker={speaker} year={selectedYear} />
+      <ul className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3  lg:grid-cols-3  gap-6 max-w-7xl mx-auto">
+        {sortedSpeakers.map((speaker) => (
+          <li key={speaker.uuid} className="flex items-start">
+            <SpeakerCard speaker={speaker} />
           </li>
         ))}
       </ul>
-      {/* <PillButton href="https://www.papercall.io/devfest-2024-mtl" label="Submit your proposal" /> */}
     </div>
   );
 };

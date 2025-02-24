@@ -1,0 +1,116 @@
+{
+  "title": "Conférencières",
+  "description": "Apprenez des meilleurs de l’industrie. Nos conférenciers sont des experts dans leur domaine et sont heureux de partager leurs connaissances avec vous.",
+  "speakers": [
+    {
+      "name": "Anita (YinTing) He",
+      "uuid": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "slug": "anita-he",
+      "title": "Unity",
+      "shortBio": "En tant que designer UX en chef chevronnée à Unity Technologies, j'ai passé 4 ans à concevoir des outils complexes pour les développeur·euse·s de jeux vidéos, en relevant le défi d'équilibrer l'utilisabilité et la puissance. Cette expérience m’a apporté une compréhension approfondie des défis et des opportunités que l’UX présente dans les outils créatifs.\n\nAyant moi-même bénéficié de mentorat dans le passé, je souhaite rendre le service à celles qui éprouvent des difficultés à profiter pleinement du potentiel offert par l'industrie du jeu. En repensant l'expérience utilisateur dans les outils de création, nous pouvons concevoir des plateformes plus inclusives où tous peuvent prendre part et innover, \"redéfinir le possible\", pour faire de ce qui était impossible quelque chose d'accessible et de réalisable.",
+      "image": "/images/speakers/anita_he.jpg",
+      "social": {
+        "email": "heeyinting@gmail.com"
+      }
+    },
+    {
+      "name": "Dina Kada",
+      "uuid": "1a2b3c4d-5e6f-7890-abcd-ef1234567890",
+      "slug": "dina-kada",
+      "title": "Bell",
+      "shortBio": "Je m'appelle Dina. Basée à Montréal, je suis fraîchement diplômée en développement de logiciels. Je travaille surtout côté serveur, mais j’aime bien explorer d’autres spécialités, notamment le côté client et l'apprentissage machine.\n\nPendant mon temps libre, vous me trouverez en train de flâner dans la ville, de travailler dans un café ou d’expérimenter dans la cuisine. Le reste de mon temps est consacré à apprendre des langues, à siroter du thé et à profiter des petites choses de la vie.",
+      "image": "/images/speakers/dina_kada.png",
+      "social": {
+        "email": "ermynee2102@gmail.com"
+      }
+    },
+    {
+      "name": "Brittney Muto",
+      "uuid": "2e3f4g5h-6i7j-8k9l-mnop-qrstuvwxyz123",
+      "slug": "brittney-muto",
+      "title": "Osedea",
+      "shortBio": "Brittney a débuté sa carrière dans la recherche UX, en se spécialisant dans la compréhension des comportements des utilisateurs pour élaborer des solutions novatrices et axées sur l'humain. Sa passion pour la résolution de problèmes complexes l'a poussée à concevoir des produits intuitifs répondant aux besoins des utilisateur·rice·s tout en permettant la réalisation des objectifs commerciaux.\n\nAuparavant, Brittney était chef de la conception chez Vention, une startup d'automatisation spécialisée dans la robotique et l'automatisation industrielle. Dans ce rôle, elle était responsable de la stratégie UX/UI pour l'ensemble de l'écosystème de produits de l'entreprise, y compris les points de contact numériques, les applications robotiques et les produits principaux. Elle s’assurait que l’expérience utilisateur soit cohérente sur toutes les plateformes. Forte de ses expériences précédentes, elle a effectué une transition vers le monde dynamique des agences, appliquant son expertise à une gamme de clients et de projets. Elle est maintenant designer en chef UX/UI chez Osedea, une agence de développement de logiciels où une équipe de gens passionnés propose des solutions novatrices dans des secteurs tels que la santé, l'exploitation minière, la fabrication et la finance. Outre sa vaste expertise technique, Brittney apporte une approche collaborative et empathique à chaque projet. Elle s'efforce de traduire des défis complexes en conceptions réfléchies et axées sur l'utilisateur·rice·s qui produisent un impact significatif.",
+      "image": "/images/speakers/brittney_muto.jpg",
+      "social": {
+        "email": "brittney.muto@osedea.com"
+      }
+    },
+    {
+      "name": "Rucha Shende",
+      "uuid": "3h4i5j6k-7l8m-9n0o-pqrs-tuvwxyz123abc",
+      "slug": "rucha-shende",
+      "title": "Haven Studios",
+      "shortBio": "Rucha Shende est actuellement chercheuse en apprentissage machine chez Haven Studios (un studio PlayStation) lequel se spécialise dans l'IA générative pour améliorer les expériences de jeu. Titulaire d'une maîtrise en informatique de l'Université Concordia, ses recherches ont porté sur les techniques de reconstruction 3D et de vision par ordinateur pouvant servir pour la documentation du patrimoine et la modélisation des villes. Elle a également deux ans d'expérience dans le domaine du développement de logiciels.",
+      "image": "/images/speakers/rucha.jpg",
+      "social": {
+        "email": "rucha.shende1997@gmail.com"
+      }
+    },
+    {
+      "name": "Iris Cawley",
+      "uuid": "4k5l6m7n-8o9p-0qrs-tuvw-xyz123abc456",
+      "slug": "iris-cawley",
+      "title": "Ubisoft",
+      "shortBio": "Iris Cawley est une artiste multidisciplinaire, une designer UX et une chercheuse animée par une profonde curiosité pour l'intersection de l'IA, de la créativité et de l'expérience humaine. Son travail explore comment les technologies émergentes remodèlent la conception, l'éthique et les interactions avec les utilisateur·rice·s, repoussant les limites de ce qui est possible tout en restant ancrée dans l'innovation responsable. Elle est passionnée par l'utilisation de l'IA dans la conception d’expériences numériques éthiques, inclusives et avant-gardistes. Grâce à la recherche et à l'expérimentation pratique, elle étudie comment les derniers outils de l’IA, tels que les systèmes de conception générative et les plateformes de prototypage intelligentes, peuvent améliorer, plutôt que remplacer, la créativité humaine dans la conception UX. Son objectif est de faire en sorte que l’IA soit un outil supplémentaire permettant aux concepteurs de créer des expériences utilisateur significatives et impactantes.",
+      "image": "/images/speakers/iris_cawley.jpeg",
+      "social": {
+        "email": "irisxcawley@gmail.com"
+      }
+    },
+    {
+      "name": "Andrea Deković Bravo",
+      "uuid": "5m6n7o8p-9q0r-stuv-wxyz-123abc456def",
+      "slug": "andrea-dekovic-bravo",
+      "title": "Las Flores",
+      "shortBio": "Andrea Dekovic est la fondatrice de Las Flores, festival de films Web3, premier du genre à Montréal, qui met en lumière la convergence du cinéma et des technologies émergentes telles que l'IA et la blockchain. Cheffe de file dans les secteurs de la technologie et de la création, elle défend la diversité des genres et propose des solutions novatrices pour redéfinir ce qui est possible. Reconnue pour ses réalisations dans des compétitions internationales, Andrea a pris la parole lors de conférences mondiales. Elle organise également des événements qui inspirent et habilitent les femmes dans le secteur de la technologie. En dehors de son travail, elle milite pour des communautés technologiques plus inclusives et durables.",
+      "image": "/images/speakers/andrea_dekovic.jpg",
+      "social": {
+        "email": "andreadekovicb@gmail.com"
+      }
+    },
+    {
+      "name": "Temi Bolaji-Jegede",
+      "uuid": "6n7o8p9q-0rst-uvw1-2xyz-3abc456def78",
+      "slug": "temi-bolaji-jegede",
+      "title": "Tandemcoach",
+      "shortBio": "Temi a plus de 15 ans d'expérience dans le secteur de la gestion de produits, de projets et du changement, ainsi qu’en analyse commerciale, au Royaume-Uni et en Amérique du Nord.\n\nSa passion est d'aider les professionnel·le·s à atteindre leurs objectifs grâce à la formation transformationnelle. Elle est une formatrice certifiée Maxwell et analyste comportementale (Maxwell DISC). Elle fait partie de l’équipe du Center for Non-Profit Coaching et offre des services pro bono de formations aux dirigeant·e·s d’OBNL. Elle donne également des conférences partout dans le monde. Elle est en perfectionnement perpétuel et donne de son temps généreusement. Temi estime que l’importance du sommeil et du repos est sous-estimée, lesquels sont pourtant des éléments essentiels à la régulation émotionnelle. Ayant vécu l’enfer du burn-out à deux reprises, elle veut mettre les gens en garde afin de leur éviter de vivre la même chose.",
+      "image": "/images/speakers/temitope_bolaji_jegede.jpg",
+      "social": {
+        "email": "btdj.ltd@gmail.com"
+      }
+    },
+    {
+      "name": "Cecy Ramallo",
+      "uuid": "7o8p9q0r-stuv-wxyz-1234-5abc6def7890",
+      "slug": "cecy-ramallo",
+      "title": "Le Wagon",
+      "shortBio": "Je suis Cecy Ramallo, historienne et guitariste classique devenue développeuse Front-End durant la pandémie. Depuis septembre 2021, je suis nomade numérique, voyageant seule à travers 13 pays tout en travaillant à distance. Actuellement, je suis gestionnaire de lots (Batch) et chargée de cours au Wagon et gestionnaire de communauté chez A Lo Tuyo, une communauté pour nomades numériques. Je suis aussi créatrice de contenus sur les voyages, le nomadisme numérique et les femmes dans la technologie.",
+      "image": "/images/speakers/cecy_ramallo.jpg",
+      "social": {
+        "email": "cecilia@wtmmontreal.com"
+      }
+    },
+    {
+      "name": "Stéphanie Akré",
+      "uuid": "8p9q0rst-uvwx-yz12-3456-7abc8def9012",
+      "slug": "stephanie-akre",
+      "title": "Ludociels",
+      "shortBio": "Je suis Stéphanie Akré, cofondatrice de l’OBNL Ludociels pour tous, une entreprise numérique d’économie sociale. Au sein de Ludociels, je suis Gestionnaire administrative et chargée de communication (et comptable, et gestionnaire des réseaux sociaux, de nos sites internet, et monteuse de podcasts et de vidéo, et…). Comme dans beaucoup de petites entreprises, je porte de multiples casquettes. Dans une autre vie, j’étais Massothérapeute / Physiothérapeute. «Un jour», j’ai fait un burn-out… Et je me suis dit que j’avais besoin de temps pour me reconstruire et me reposer, alors pourquoi pas cofonder une entreprise??? Ha, ha… C’est parti! Comment faire un site internet? Comment être présent sur les réseaux sociaux? Lesquels choisir? Comment faire une tenue de livre comptable? Euh… C’est quoi la tenue de livre??!! Stop, je souffle… Je reprend, une étape à la fois et je vais chercher de l’aide: - «Bonjour, je suis Sophie j’aime beaucoup votre mission, je peux vous aider pour les réseaux sociaux.» - «Salut! C’est Justine, je suis ok pour faire partie de votre C.A. et vous aider à clarifier votre mission et partager vos valeurs.» … Je m’entoure de femmes compétentes et talentueuses… Et l’aventure continue…",
+      "image": "/images/speakers/stephanie_akre.jpg",
+      "social": {
+        "email": "info@ludocielspourtous.org"
+      }
+    },
+    {
+      "name": "Sophie Li",
+      "uuid": "9q0rstuv-wxyz-1234-5678-9abc0def1234",
+      "slug": "sophie-li",
+      "title": "Dialogue",
+      "shortBio": "J'aime la bouffe et je code pour gagner ma vie. Mes loisirs incluent la télé, la lecture, les jeux vidéo et fréquenter différents cafés. J’ai voyagé dans quelques pays et j’ai très hâte de planifier le prochain : une croisière Disney!\n\nMa couleur préférée est la lavande, mais je porte surtout des vêtements aux couleurs d'automne.",
+      "image": "/images/speakers/sophie_li.jpeg",
+      "social": {
+        "email": "sophie.li@dialogue.co"
+      }
+    }
+  ]
+}

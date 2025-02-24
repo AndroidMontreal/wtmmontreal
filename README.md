@@ -2,23 +2,26 @@
 
 # Women Techmakers Montreal 2025
 
-This is a [Next.js](https://nextjs.org/) project for the Women Techmakers Montreal 2025 event. It provides information about the event, including the schedule, speakers, team, and more.
+This is a [Next.js](https://nextjs.org/) project for the Women Techmakers Montreal 2025 event. It provides information
+about the event, including the schedule, speakers, team, and more.
 
 ## Table of Contents
 
 - [About the Project](#about-the-project)
 - [Built With](#built-with)
 - [Getting Started](#getting-started)
-  - [Installing Packages](#installing-packages)
-  - [Running Locally](#running-locally)
-  - [Running with Docker](#running-with-docker)
+    - [Installing Packages](#installing-packages)
+    - [Running Locally](#running-locally)
+    - [Running with Docker](#running-with-docker)
 - [Updating Data](#updating-data)
-  - [Using GitHub Codespaces](#using-github-codespaces)
+    - [Using GitHub Codespaces](#using-github-codespaces)
 - [Learn More](#learn-more)
 
 ## About the Project
 
-This project is a web application built using Next.js, a React framework for building server-side rendered and statically generated web applications. It is designed to provide a comprehensive and engaging experience for attendees of the Women Techmakers Montreal 2025 event, with detailed information about the event, schedule, speakers, and more.
+This project is a web application built using Next.js, a React framework for building server-side rendered and
+statically generated web applications. It is designed to provide a comprehensive and engaging experience for attendees
+of the Women Techmakers Montreal 2025 event, with detailed information about the event, schedule, speakers, and more.
 
 ## Built With
 
@@ -58,7 +61,9 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `src/app/page.js`. The page auto-updates as you edit the files. You can jump [here](#updating-data) if you would only like to udpate the information.
+You can start editing the page by modifying `src/app/SpeakerInfo.js`. The page auto-updates as you edit the files. You
+can
+jump [here](#updating-data) if you would only like to udpate the information.
 
 ### Running with Docker
 
@@ -86,11 +91,15 @@ docker-compose down
 
 ## Updating Data
 
-The data for the event, speakers, schedule, sponsors, team, and communities are stored in JSON files within the `src/locales` directory. You can update these files to change the content displayed on the website. The folders, `en` and `fr`, represents English and French language locales. Changing files in either of the locale folders will update content for that particular version on the website.
+The data for the event, speakers, schedule, sponsors, team, and communities are stored in JSON files within the
+`src/locales` directory. You can update these files to change the content displayed on the website. The folders, `en`
+and `fr`, represents English and French language locales. Changing files in either of the locale folders will update
+content for that particular version on the website.
 
 ### Using GitHub Codespaces
 
-GitHub Codespaces provides a cloud-based development environment that allows you to edit and run the project without installing any software on your local machine. To use GitHub Codespaces:
+GitHub Codespaces provides a cloud-based development environment that allows you to edit and run the project without
+installing any software on your local machine. To use GitHub Codespaces:
 
 1. Open the repository on GitHub.
 2. Click the `Code` button and select `Open with Codespaces`.
@@ -104,6 +113,7 @@ GitHub Codespaces provides a cloud-based development environment that allows you
 
 6. Open the forwarded port to see the result.
 7. Once commited, push the code to the repository.
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
