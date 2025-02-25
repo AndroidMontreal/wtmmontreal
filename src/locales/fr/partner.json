@@ -51,6 +51,11 @@
       "logo": "/images/communities/somos_lit.svg",
       "company": "Somos Latinx in Tech",
       "website": "https://www.linkedin.com/company/latinx-in-tech-toronto/about/"
+    },
+    {
+      "logo": "/images/communities/women_in_animation.svg",
+      "company": "Women in Animation",
+      "website": "https://womeninanimation.org/"
     }
   ]
 }

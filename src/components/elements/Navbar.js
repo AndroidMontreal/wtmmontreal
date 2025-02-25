@@ -33,7 +33,8 @@ const Navbar = ({ isMobile }) => {
       {headerNavigationWithUUIDs.map((link) => {
         const isActive =
           normalizedPathname === link.href ||
-          (normalizedPathname === '/' && link.href === '/');
+          (normalizedPathname === '/' && link.href === '/') ||
+          (link.href !== '/' && normalizedPathname.startsWith(link.href));
         return (
           <Link
             key={link.uuid}
