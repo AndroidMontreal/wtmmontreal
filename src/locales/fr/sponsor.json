@@ -59,6 +59,12 @@
       "logo": "/images/partners/GameAddik.svg",
       "company": "GameAddik",
       "website": "https://gameaddik.com/"
+    },
+    {
+      "level": "silver",
+      "logo": "/images/partners/Transit.svg",
+      "company": "Transit",
+      "website": "https://transitapp.com/fr"
     }
   ]
 }
