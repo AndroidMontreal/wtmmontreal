@@ -110,7 +110,9 @@
       "description": "Cette table ronde explore les multiples facettes de la vie des femmes d'aujourd'hui, en se penchant sur l'équilibre délicat entre carrière, famille, aspirations personnelles et bien-être. Joignez-vous à nous pour explorer les défis et les réussites que rencontrent les femmes alors qu'elles naviguent dans les exigences en constante évolution de la vie moderne. Nos panélistes partageront leurs expériences personnelles, leurs idées et leurs stratégies pour prospérer dans un monde qui s'attend souvent à ce que les femmes soient tout pour tout le monde. Il s'agit d'une conversation pour les femmes qui recherchent de l'inspiration, du soutien et des conseils pratiques sur la façon de mener une vie épanouie et équilibrée.",
       "shortDescription": "Cette table ronde explore les multiples facettes de la vie des femmes d'aujourd'hui, en se penchant sur l'équilibre délicat entre carrière, famille, aspirations personnelles et bien-être.",
       "speakerUUID": [
-        "6n7o8p9q-0rst-uvw1-2xyz-3abc456def78"
+        "6n7o8p9q-0rst-uvw1-2xyz-3abc456def78",
+        "abec89d6-764e-4af5-9457-8d10bb68c79c",
+        "7b669b1f-5498-46ed-9e9f-ab4c71223227"
       ],
       "tags": [
         "Femmes",
@@ -162,6 +164,55 @@
         "Inclusivité",
         "Communauté",
         "Innovation"
+      ]
+    },
+    {
+      "title": "Développez votre première application mobile sans coder : atelier pratique sur FlutterFlow",
+      "uuid": "4b587937-e8e4-48a7-8894-0e3b75887152",
+      "description": "Cet atelier interactif est parfait pour les débutant·e·s qui souhaitent créer leur première application mobile sans écrire une seule ligne de code. Pendant cette session, nous utiliserons FlutterFlow, une plateforme intuitive sans code, pour concevoir et développer une application simple qui organise et affiche des données. Vous suivrez chaque étape avec des visuels et des instructions pratiques pour vous assurer de construire votre propre application d’ici la fin de l’atelier. Aucune expérience en programmation n’est nécessaire — il suffit d’apporter votre créativité ! À la fin de cet atelier, vous aurez non seulement une application fonctionnelle, mais aussi la confiance nécessaire pour continuer à créer et développer vos idées !",
+      "shortDescription": "Cet atelier interactif est parfait pour les débutant·e·s qui souhaitent créer leur première application mobile sans écrire une seule ligne de code",
+      "speakerUUID": [
+        "9b8f90fb-eeba-44a6-bceb-158cb03db360"
+      ],
+      "tags": [
+        "Flutter"
+      ]
+    },
+    {
+      "title":  "Jouez avec vos données au quotidien : Introduction à Looker Studio",
+      "uuid": "3bbe77cc-c1db-4827-9391-ffddf8e61c56",
+      "description": "Dans cet atelier pratique, nous rendrons la visualisation de données amusante et accessible. Vous apprendrez à utiliser Looker Studio pour créer un outil interactif simple à partir de données issues de la vie quotidienne. Aucun code requis — juste de la créativité ! À la fin de la session, vous repartirez avec un outil personnalisé et facile à comprendre, qui vous montrera comment appliquer des techniques de visualisation à votre quotidien. Que vous souhaitiez suivre vos habitudes, vos loisirs ou tout autre aspect de votre vie, cet atelier vous aidera à découvrir à quel point il est simple de donner vie aux données.",
+      "shortDescription": "Dans cet atelier pratique, nous rendrons la visualisation de données amusante et accessible. Vous apprendrez à utiliser Looker Studio pour créer un outil interactif simple à partir de données issues de la vie quotidienne.",
+      "speakerUUID": [
+        "9b8f90fb-eeba-44a6-bceb-158cb03db360"
+      ],
+      "tags": [
+        "Looker"
+      ]
+    },
+    {
+      "title": "Technovation dans la vie réelle : Des Premières Lignes de Code aux Réseaux Neuronaux, un Grand Départ",
+      "uuid": "04c00baf-3ecc-4088-9ef6-6d5f2d37721b",
+      "description": "Technovation Montréal est un organisme à but non lucratif qui vise à développer les compétences technologiques et entrepreneuriales chez les filles de 8 à 18 ans. Voulez-vous savoir pourquoi leur mission est si importante ? Joignez-vous à nous pour voir comment leurs initiatives redéfinissent ce qui est possible et l'avenir de la technologie avec une démonstration pratique",
+      "shortDescription": "Joignez-vous à nous pour voir comment leurs initiatives redéfinissent ce qui est possible et l'avenir de la technologie avec une démonstration pratique",
+      "speakerUUID": [
+        "1c0913e2-9ba4-4f6c-a2f7-aee46a45fd3a",
+        "1ac67011-3367-40de-81bc-941f5d977a31"
+      ],
+      "tags": [
+        "Technovation",
+        "Redefining what is possible"
+      ]
+    },
+    {
+      "title": "Organisations qui supportent les Femmes à Montréal : bâtir des ponts, abattre les murs, ensemble.",
+      "uuid": "66704b84-8be8-434e-be68-ec0f809bd633",
+      "description": "Ce panel présente les principales organisations qui soutiennent les femmes dans l'industrie technologique de Montréal. Nous sommes unis par un objectif commun : veiller à ce que les femmes aient les connaissances et les ressources nécessaires pour s'épanouir et façonner leur avenir dans la technologie, au même titre que leurs homologues masculins. Montréal possède un écosystème dynamique d'organisations travaillant à la réalisation de cette vision, et ce panel célèbre cette diversité. Bien que chaque organisation conserve son identité et son approche uniques, nous reconnaissons le pouvoir de la collaboration. Ensemble, nous amplifions notre impact et envoyons un message clair : nous nous engageons à travailler ensemble pour accueillir et autonomiser davantage de femmes et d'autre minorités dans le secteur technologique.",
+      "speakerUUID": [
+        "da5116af-0b5f-4de4-afcd-3f70fedfa829"
+      ],
+      "tags": [
+        "Women in Tech"
       ]
     },
     {

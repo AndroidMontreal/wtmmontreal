@@ -1,6 +1,7 @@
 {
   "title": "Conférencières",
   "description": "Apprenez des meilleurs de l’industrie. Nos conférenciers sont des experts dans leur domaine et sont heureux de partager leurs connaissances avec vous.",
+  "about": "À propos de",
   "speakers": [
     {
       "name": "Anita (YinTing) He",
@@ -80,6 +81,28 @@
       }
     },
     {
+      "name": "Balkissa Toure",
+      "uuid": "abec89d6-764e-4af5-9457-8d10bb68c79c",
+      "slug": "balkissa-toure",
+      "title": "InfoSys",
+      "shortBio": "Je suis une ingénieure de systèmes bilingue (français/anglais) qui aime exercer ses fonctions multiples avec passion et détermination. En occupant un emploi à temps plein, j’ai réussi à obtenir une maîtrise, à faire des recherches sur l’IA et à lancer ma propre startup, tout ça en même temps. Mon travail dans le domaine de l’IA se concentre sur l’éthique, l’équité et l’inclusion, avec une emphase particulière pour la lutte contre les préjugés sexistes et raciaux dans la technologie. Grâce à mes recherches, j'explore comment les systèmes de l'IA peuvent involontairement renforcer les inégalités sociales et comment nous pouvons mettre en œuvre des solutions plus justes et plus responsables. Ce qui me distingue, c'est ma capacité à relever ces défis avec une approche interdisciplinaire, alliant technologie, psychologie et impact social. Je crois que le multitâche, lorsqu'il est bien fait, peut être un outil puissant pour la croissance personnelle et professionnelle. Mon expérience m’a appris à établir des priorités, à rester organisée et à surmonter des défis comme le doute de soi et le syndrome de l’imposteur. Je suis excitée de partager mes idées et mes stratégies pour aider les autres à réaliser leurs ambitions sans se sentir dépassées. En dehors du travail, j'aime danser, faire du Pilates et réfléchir à la beauté des relations humaines. Quel est mon mot préféré ? Empathie existentielle : un rappel que chacun a une histoire unique qui mérite d'être explorée.",
+      "image": "/images/speakers/balkissa.jpeg",
+      "social": {
+        "email": "tourebalkissa99@gmail.com"
+      }
+    },
+    {
+     "name": "Hanna Abdel Hamid",
+     "uuid": "7b669b1f-5498-46ed-9e9f-ab4c71223227",
+     "slug": "hanna-abdel-hamid",
+     "title": "Sigma Software Canada",
+     "shortBio": "Hanna est une dirigeante primée et une cheffe de file reconnue dans les opérations commerciales, le leadership d'équipes interfonctionnelles et le développement d’affaires. Nommée l'une des 100 femmes les plus puissantes du Canada en 2024 par WXN dans la catégorie Executive Leaders, elle combine vision stratégique et excellence opérationnelle lui permettant de stimuler la croissance et produire des résultats percutants.",
+     "image": "/images/speakers/hanna_abdel_hamid.jpg",
+     "social": {
+       "email": "hamidhanna@gmail.com"
+     }
+   },
+    {
       "name": "Cecy Ramallo",
       "uuid": "7o8p9q0r-stuv-wxyz-1234-5abc6def7890",
       "slug": "cecy-ramallo",
@@ -111,6 +134,50 @@
       "social": {
         "email": "sophie.li@dialogue.co"
       }
+    },
+    {
+    "name": "Jihoo Park",
+    "uuid": "9b8f90fb-eeba-44a6-bceb-158cb03db360",
+    "slug": "jihoo-park",
+    "title": "Warner Bros",
+    "shortBio": "Salut, je suis Jihoo! Je suis passionnée par l'idée de rendre la technologie accessible et amusante pour tout le monde. J'aime aider les autres à découvrir de nouvelles façons d'utiliser la technologie de manière créative, que ce soit pour des projets personnels ou dans la vie de tous les jours. Mon objectif est de montrer que tout le monde peut bâtir, créer et apprendre, peu importe son parcours. Quand je n'enseigne pas, tu peux me trouver en train de découvrir de nouveaux restos ou de jouer de la guitare !",
+    "image": "/images/speakers/jihoo.jpeg",
+    "social": {
+      "email": "jihoo.park@warnerbros.com"
     }
+  },
+  {
+    "name": "Stephanie Jecrois",
+    "uuid": "1c0913e2-9ba4-4f6c-a2f7-aee46a45fd3a",
+    "slug": "stephanie-jecrois",
+    "title": "Technovation Montreal",
+    "shortBio": "Stéphanie Jecrois est cofondatrice de Technovation Montréal, un organisme à but non lucratif qui vise à développer les compétences en technologie et en entrepreneuriat chez les filles de 8 à 18 ans. La mission est d’équiper les jeunes filles avec les outils et le mentorat nécessaires afin qu’elles deviennent des entrepreneures et leaders dans le domaine de la technologie.",
+    "image": "/images/speakers/stephanie_jecrois.jpg",
+    "social": {
+      "email": "stephanie@technovationmontreal.com"
+    }
+  },
+  {
+    "name": "Emily Fetco",
+    "uuid": "1ac67011-3367-40de-81bc-941f5d977a31",
+    "slug": "emily_fetco",
+    "title": "Technovation Montreal",
+    "shortBio": "Emily Fetco est une jeune scientifique passionnée et ambitieuse, spécialisée en intelligence artificielle, développement d’applications mobiles et imagerie médicale. Dès son plus jeune âge, elle s'est plongée dans le codage, progressant rapidement des projets débutants aux applications avancées d’apprentissage automatique. Son parcours est jalonné de distinctions prestigieuses, notamment le Prix Femmes+ en Tech au BrébeufHX Hackathon, la première place au Technovation Montreal Hackathon, ainsi que plusieurs honneurs académiques. \n\n Emily a contribué activement à la recherche en intelligence artificielle et en imagerie médicale, développant des architectures U-Net pour des modèles de segmentation en apprentissage profond. Elle a présenté ses travaux lors d’événements d’envergure, notamment le symposium du 40e anniversaire du McConnell Brain Imaging Centre (The Neuro, Université McGill). Ses compétences techniques couvrent Python, TensorFlow, React Native, JavaScript, HTML, CSS, ainsi que des outils de segmentation IRM comme ITK-Snap et minc tools. \n\n Au-delà de son expertise technique, Emily est une fervente défenseuse de la jeunesse dans les STEM, et notamment des jeunes filles dans la technologie. Elle a participé à des ateliers chez Google et Microsoft, publié dans Frontiers for Young Minds et a été mise en avant dans des interviews de presse pour ses projets innovants. Elle continue de repousser les frontières de l’intelligence artificielle et d’inspirer la prochaine génération d’innovateurs.",
+    "image": "/images/speakers/emily_fetco.jpg",
+    "social": {
+      "email": "emilie@technovationmontreal.com"
+    }
+  },
+  {
+    "name": "Diana Soler",
+    "uuid": "da5116af-0b5f-4de4-afcd-3f70fedfa829",
+    "slug": "diana-soler",
+    "title": "Somos Latinx in Tech",
+    "shortBio": "Diana Soler est cheffe de produit et occupe actuellement le poste de directrice des opérations, de l'analyse et de l'activation des produits chez Assent. Forte d'une solide expérience dans la gestion et le coaching d'équipes d'exploitation de produits (product ops), Diana a occupé des rôles clés chez AppDirect et Airbnb. Au-delà de ses activités professionnelles, Diana est profondément engagée dans l’émancipation et la participation des communautés sous-représentées dans le secteur des technologies. En tant que cheffe de chapitre pour les Latinas in Tech Canada, elle anime un réseau de soutien pour les femmes latines, encourageant leur participation active et développant leur leadership dans l'espace technologique. De plus, en tant que cofondatrice de Somos Latinx in Tech, Diana contribue à bâtir une communauté inclusive qui offre des opportunités de réseautage, des ressources, du mentorat aux professionnel·le·s de la technologie hispaniques et latinos et à leurs allié·e·s. Son dévouement à la promotion de la diversité et l'inclusion, combiné à sa vaste expérience dans les opérations de produits, démontre son engagement à conduire un changement positif dans l'industrie des technologies.",
+    "image": "/images/speakers/diana_soler.jpg",
+    "social": {
+      "email": "diana.soler@somoslatinxintech.com"
+    }
+  }
   ]
 }

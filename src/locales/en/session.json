@@ -110,7 +110,9 @@
       "description": "This panel discussion explores the multifaceted lives of women today, delving into the delicate balance between career, family, personal aspirations, and self-care. Join us as we explore the challenges and triumphs women face as they navigate the ever-evolving demands of modern life. Our panelists will share personal experiences, insights, and strategies for thriving in a world that often expects women to be everything to everyone. This is a conversation for women seeking inspiration, support, and practical advice on how to create a fulfilling and balanced life.",
       "shortDescription": "This panel discussion explores the multifaceted lives of women today, delving into the delicate balance between career, family, personal aspirations, and self-care.",
       "speakerUUID": [
-        "6n7o8p9q-0rst-uvw1-2xyz-3abc456def78"
+        "6n7o8p9q-0rst-uvw1-2xyz-3abc456def78",
+        "abec89d6-764e-4af5-9457-8d10bb68c79c",
+        "7b669b1f-5498-46ed-9e9f-ab4c71223227"
       ],
       "tags": [
         "Women",
@@ -162,6 +164,57 @@
         "Inclusivity",
         "Community",
         "Innovation"
+      ]
+    },
+    {
+      "title": "Build Your First Mobile App Without Code: A Hands-On FlutterFlow Workshop",
+      "uuid": "4b587937-e8e4-48a7-8894-0e3b75887152",
+      "description": "This interactive workshop is perfect for beginners who want to build their first mobile app without writing a single line of code. In this session, we’ll use FlutterFlow, an intuitive no-code platform, to design and develop a simple app that organizes and displays data. You’ll follow along step-by-step, with visuals and hands-on guidance to ensure you’re building your own app by the end of the session. No previous coding experience is necessary—just bring your creativity! By the end of this workshop, you’ll not only have a working app but also the confidence to continue creating apps and expanding your ideas!",
+      "shortDescription": "This interactive workshop is perfect for beginners who want to build their first mobile app without writing a single line of code.",
+      "speakerUUID": [
+        "9b8f90fb-eeba-44a6-bceb-158cb03db360"
+      ],
+      "tags": [
+        "Flutter",
+        "No Coding"
+      ]
+    },
+    {
+      "title":  "Play with Your Data in Your Daily Life: An Intro to Looker Studio",
+      "uuid": "3bbe77cc-c1db-4827-9391-ffddf8e61c56",
+      "description": "In this hands-on workshop, we’ll break down data visualization into something fun and approachable. You’ll learn how to use Looker Studio to create a simple, interactive tool using daily-life data. No coding required—just creativity! By the end, you’ll have a personalized, easy-to-understand data tool that shows you how to apply visualization techniques to your everyday life. Whether you’re tracking your habits, hobbies, or anything else, this session will help you see how simple it can be to bring data to life.",
+      "shortDescription": "In this hands-on workshop, we’ll break down data visualization into something fun and approachable. You’ll learn how to use Looker Studio to create a simple, interactive tool using daily-life data. No coding required—just creativity!",
+      "speakerUUID": [
+        "9b8f90fb-eeba-44a6-bceb-158cb03db360"
+      ],
+      "tags": [
+        "Looker"
+      ]
+    },
+    {
+      "title": "Technovation in real life: From First Lines of Code to Neural Networks - The Start of Something Bigger",
+      "uuid": "04c00baf-3ecc-4088-9ef6-6d5f2d37721b",
+      "description": "Technovation Montréal is a non-profit organization that aims to develop technology and entrepreneurship skills among girls aged 8 to 18.  Do you want to why their mission is so important? Join us to see how their initiatives are redefining what is possible and the future of technology with a practical demo",
+      "shortDescription": "Join us to see how their initiatives are redefining what is possible and the future of technology with a practical demo",
+      "speakerUUID": [
+        "1c0913e2-9ba4-4f6c-a2f7-aee46a45fd3a",
+        "1ac67011-3367-40de-81bc-941f5d977a31"
+      ],
+      "tags": [
+        "Technovation",
+        "Redefining what is possible"
+      ]
+    },
+    {
+      "title": "Organizations supporting women in Montréal: bridging gaps, breaking barriers together",
+      "uuid": "66704b84-8be8-434e-be68-ec0f809bd633",
+      "description": "This panel showcases the leading organizations dedicated to supporting women in Montréal's tech industry. We're united by a common goal: ensuring women have the knowledge and resources they need to thrive and shape their futures in tech, on par with their male counterparts.  Montréal boasts a vibrant ecosystem of organizations working towards this vision, and this panel celebrates that diversity. While each organization maintains its unique identity and approach, we recognize the power of collaboration. Together, we amplify our impact and send a clear message: we are committed to working together to welcome and empower more women and other minorities in the tech sector.",
+      "shortDescription": "This panel showcases the leading organizations dedicated to supporting women in Montréal's tech industry. We're united by a common goal: ensuring women have the knowledge and resources they need to thrive and shape their futures in tech, on par with their male counterparts.  Montréal boasts a vibrant ecosystem of organizations working towards this vision, and this panel celebrates that diversity. While each organization maintains its unique identity and approach, we recognize the power of collaboration.",
+      "speakerUUID": [
+        "da5116af-0b5f-4de4-afcd-3f70fedfa829"
+      ],
+      "tags": [
+        "Women in Tech"
       ]
     },
     {
