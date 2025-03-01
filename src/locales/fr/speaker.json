@@ -136,6 +136,26 @@
       }
     },
     {
+      "name": "Afaf Taik",
+      "uuid": "4f0343aa-4129-48b9-bdec-42399d0cfb01",
+      "slug": "afaf-taik",
+      "title": "Mila- Quebec AI Institute",
+      "shortBio": "La Dr Afaf Taik est professeure adjointe à l'Université de Sherbrooke et actuellement chercheure postdoctorale au Mila-Institut d'IA du Québec et à l'Université de Montréal, travaillant sur l'intersection de l'équité et de la confidentialité dans l'apprentissage automatique. Elle a obtenu un doctorat en génie électrique en 2022 de l'Université de Sherbrooke, où elle a travaillé sur des problèmes liés aux algorithmes d'apprentissage automatique distribués. Afaf a reçu de nombreux prix et reconnaissances pour son travail, tels que les bourses postdoctorales Claire DesChênes (2023) et FRQNT (2024) et le prix du meilleur article à l'IEEE LCN 2021.",
+      "image": "/images/speakers/afaf_taik.jpg",
+      "social": {
+      }
+    },
+    {
+      "name": "Khaoula Chehbouni",
+      "uuid": "efb2a752-3172-4f30-a050-6cbe246ac8f8",
+      "slug": "khaoula-chehbouni",
+      "title": "Mila- Quebec AI Institute",
+      "shortBio": "Khaoula Chehbouni est étudiante de deuxième année au doctorat en informatique à l'Université McGill et à Mila (Institut d'IA du Québec). Elle a reçu la prestigieuse bourse de formation doctorale du FRQNT pour effectuer des recherches sur l'équité et la sécurité dans les grands modèles de langage. Auparavant, elle a travaillé comme scientifique principale des données à Statistique Canada. Elle est titulaire d'une maîtrise en intelligence d'affaires de HEC Montréal, pour laquelle elle a reçu le prix de la meilleure thèse. Ses intérêts de recherche comprennent l'IA responsable, les questions d'équité et de sécurité dans les grands modèles de langage.",
+      "image": "/images/speakers/khaoula_chehbouni.png",
+      "social": {
+      }
+    },
+    {
     "name": "Jihoo Park",
     "uuid": "9b8f90fb-eeba-44a6-bceb-158cb03db360",
     "slug": "jihoo-park",
@@ -177,6 +197,46 @@
     "image": "/images/speakers/diana_soler.jpg",
     "social": {
       "email": "diana.soler@somoslatinxintech.com"
+    }
+  },
+  {
+    "name": "Eva Diaz",
+    "uuid": "afd2bfd5-b7bf-45b4-bf1d-6dc647c3950c",
+    "slug": "eva-diaz",
+    "title": "STEM Women Congress",
+    "shortBio": "Eva Diaz Claver est la PDG de Global STEM Women et du STEM Women Congress (SWC), une leader engagée dans la promotion de la diversité de genre dans les domaines STEM. Elle est la fondatrice d'une initiative pionnière, axée sur les données et dédiée à réduire l'écart entre les genres dans les STEM : le STEM Women Annual Reports (SWAR). Cette méthodologie innovante permet d’identifier les inégalités de genre, de créer un modèle prédictif pour le futur talent STEM et d’activer l’écosystème des acteurs engagés dans la réduction de cet écart dans chaque pays où le SWC est représenté : Espagne, Portugal, Italie, Canada, Colombie, Brésil et Chili. Elle est titulaire d’un Master en Journalisme de l'Universitat Autònoma de Barcelona (Espagne) et d’un Master en Marketing Management de l’EADA Business School. En 2023, Eva a reçu le Prix Dona TIC pour la meilleure initiative entrepreneuriale, et en 2024, elle a été distinguée par les prix Women Changing the World et Women Changing the World America, renforçant ainsi son impact transformateur dans la promotion des femmes dans les STEM à l’échelle mondiale.",
+    "image": "/images/speakers/eva_diaz.jpg",
+    "social": {
+    }
+  },
+  {
+    "name": "Mariam Jabara",
+    "uuid": "0679723c-eda7-41b1-b858-638285c6bf52",
+    "slug": "mariam-jabara",
+    "title": "Women in AI",
+    "shortBio": "Mariam travaille dans le domaine de l'IA depuis 5 ans, à la fois académique et professionnelle. Actuellement, elle travaille comme développeuse de logiciels d'IA pour Osedea, une entreprise d'innovation basée à Montréal, avec une expérience antérieure dans des entreprises telles que Google Research et Deloitte. Ses valeurs sont ancrées dans la construction d'une communauté, la diversité et l'inclusion, et l'utilisation responsable de l'IA pour résoudre les problèmes contribue à l'amélioration de la société.",
+    "image": "/images/speakers/placeholder.png",
+    "social": {
+    }
+  },
+  {
+    "name": "Stefania Pecore",
+    "uuid": "3f2218bf-e2d9-4058-a8f5-9dedb5ed7a40",
+    "slug": "stefania-pecore",
+    "title": "Women Techmakers Montréal",
+    "shortBio": "Stefania a débuté son parcours avec un diplôme universitaire en langues étrangères, reconnaissant la nécessité d'une communication inclusive lorsque des barrières linguistiques existaient. En tant que première étudiante à introduire un sujet d'IA dans son université en Italie, axé sur l'IA et la traduction automatique, son chemin ne s'est pas arrêté là. Par la suite, elle a poursuivi ses études supérieures, obtenant une maîtrise et un doctorat en informatique, programmation et Traitement Automatique du Langage Naturel (TALN) en France. Passionnée par l'exploitation de la technologie pour améliorer la communication, elle a joué un rôle central en aidant de nombreuses entreprises de divers secteurs - éducation, industrie manufacturière, biotechnologie et même s'aventurant dans les jeux vidéo - en intégrant des solutions de TALN et d'IA dans leurs produits. Désireuse de partager ses idées, elle est devenue mentore pour les femmes, occupant les postes d'ambassadrice de Google Women Techmakers, Women in AI et Women in Games. En 2024, elle est devenue directrice générale de Women Techmakers Montréal, une initiative communautaire inspirée du programme Google Women Techmakers. Elle a été nommée experte en IA pour le programme Women4Ethical AI de l'UNESCO, ce qui lui permet d'appliquer davantage son expertise dans la promotion d'une IA responsable et le soutien des approches éthiques dans la création de systèmes d'IA.",
+    "image": "/images/team/stefania.jpg",
+    "social": {
+    }
+  },
+  {
+    "name": "Hana Schonegger",
+    "uuid": "8859f090-b7ea-442c-980d-e9873b27cad7",
+    "slug": "hana-schonegger",
+    "title": "Women In Animation",
+    "shortBio": "Hana est une artiste et productrice d'effets visuels, une scientifique des systèmes cognitifs et une activiste sociale actuellement dirige la section montréalaise de Women in Animation, un organisme à but non lucratif qui milite en faveur d'un avenir équitable pour l’animation, les effets visuels, les jeux et les industries connexes. C'est une passionnée de cinéma et technologie de l'animation, linguistique, psychologie et neurosciences. Originaire d'Europe de l'Est, elle a vécu dans des pays du monde entier et elle est arrivée à Montréal il y a 6 ans. Elle n'est toujours pas habituée au froid et en parle aussi ouvertement qu'elle parle des droits des travailleurs.",
+    "image": "/images/speakers/hana_schonegger.jpg",
+    "social": {
     }
   }
   ]

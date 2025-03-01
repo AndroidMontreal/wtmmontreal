@@ -136,6 +136,26 @@
       }
     },
     {
+      "name": "Afaf Taik",
+      "uuid": "4f0343aa-4129-48b9-bdec-42399d0cfb01",
+      "slug": "afaf-taik",
+      "title": "Mila- Quebec AI Institute",
+      "shortBio": "Dr. Afaf Taik is an incoming assistant professor at Université de Sherbrooke, and currently a Postdoctoral Fellow at Mila- Quebec AI Institute and Université de Montréal,  working on the intersection of fairness and privacy in machine learning. She obtained a PhD in Electrical engineering in 2022 from Université de Sherbrooke, where she worked on problems related to distributed machine learning algorithms. Afaf received multiple awards and recognitions for her work, such as Claire DesChênes (2023) and FRQNT (2024)  postdoctoral fellowships and Best paper award at IEEE LCN 2021.",
+      "image": "/images/speakers/afaf_taik.jpg",
+      "social": {
+      }
+    },
+    {
+      "name": "Khaoula Chehbouni",
+      "uuid": "efb2a752-3172-4f30-a050-6cbe246ac8f8",
+      "slug": "khaoula-chehbouni",
+      "title": "Mila- Quebec AI Institute",
+      "shortBio": "Khaoula Chehbouni is a second year PhD Student in Computer Science at McGill University and Mila (Quebec AI Institute). She was awarded the prestigious FRQNT Doctoral Training Scholarship to research fairness and safety in large language models. Previously, she worked as a Senior Data Scientist at Statistics Canada. She holds a Masters in Business Intelligence from HEC Montreal, for which she was awarded the Best Thesis Award. Her research interests includes responsible AI, fairness and safety issues in large language models.",
+      "image": "/images/speakers/khaoula_chehbouni.png",
+      "social": {
+      }
+    },
+    {
       "name": "Jihoo Park",
       "uuid": "9b8f90fb-eeba-44a6-bceb-158cb03db360",
       "slug": "jihoo-park",
@@ -160,7 +180,7 @@
     {
       "name": "Emily Fetco",
       "uuid": "1ac67011-3367-40de-81bc-941f5d977a31",
-      "slug": "stephanie-jecrois",
+      "slug": "emily_fetco",
       "title": "Technovation Montreal",
       "shortBio": "Emily Fetco is a passionate and driven young scientist with a deep interest in artificial intelligence, mobile app development, and medical imaging. From an early age, she immersed herself in coding, quickly progressing from beginner projects to advanced machine learning applications. Her journey has been marked by numerous accolades, including the Prix Femmes+ en Tech at the BrébeufHX Hackathon, first place at the Technovation Montreal Hackathon, and multiple honors for academic excellence. \n\n Emily has actively contributed to AI and medical imaging research, developing U-Net architectures for deep learning-based segmentation models. She has presented her work at prestigious events, including the McConnell Brain Imaging Centre’s 40th Anniversary Symposium at The Neuro (McGill University). Her technical expertise spans Python, TensorFlow, React Native, JavaScript, HTML, CSS, and MRI segmentation tools such as ITK-Snap and minc tools. \n\n Beyond her technical skills, Emily is a strong advocate for youth in STEM, especially for young women in technology. She has participated in Google and Microsoft workshops, published in Frontiers for Young Minds, and been featured in press interviews for her innovative projects. She continues to push boundaries in AI and inspire the next generation of innovators.",
       "image": "/images/speakers/emily_fetco.jpg",
@@ -177,6 +197,46 @@
       "image": "/images/speakers/diana_soler.jpg",
       "social": {
         "email": "diana.soler@somoslatinxintech.com"
+      }
+    },
+    {
+      "name": "Eva Diaz",
+      "uuid": "afd2bfd5-b7bf-45b4-bf1d-6dc647c3950c",
+      "slug": "eva-diaz",
+      "title": "STEM Women Congress",
+      "shortBio": "Eva Diaz Claver is the CEO of Global STEM Women and STEM Women Congress (SWC) a leader dedicated to advancing gender diversity in STEM fields. She is the founder of a pioneering initiative data driven and focused on bridging the gender gap in STEM fields called the STEM Women Annual Reports (SWAR). This groundbreaking methodology is designed to detect gender gaps, create a predictive model for future STEM talent, and activate the ecosystem of stakeholders committed to addressing the gender gap in each country where SWC is represented: Spain, Portugal, Italy, Canada, Colombia, Brazil and Chile. \n\n She is a Master in Journalism by the Universitat Autònoma de Barcelona (Spain) and Màster in Marketing Management by EADA Business School. In 2023, Eva received the Premi Dona TIC, for the best company initiative, and in 2024, Eva received the Women Changing the World and Women Changing the World America awards, further cementing her transformative impact in promoting women in STEM worldwide.",
+      "image": "/images/speakers/eva_diaz.jpg",
+      "social": {
+      }
+    },
+    {
+      "name": "Mariam Jabara",
+      "uuid": "0679723c-eda7-41b1-b858-638285c6bf52",
+      "slug": "mariam-jabara",
+      "title": "Women in AI",
+      "shortBio": "Mariam has been in the AI space for the last 5 years, in both academic and professional capacities. Currently, she works as an AI Software Developer for Osedea, a Montreal based innovation firm, with previous experience at companies such as Google Research and Deloitte. Her values are rooted in building community, diversity and inclusion, and using AI responsibly to solve problems contribute to the betterment of society",
+      "image": "/images/speakers/placeholder.png",
+      "social": {
+      }
+    },
+    {
+      "name": "Stefania Pecore",
+      "uuid": "3f2218bf-e2d9-4058-a8f5-9dedb5ed7a40",
+      "slug": "stefania-pecore",
+      "title": "Women Techmakers Montréal",
+      "shortBio": "Stefania embarked on her journey with a university degree in foreign languages, recognizing the need for inclusive communication when language barriers existed. As the first to introduce an AI subject to her university in Italy focused on AI and automatic translation, her path unfolded. Subsequently, she pursued higher education, obtaining a master's and Ph.D. in CS, programming, and NLP in France. With a passion for leveraging technology to enhance communication, she played a pivotal role in assisting numerous enterprises across diverse sectors—education, manufacturing, biotech, and even venturing into video games—by integrating NLP and AI solutions into their products. Eager to share her insights, she became a mentor for women, holding positions as a Google Women Techmaker, Women in AI, and Women in Games Ambassador. In 2024, she became the Executive Director of Women Techmakers Montréal a community-led initiative inspired by the Google Women Techmakers program. She was appointed as an AI Expert for UNESCO's Women4Ethical AI program allowing her to apply further her expertise in fostering responsible AI and supporting Ethical approaches in AI systems creation.",
+      "image": "/images/team/stefania.jpg",
+      "social": {
+      }
+    },
+    {
+      "name": "Hana Schonegger",
+      "uuid": "8859f090-b7ea-442c-980d-e9873b27cad7",
+      "slug": "hana-schonegger",
+      "title": "Women In Animation",
+      "shortBio": "Hana is a VFX artist and producer, Cognitive Systems scientist, and social activist currently leading the Montréal chapter of Women in Animation, a non-profit advocating for a more equitable future for Animation, VFX, Games and related industries. She's a geek for film and animation technology, linguistics, psychology and neuroscience. Originally from Eastern Europe, she's lived in countries all around the world. She's been in Montréal for the past 6 years. She's still not used to the cold, and she is as vocal about this as she is about workers' rights.",
+      "image": "/images/speakers/hana_schonegger.jpg",
+      "social": {
       }
     }
   ]

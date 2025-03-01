@@ -208,11 +208,30 @@
       "title": "Organisations qui supportent les Femmes à Montréal : bâtir des ponts, abattre les murs, ensemble.",
       "uuid": "66704b84-8be8-434e-be68-ec0f809bd633",
       "description": "Ce panel présente les principales organisations qui soutiennent les femmes dans l'industrie technologique de Montréal. Nous sommes unis par un objectif commun : veiller à ce que les femmes aient les connaissances et les ressources nécessaires pour s'épanouir et façonner leur avenir dans la technologie, au même titre que leurs homologues masculins. Montréal possède un écosystème dynamique d'organisations travaillant à la réalisation de cette vision, et ce panel célèbre cette diversité. Bien que chaque organisation conserve son identité et son approche uniques, nous reconnaissons le pouvoir de la collaboration. Ensemble, nous amplifions notre impact et envoyons un message clair : nous nous engageons à travailler ensemble pour accueillir et autonomiser davantage de femmes et d'autre minorités dans le secteur technologique.",
+      "shortDescription": "Ce panel présente les principales organisations qui soutiennent les femmes dans l'industrie technologique de Montréal.",
       "speakerUUID": [
-        "da5116af-0b5f-4de4-afcd-3f70fedfa829"
+        "da5116af-0b5f-4de4-afcd-3f70fedfa829",
+        "afd2bfd5-b7bf-45b4-bf1d-6dc647c3950c",
+        "0679723c-eda7-41b1-b858-638285c6bf52",
+        "3f2218bf-e2d9-4058-a8f5-9dedb5ed7a40",
+        "8859f090-b7ea-442c-980d-e9873b27cad7"
       ],
       "tags": [
         "Women in Tech"
+      ]
+    },
+    {
+      "title": "Biais d'algorithme : peut-on un jour espérer une IA exempte de discrimination?",
+      "uuid": "9aef74ad-140d-46d7-afe8-0081c521b778",
+      "description": "Les systèmes d’IA étant de plus en plus intégrés dans les processus décisionnels critiques, les préoccupations concernant l’équité et les biais occupent une place grandissante. Cet atelier explore comment les biais peuvent émerger et se propager tout au long du cycle de développement de l’apprentissage automatique, de la collecte des données au déploiement des modèles, entraînant des impacts réels. Nous commencerons par décortiquer différentes définitions de l’équité, en soulignant la complexité de traduire des notions sociales en formulations mathématiques. Grâce à des exercices pratiques inspirés d’applications réelles, les participant·e·s seront confrontés aux défis que pose la définition de l’équité dans des scénarios de prise de décision binaire. Ces exercices illustreront la nature sociotechnique de l’équité, en insistant sur le fait que les interventions techniques seules ne peuvent pas résoudre les biais systémiques. De plus, nous examinerons comment les biais s’intègrent dans le pipeline d’apprentissage automatique, influençant les résultats de manière subtile mais significative. Au-delà des mesures traditionnelles d’équité, nous explorerons également les défis posés par l’IA générative, allant des biais de représentation aux disparités dans la génération de contenu. À la fin de cet atelier, les participant·e·s auront une compréhension approfondie de l’équité comme un problème multidimensionnel et repartiront avec des pistes concrètes pour développer des systèmes d’IA plus responsables.",
+      "shortDescription": "Cet atelier explore comment les biais peuvent émerger et se propager tout au long du cycle de développement de l’apprentissage automatique, de la collecte des données au déploiement des modèles, entraînant des impacts réels.",
+      "speakerUUID": [
+        "4f0343aa-4129-48b9-bdec-42399d0cfb01",
+        "efb2a752-3172-4f30-a050-6cbe246ac8f8"
+      ],
+      "tags": [
+        "IA",
+        "Biais"
       ]
     },
     {

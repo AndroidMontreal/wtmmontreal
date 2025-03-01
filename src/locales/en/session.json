@@ -211,10 +211,28 @@
       "description": "This panel showcases the leading organizations dedicated to supporting women in Montréal's tech industry. We're united by a common goal: ensuring women have the knowledge and resources they need to thrive and shape their futures in tech, on par with their male counterparts.  Montréal boasts a vibrant ecosystem of organizations working towards this vision, and this panel celebrates that diversity. While each organization maintains its unique identity and approach, we recognize the power of collaboration. Together, we amplify our impact and send a clear message: we are committed to working together to welcome and empower more women and other minorities in the tech sector.",
       "shortDescription": "This panel showcases the leading organizations dedicated to supporting women in Montréal's tech industry. We're united by a common goal: ensuring women have the knowledge and resources they need to thrive and shape their futures in tech, on par with their male counterparts.  Montréal boasts a vibrant ecosystem of organizations working towards this vision, and this panel celebrates that diversity. While each organization maintains its unique identity and approach, we recognize the power of collaboration.",
       "speakerUUID": [
-        "da5116af-0b5f-4de4-afcd-3f70fedfa829"
+        "da5116af-0b5f-4de4-afcd-3f70fedfa829",
+        "afd2bfd5-b7bf-45b4-bf1d-6dc647c3950c",
+        "0679723c-eda7-41b1-b858-638285c6bf52",
+        "3f2218bf-e2d9-4058-a8f5-9dedb5ed7a40",
+        "8859f090-b7ea-442c-980d-e9873b27cad7"
       ],
       "tags": [
         "Women in Tech"
+      ]
+    },
+    {
+      "title": "Bias in the Machine: Can AI Ever Be Fair?",
+      "uuid": "9aef74ad-140d-46d7-afe8-0081c521b778",
+      "description": "As AI systems become increasingly embedded in critical decision-making processes, concerns about fairness and bias have taken center stage. This workshop explores how biases can emerge and propagate throughout the machine learning development lifecycle, from data collection to model deployment, leading to real-world harms. We will begin by unpacking different definitions of fairness, highlighting the complexities of translating social definitions into mathematical formulations. Through hands-on exercises inspired by real-world applications, participants will grapple with the challenges of defining fairness in binary decision-making scenarios. These exercises will illustrate the socio-technical nature of fairness, emphasizing that technical interventions alone cannot resolve systemic biases. Furthermore, we will examine how bias is embedded in the ML pipeline, affecting outcomes in subtle yet impactful ways. Expanding beyond traditional fairness metrics, we will also explore generative AI’s unique fairness challenges, from representation biases to content generation disparities. By the end of this workshop, participants will gain a deeper understanding of fairness as a multidimensional problem and leave with practical insights into developing more responsible AI systems.",
+      "shortDescription": "This workshop explores how biases can emerge and propagate throughout the machine learning development lifecycle, from data collection to model deployment, leading to real-world harms.",
+      "speakerUUID": [
+        "4f0343aa-4129-48b9-bdec-42399d0cfb01",
+        "efb2a752-3172-4f30-a050-6cbe246ac8f8"
+      ],
+      "tags": [
+        "IA",
+        "Biais"
       ]
     },
     {
