@@ -75,7 +75,8 @@
         },
         {
           "href": "mailto:sponsors@wtmmontreal.com?subject=Information pour la proposition de commandite",
-          "label": "Obtenez la proposition de commandite !"
+          "label": "Obtenez la proposition de commandite !",
+          "newWindow": true
         },
         {
           "href": "/code-of-conduct",

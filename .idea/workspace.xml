@@ -6,70 +6,21 @@
   <component name="ChangeListManager">
     <list default="true" id="c94189e5-5657-4e02-be2d-51c766fcc41f" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/app/[lang]/code-of-conduct/layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/[lang]/schedule/layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/[lang]/speakers/[slug]/layout.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/elements/SpeakerInfo.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/speakers.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/en/schedule.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/en/session.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/en/speaker.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/fr/schedule.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/fr/session.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/locales/fr/speaker.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/jsconfig.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/ali.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/allen.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/billy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/boris.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/bryce.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/daniel.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/etienne.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/francois.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/gleb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/jhin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/jl.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/julia.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/kevin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/nav.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/nav.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/stacy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2023/stefania.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/ashley.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/boris.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/david.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/eckarath.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/eric.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/etienne.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/gleb.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/jl.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/kiruthika-subramani.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/mathieu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/medha.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/shannon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/stacy_veronneau.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/stefania.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/vincent.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/images/speakers/2024/yan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[lang]/schedule/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/schedule/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[lang]/speakers/[slug]/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/speakers/[slug]/page.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/[lang]/speakers/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/speakers/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/partners/MoovAI.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/partners/flutter_engineering.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/partners/flutter_engineering.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/partners/google_for_developers.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/partners/transit.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/not-found.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/not-found.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/elements/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/elements/SessionInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/SessionInfo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/elements/SpeakerCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/SpeakerCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/i18n/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/i18n/request.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/locales/en/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/locales/en/navigation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/navigation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/locales/fr/metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/partner.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/partner.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/sponsor.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/sponsor.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/locales/fr/navigation.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/navigation.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/fr/partner.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/partner.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/fr/sponsor.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/sponsor.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

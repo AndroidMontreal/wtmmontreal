@@ -31,6 +31,12 @@
       "website": "https://www.distech-controls.com/"
     },
     {
+      "level": "platinum",
+      "logo": "/images/partners/haven.svg",
+      "company": "havenstudios",
+      "website": "https://havenstudios.com/fr"
+    },
+    {
       "level": "gold",
       "logo": "/images/partners/go_rock_it_2025.svg",
       "company": "GO ROCK IT",
@@ -53,6 +59,12 @@
       "logo": "/images/partners/GameAddik.svg",
       "company": "GameAddik",
       "website": "https://gameaddik.com/"
+    },
+    {
+      "level": "silver",
+      "logo": "/images/partners/Transit.svg",
+      "company": "Transit",
+      "website": "https://transitapp.com/fr"
     }
   ]
 }
