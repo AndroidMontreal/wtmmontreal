@@ -8,67 +8,78 @@
         "name": "Stefania Pecòre",
         "title": "Executive Director at Women Techmakers Montréal",
         "image": "/images/team/stefania.jpg",
-        "link": "https://developers.google.com/profile/u/specore"
+        "link": "https://developers.google.com/profile/u/specore",
+        "year": "2023"
       },
       {
         "name": "Carolina Torres Restrepo",
         "title": "Configuration and Data Management Analyst at MDA Space | Google Women Techmakers Ambassador",
         "image": "/images/team/carolina.png",
-        "link": "https://www.linkedin.com/in/carolinatorresrestrepo/"
+        "link": "https://www.linkedin.com/in/carolinatorresrestrepo/",
+        "year":  "2023"
       },
       {
         "name": "Brigitte Couture",
         "title": "Mobile app development student, Non-profit organizations governance and management consultant",
         "image": "/images/team/Brigitte.jpg",
-        "link": "https://www.linkedin.com/in/brigittecouture/"
+        "link": "https://www.linkedin.com/in/brigittecouture/",
+        "year": "2025"
       },
       {
         "name": "Camila Henrique",
         "title": "Reporting Specialist at GameAddik. Women Techmakers Ambassador",
         "image": "/images/team/Camila.jpeg",
-        "link": "https://www.linkedin.com/in/camila-henrique-santos/"
+        "link": "https://www.linkedin.com/in/camila-henrique-santos/",
+        "year": "2024"
       },
       {
         "name": "Denny Perez",
         "title": "Software QA Analyst at Nventive Women Techmakers Ambassador",
         "image": "/images/team/denny.png",
-        "link": "https://www.linkedin.com/in/dennyperez18/"
+        "link": "https://www.linkedin.com/in/dennyperez18/",
+        "year": "2025"
       },
       {
         "name": "Jihoo Park",
         "title": "Senior Data Analyst @ Warner Bros. Games Montreal | WTM Ambassador | Member of the Google BI Customer Council",
         "image": "/images/team/Jihoo.jpeg",
-        "link": "https://developers.google.com/profile/u/109280340170455499902"
+        "link": "https://developers.google.com/profile/u/109280340170455499902",
+        "year": "2024"
       },
       {
         "name": "Leticia Pires",
         "title": "Data Scientist, AI Student, Women Techmakers Ambassador, Alura Ambassador and Mentor of Mulheres em Dados",
         "image": "/images/team/Leti.jpg",
-        "link": "https://www.linkedin.com/in/leticia-pires/"
+        "link": "https://www.linkedin.com/in/leticia-pires/",
+        "year": "2024"
       },
       {
         "name": "Salee Yadav",
         "title": "Data Analyst",
         "image": "/images/team/Saleem.jpg",
-        "link": "https://www.linkedin.com/in/saleem-yadav-03271116b/"
+        "link": "https://www.linkedin.com/in/saleem-yadav-03271116b/",
+        "year": "2024"
       },
       {
         "name": "Sofia Guego",
         "title": "Jr. Knowledge Graph Architect | Google Women Techmakers Ambassador",
         "image": "/images/team/Sofia.jpg",
-        "link": "https://www.linkedin.com/in/sofia-guerrero-b9613915b/Sofia%20Guerrero"
+        "link": "https://www.linkedin.com/in/sofia-guerrero-b9613915b/Sofia%20Guerrero",
+        "year": "2024"
       },
       {
         "name": "Michael Patane",
         "title": "Director, production and warehouse at Groupe BBH",
         "image": "/images/team/Mike.jpg",
-        "link": "https://www.linkedin.com/in/mpatane/"
+        "link": "https://www.linkedin.com/in/mpatane/",
+        "year": "2024"
       },
       {
         "name": "Mimoh Solanki",
         "title": "Full Stack Developer | GDG Montreal Organizer | WTM Montreal Organizer",
         "image": "/images/team/mimoh.jpg",
-        "link": "https://www.linkedin.com/in/mimohsolanki/"
+        "link": "https://www.linkedin.com/in/mimohsolanki/",
+        "year": "2025"
       }
     ]
   },

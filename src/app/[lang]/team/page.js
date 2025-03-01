@@ -3,6 +3,7 @@ import TitleWithSubtitle from '@/components/elements/TitleWithSubtitle';
 import SmallTitle from '@/components/elements/SmallTitle';
 import TeamMemberCard from '@/components/elements/TeamMemberCard';
 import { sortTeamByFirstName } from '@/lib/utils';
+import { sortByYearAndFirstName } from '@/lib/utils';
 import { v4 as uuidv4 } from 'uuid';
 import { useTranslations } from 'next-intl';
 
@@ -16,8 +17,9 @@ export default function Home() {
         uuid: uuidv4(),
       }))
     : [];
+
   // sort method for organizer by name
-  const sortedOrganizers = sortTeamByFirstName(organizerWithUUIDs); // Use the imported function
+  const sortedOrganizers = sortByYearAndFirstName(organizerWithUUIDs); // Use the imported function
   // error check for data
   const volunteerWithUUIDs = Array.isArray(t.raw('volunteer.volunteers'))
     ? t.raw('volunteer.volunteers').map((volunteer) => ({
