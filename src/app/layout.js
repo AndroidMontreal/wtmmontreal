@@ -9,10 +9,13 @@ const openSans = Open_Sans({
   display: 'swap',
   variable: '--font-open-sans',
 });
+
 export default function RootLayout({ children }) {
   return (
     <html lang="fr" className={openSans.className}>
-      <body>{children}</body>
+      <body>
+        <div>{children}</div>
+      </body>
     </html>
   );
 }

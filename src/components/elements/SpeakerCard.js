@@ -1,23 +1,16 @@
 import Image from 'next/image';
 import Link from 'next/link';
 
-const SpeakerCard = ({ speaker, year }) => {
-  const is2024Speaker = year === 2024;
-
+const SpeakerCard = ({ speaker }) => {
   return (
     <Link
-      href={
-        is2024Speaker
-          ? `/src/app/%5Blang%5D/speakers/${speaker.slug}`
-          : speaker.link
-      }
+      href={speaker.slug}
       rel="noopener noreferrer"
-      target={is2024Speaker ? '_self' : '_blank'} // Open 2023 links in new tab
-      className="group flex hover:text-red-700"
+      target="_self" // Open 2023 links in new tab
+      className="group flex"
     >
       <div className="flex flex-col">
         <div className="relative aspect-square overflow-hidden rounded-2xl shadow-md hover:shadow-xl transition">
-          {' '}
           {/* Fixed aspect ratio container */}
           <Image
             src={speaker.image}

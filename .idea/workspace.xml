@@ -69,7 +69,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/solan/Desktop/WTM 2025/wtm-2025/src/app&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/solan/Desktop/WTM 2025/wtm-2025/src/locales/fr&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -85,18 +85,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\app" />
       <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\locales\fr" />
-      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\public\images\logo" />
-      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\public\images\team" />
-      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\src\app\team" />
+      <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\app\[lang]\speakers" />
+      <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\app\[lang]\schedule" />
+      <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\app" />
+      <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\app\[lang]\code-of-conduct" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\components\elements" />
       <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\app" />
       <recent name="C:\Users\solan\Desktop\WTM 2025\wtm-2025\src\app\[lang]" />
       <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\public\images\partners" />
       <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\public\images\logo" />
-      <recent name="C:\Users\solan\Desktop\GDG Montreal\DevFest 2024\devfest\src\app\speakers\[slug]" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -159,6 +159,9 @@
       <workItem from="1739131735905" duration="2012000" />
       <workItem from="1739212825768" duration="8653000" />
       <workItem from="1739855971550" duration="4023000" />
+      <workItem from="1740193709423" duration="2524000" />
+      <workItem from="1740275603678" duration="17120000" />
+      <workItem from="1740360154886" duration="14879000" />
     </task>
     <servers />
   </component>

@@ -1,0 +1,243 @@
+{
+  "title": "Speakers",
+  "description": "Learn from the best in the industry. Our speakers are experts in their field and are excited to share their knowledge with you.",
+  "about": "About",
+  "speakers": [
+    {
+      "name": "Anita (YinTing) He",
+      "uuid": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "slug": "anita-he",
+      "title": "Unity",
+      "shortBio": "As a Lead Senior UX Designer at Unity Technologies, I’ve spent the past 4 years designing complex tools for game developers, tackling the challenge of balancing usability with power. This experience has given me deep insight into the challenges and opportunities that UX presents in creative tools.\n\nHaving benefited from mentorship and support programs, I’m passionate about helping underrepresented creators thrive in the tech and gaming industries. By rethinking UX in creative tools, we can build more inclusive environments where everyone has the opportunity to participate, experiment, and innovate - “redefining what’s possible” and making the impossible accessible and achievable.",
+      "image": "/images/speakers/anita_he.jpg",
+      "social": {
+        "email": "heeyinting@gmail.com"
+      }
+    },
+    {
+      "name": "Dina Kada",
+      "uuid": "1a2b3c4d-5e6f-7890-abcd-ef1234567890",
+      "slug": "dina-kada",
+      "title": "Bell",
+      "shortBio": "I’m Dina, a freshly graduated software developer based in Montreal. I mostly work on backend and data, but I love exploring new areas—right now, that means frontend and machine learning.\n\nOutside of work, you’ll find me wandering the city, working from a café, or experimenting in the kitchen. The rest of my time is spent learning languages, sipping tea, and enjoying the little things in life.",
+      "image": "/images/speakers/dina_kada.png",
+      "social": {
+        "email": "ermynee2102@gmail.com"
+      }
+    },
+    {
+      "name": "Brittney Muto",
+      "uuid": "2e3f4g5h-6i7j-8k9l-mnop-qrstuvwxyz123",
+      "slug": "brittney-muto",
+      "title": "Osedea",
+      "shortBio": "Brittney began her career in UX research, specializing in understanding user behaviors to craft innovative, human-centered solutions. Her passion for solving complex problems has driven her to design intuitive products that balance user needs and business objectives.\n\nPreviously, Brittney was the Design Manager at Vention, an automation startup specializing in robotics and industrial automation. In this role, she owned the UX/UI strategy for the company’s entire product ecosystem, including digital touchpoints, robot apps, and four core product offerings. Her leadership ensured cohesive experiences across all platforms. From there Brittney transitioned to the dynamic agency world, applying her expertise to a range of clients and projects. She is now a Lead UX/UI Designer at Osedea, a passion-driven software development agency delivering innovative solutions across industries such as healthcare, mining, manufacturing, and finance. With extensive experience spanning healthcare, robotics, and industrial automation, Brittney brings a collaborative and empathy-driven approach to every project. She thrives on translating complex challenges into thoughtful, user-focused designs that deliver meaningful impact.",
+      "image": "/images/speakers/brittney_muto.jpg",
+      "social": {
+        "email": "brittney.muto@osedea.com"
+      }
+    },
+    {
+      "name": "Rucha Shende",
+      "uuid": "3h4i5j6k-7l8m-9n0o-pqrs-tuvwxyz123abc",
+      "slug": "rucha-shende",
+      "title": "Haven Studios",
+      "shortBio": "Rucha Shende is currently a Machine Learning researcher at Haven Studios (a PlayStation studio) specializing in generative AI to enhance gaming experiences. With a Master of Computer Science from Concordia University, her research explored 3D reconstruction and computer vision techniques for heritage documentation and city modeling. Rucha also brings two years of industry experience in software development.",
+      "image": "/images/speakers/rucha.jpg",
+      "social": {
+        "email": "rucha.shende1997@gmail.com"
+      }
+    },
+    {
+      "name": "Iris Cawley",
+      "uuid": "4k5l6m7n-8o9p-0qrs-tuvw-xyz123abc456",
+      "slug": "iris-cawley",
+      "title": "Ubisoft",
+      "shortBio": "Iris Cawley is a multidisciplinary artist, UX designer, and researcher driven by a deep curiosity about the intersection of AI, creativity, and human experience. Her work explores how emerging technologies reshape design, ethics, and user interactions, pushing the boundaries of what’s possible while staying grounded in responsible innovation. She is passionate about leveraging AI to design ethical, inclusive, and forward-thinking digital experiences. Through research and hands-on experimentation, she investigates how the latest AI tools—such as generative design systems and intelligent prototyping platforms—can enhance, rather than replace, human creativity in UX design. Her goal is to ensure that AI remains a tool for empowerment, enabling designers to create meaningful and impactful user experiences.",
+      "image": "/images/speakers/iris_cawley.jpeg",
+      "social": {
+        "email": "irisxcawley@gmail.com"
+      }
+    },
+    {
+      "name": "Andrea Deković Bravo",
+      "uuid": "5m6n7o8p-9q0r-stuv-wxyz-123abc456def",
+      "slug": "andrea-dekovic-bravo",
+      "title": "Las Flores",
+      "shortBio": "Andrea Dekovic is the founder of Las Flores Web3 Film Festival, the first of its kind in Montreal, highlighting the convergence of cinema and emerging technologies like AI and blockchain. A leader in the tech and creative industries, she champions gender diversity and innovative solutions to redefine what’s possible. Recognized for her achievements in international competitions, Andrea has spoken at global conferences and organizes events that inspire and empower women in technology. Outside of her work, she is an advocate for sustainability and inclusive tech communities.",
+      "image": "/images/speakers/andrea_dekovic.jpg",
+      "social": {
+        "email": "andreadekovicb@gmail.com"
+      }
+    },
+    {
+      "name": "Temi Bolaji-Jegede",
+      "uuid": "6n7o8p9q-0rst-uvw1-2xyz-3abc456def78",
+      "slug": "temi-bolaji-jegede",
+      "title": "Tandemcoach",
+      "shortBio": "Temi has 15+ years of industry experience in product, project & change management and business analysis across United Kingdom & North America. She has worked extensively in healthtech and applied sciences - involved in product initiation, commercialisation and sunsetting, agile transformation. Temi works with technology organisations on team transformation – building trust-based and effective teams.\n\nHer passion includes helping professionals arrive at new results that they desire personally and professionally through transformational coaching. She is a Maxwell certified coach and a behavioural analyst (Maxwell DISC). She volunteers as an executive coach with The Center for Non-Profit Coaching which offers coaching services to executives of non-profit organisations. She is an international conference speaker. Temi believes sleep and rest are under-rated and these are key to emotional regulation. Temi is ever learning & ever giving. Fun fact: 2x burn-out survivor. You never want to experience this. If you have experienced it once, you want to prevent it from happening again.",
+      "image": "/images/speakers/temitope_bolaji_jegede.jpg",
+      "social": {
+        "email": "btdj.ltd@gmail.com"
+      }
+    },
+    {
+      "name": "Balkissa Toure",
+      "uuid": "abec89d6-764e-4af5-9457-8d10bb68c79c",
+      "slug": "balkissa-toure",
+      "title": "InfoSys",
+      "shortBio": "I am a bilingual systems engineer (French/English) who thrives on balancing multiple roles with passion and purpose. I’ve successfully managed a full-time job, pursued a master’s degree, conducted AI research, and launched my own startup—all at the same time. My work in AI focuses on ethics, equity, and inclusion, with a deep interest in addressing gender and racial biases in technology. Through my research, I explore how AI systems can unintentionally reinforce societal inequalities and how we can implement fairer, more responsible solutions. What sets me apart is my ability to navigate these challenges with an interdisciplinary approach, blending technology, psychology, and social impact. I believe that multitasking, when done right, can be a powerful tool for both personal and professional growth. My experience has taught me how to prioritize, stay organized, and overcome challenges like self-doubt and impostor syndrome. I am excited to share my insights and strategies to help others embrace their ambitions without feeling overwhelmed. Outside of work, I enjoy dancing, Pilates, and reflecting on the beauty of human connections. My favorite word? Sonder—a reminder that everyone has a unique story worth exploring.",
+      "image": "/images/speakers/balkissa.jpeg",
+      "social": {
+        "email": "tourebalkissa99@gmail.com"
+      }
+    },
+    {
+      "name": "Hanna Abdel Hamid",
+      "uuid": "7b669b1f-5498-46ed-9e9f-ab4c71223227",
+      "slug": "hanna-abdel-hamid",
+      "title": "Sigma Software Canada",
+      "shortBio": "Hanna is an award-winning executive and a recognized leader in business operations, cross-functional team leadership, and business development.",
+      "image": "/images/speakers/hanna_abdel_hamid.jpg",
+      "social": {
+        "email": "hamidhanna@gmail.com"
+      }
+    },
+    {
+      "name": "Cecy Ramallo",
+      "uuid": "7o8p9q0r-stuv-wxyz-1234-5abc6def7890",
+      "slug": "cecy-ramallo",
+      "title": "Le Wagon",
+      "shortBio": "I’m Cecy Ramallo, a historian and classical guitarist turned Front-end Developer during the pandemic. Since September 2021, I’ve been a digital nomad, traveling solo to 13 countries while working remotely. Currently, I’m a Batch Manager and Lecturer at Le Wagon and a Community Builder at A Lo Tuyo, a community for digital nomads. I also create content about travel, digital nomadism, and Women in Tech.",
+      "image": "/images/speakers/cecy_ramallo.jpg",
+      "social": {
+        "email": "cecilia@wtmmontreal.com"
+      }
+    },
+    {
+      "name": "Stéphanie Akré",
+      "uuid": "8p9q0rst-uvwx-yz12-3456-7abc8def9012",
+      "slug": "stephanie-akre",
+      "title": "Ludociels",
+      "shortBio": "I am Stéphanie Akré, co-founder of the NPO Ludociels pour tous, a social economy digital company. Within Ludociels, I am an administrative manager and communications manager (and accountant, and manager of social networks, our websites, and podcast and video editor, and…). Like many small businesses, I wear multiple hats. In another life, I was a Massage Therapist / Physiotherapist. “One day”, I burned out… And I told myself that I needed time to rebuild myself and rest, so why not co-found a company??? Ha, ha… Here we go! How to make a website? How to be present on social networks? Which ones to choose? How to keep an accounting book? Um… What is bookkeeping??!! Stop, I'm breathing... I'll start again, one step at a time and I'll get help: - \"Hello, I'm Sophie, I really like your mission, I can help you with social networks.\" - \"Hi! It’s Justine, I’m ok to be part of your board of directors and help you clarify your mission and share your values.” … I surround myself with competent and talented women… And the adventure continues…",
+      "image": "/images/speakers/stephanie_akre.jpg",
+      "social": {
+        "email": "info@ludocielspourtous.org"
+      }
+    },
+    {
+      "name": "Sophie Li",
+      "uuid": "9q0rstuv-wxyz-1234-5678-9abc0def1234",
+      "slug": "sophie-li",
+      "title": "Dialogue",
+      "shortBio": "I love food and code for a living Hobbies include TV watching, reading, video games & coffee hopping I have travelled to a few countries, and can’t wait to plan my next one (Disney cruise)!\n\nMy favorite color is lavender, but I wear mostly autumn-colored clothes",
+      "image": "/images/speakers/sophie_li.jpeg",
+      "social": {
+        "email": "sophie.li@dialogue.co"
+      }
+    },
+    {
+      "name": "Afaf Taik",
+      "uuid": "4f0343aa-4129-48b9-bdec-42399d0cfb01",
+      "slug": "afaf-taik",
+      "title": "Mila- Quebec AI Institute",
+      "shortBio": "Dr. Afaf Taik is an incoming assistant professor at Université de Sherbrooke, and currently a Postdoctoral Fellow at Mila- Quebec AI Institute and Université de Montréal,  working on the intersection of fairness and privacy in machine learning. She obtained a PhD in Electrical engineering in 2022 from Université de Sherbrooke, where she worked on problems related to distributed machine learning algorithms. Afaf received multiple awards and recognitions for her work, such as Claire DesChênes (2023) and FRQNT (2024)  postdoctoral fellowships and Best paper award at IEEE LCN 2021.",
+      "image": "/images/speakers/afaf_taik.jpg",
+      "social": {
+      }
+    },
+    {
+      "name": "Khaoula Chehbouni",
+      "uuid": "efb2a752-3172-4f30-a050-6cbe246ac8f8",
+      "slug": "khaoula-chehbouni",
+      "title": "Mila- Quebec AI Institute",
+      "shortBio": "Khaoula Chehbouni is a second year PhD Student in Computer Science at McGill University and Mila (Quebec AI Institute). She was awarded the prestigious FRQNT Doctoral Training Scholarship to research fairness and safety in large language models. Previously, she worked as a Senior Data Scientist at Statistics Canada. She holds a Masters in Business Intelligence from HEC Montreal, for which she was awarded the Best Thesis Award. Her research interests includes responsible AI, fairness and safety issues in large language models.",
+      "image": "/images/speakers/khaoula_chehbouni.png",
+      "social": {
+      }
+    },
+    {
+      "name": "Jihoo Park",
+      "uuid": "9b8f90fb-eeba-44a6-bceb-158cb03db360",
+      "slug": "jihoo-park",
+      "title": "Warner Bros",
+      "shortBio": "Hi, I’m Jihoo! I’m passionate about making technology approachable and fun for everyone. I love helping others discover new ways to use tech creatively, whether for personal projects or everyday life. My goal is to show that anyone can build, create, and learn, no matter their background. When I’m not teaching, you can find me exploring new restaurants or playing guitar!",
+      "image": "/images/speakers/jihoo.jpeg",
+      "social": {
+        "email": "jihoo.park@warnerbros.com"
+      }
+    },
+    {
+      "name": "Stephanie Jecrois",
+      "uuid": "1c0913e2-9ba4-4f6c-a2f7-aee46a45fd3a",
+      "slug": "stephanie-jecrois",
+      "title": "Technovation Montreal",
+      "shortBio": "Stéphanie Jecrois is the co-founder of Technovation Montréal, a non-profit organization that aims to develop technology and entrepreneurship skills among girls aged 8 to 18. The mission is to equip young girls with the tools and mentoring they need to become entrepreneurs and leaders in the technology field.",
+      "image": "/images/speakers/stephanie_jecrois.jpg",
+      "social": {
+        "email": "stephanie@technovationmontreal.com"
+      }
+    },
+    {
+      "name": "Emily Fetco",
+      "uuid": "1ac67011-3367-40de-81bc-941f5d977a31",
+      "slug": "emily_fetco",
+      "title": "Technovation Montreal",
+      "shortBio": "Emily Fetco is a passionate and driven young scientist with a deep interest in artificial intelligence, mobile app development, and medical imaging. From an early age, she immersed herself in coding, quickly progressing from beginner projects to advanced machine learning applications. Her journey has been marked by numerous accolades, including the Prix Femmes+ en Tech at the BrébeufHX Hackathon, first place at the Technovation Montreal Hackathon, and multiple honors for academic excellence. \n\n Emily has actively contributed to AI and medical imaging research, developing U-Net architectures for deep learning-based segmentation models. She has presented her work at prestigious events, including the McConnell Brain Imaging Centre’s 40th Anniversary Symposium at The Neuro (McGill University). Her technical expertise spans Python, TensorFlow, React Native, JavaScript, HTML, CSS, and MRI segmentation tools such as ITK-Snap and minc tools. \n\n Beyond her technical skills, Emily is a strong advocate for youth in STEM, especially for young women in technology. She has participated in Google and Microsoft workshops, published in Frontiers for Young Minds, and been featured in press interviews for her innovative projects. She continues to push boundaries in AI and inspire the next generation of innovators.",
+      "image": "/images/speakers/emily_fetco.jpg",
+      "social": {
+        "email": "emilie@technovationmontreal.com"
+      }
+    },
+    {
+      "name": "Diana Soler",
+      "uuid": "da5116af-0b5f-4de4-afcd-3f70fedfa829",
+      "slug": "diana-soler",
+      "title": "Somos Latinx in Tech",
+      "shortBio": "Diana Soler is a product leader currently serving as the Director of Product Operations, Analytics & Enablement at Assent. In this role, she oversees teams responsible for product operational rhythm, product practices, product analytics & product enablement. With a robust background in managing and coaching product operations teams, Diana has held pivotal roles at AppDirect and Airbnb. Beyond her professional endeavors, Diana is deeply committed to empowering underrepresented communities in tech. As the Chapter Leader for Latinas in Tech Canada, she fosters a supportive network for Latina women, promoting active participation and leadership within the tech space. Additionally, as the Co-founder of Somos Latinx in Tech, Diana contributes to building an inclusive community that provides networking opportunities, resources, mentorship, and a sense of belonging for Hispanic and Latinx tech professionals and their allies. Her dedication to diversity and inclusion, coupled with her extensive experience in product operations, underscores her commitment to driving positive change in the tech industry.",
+      "image": "/images/speakers/diana_soler.jpg",
+      "social": {
+        "email": "diana.soler@somoslatinxintech.com"
+      }
+    },
+    {
+      "name": "Eva Diaz",
+      "uuid": "afd2bfd5-b7bf-45b4-bf1d-6dc647c3950c",
+      "slug": "eva-diaz",
+      "title": "STEM Women Congress",
+      "shortBio": "Eva Diaz Claver is the CEO of Global STEM Women and STEM Women Congress (SWC) a leader dedicated to advancing gender diversity in STEM fields. She is the founder of a pioneering initiative data driven and focused on bridging the gender gap in STEM fields called the STEM Women Annual Reports (SWAR). This groundbreaking methodology is designed to detect gender gaps, create a predictive model for future STEM talent, and activate the ecosystem of stakeholders committed to addressing the gender gap in each country where SWC is represented: Spain, Portugal, Italy, Canada, Colombia, Brazil and Chile. \n\n She is a Master in Journalism by the Universitat Autònoma de Barcelona (Spain) and Màster in Marketing Management by EADA Business School. In 2023, Eva received the Premi Dona TIC, for the best company initiative, and in 2024, Eva received the Women Changing the World and Women Changing the World America awards, further cementing her transformative impact in promoting women in STEM worldwide.",
+      "image": "/images/speakers/eva_diaz.jpg",
+      "social": {
+      }
+    },
+    {
+      "name": "Mariam Jabara",
+      "uuid": "0679723c-eda7-41b1-b858-638285c6bf52",
+      "slug": "mariam-jabara",
+      "title": "Women in AI",
+      "shortBio": "Mariam has been in the AI space for the last 5 years, in both academic and professional capacities. Currently, she works as an AI Software Developer for Osedea, a Montreal based innovation firm, with previous experience at companies such as Google Research and Deloitte. Her values are rooted in building community, diversity and inclusion, and using AI responsibly to solve problems contribute to the betterment of society",
+      "image": "/images/speakers/placeholder.png",
+      "social": {
+      }
+    },
+    {
+      "name": "Stefania Pecore",
+      "uuid": "3f2218bf-e2d9-4058-a8f5-9dedb5ed7a40",
+      "slug": "stefania-pecore",
+      "title": "Women Techmakers Montréal",
+      "shortBio": "Stefania embarked on her journey with a university degree in foreign languages, recognizing the need for inclusive communication when language barriers existed. As the first to introduce an AI subject to her university in Italy focused on AI and automatic translation, her path unfolded. Subsequently, she pursued higher education, obtaining a master's and Ph.D. in CS, programming, and NLP in France. With a passion for leveraging technology to enhance communication, she played a pivotal role in assisting numerous enterprises across diverse sectors—education, manufacturing, biotech, and even venturing into video games—by integrating NLP and AI solutions into their products. Eager to share her insights, she became a mentor for women, holding positions as a Google Women Techmaker, Women in AI, and Women in Games Ambassador. In 2024, she became the Executive Director of Women Techmakers Montréal a community-led initiative inspired by the Google Women Techmakers program. She was appointed as an AI Expert for UNESCO's Women4Ethical AI program allowing her to apply further her expertise in fostering responsible AI and supporting Ethical approaches in AI systems creation.",
+      "image": "/images/team/stefania.jpg",
+      "social": {
+      }
+    },
+    {
+      "name": "Hana Schonegger",
+      "uuid": "8859f090-b7ea-442c-980d-e9873b27cad7",
+      "slug": "hana-schonegger",
+      "title": "Women In Animation",
+      "shortBio": "Hana is a VFX artist and producer, Cognitive Systems scientist, and social activist currently leading the Montréal chapter of Women in Animation, a non-profit advocating for a more equitable future for Animation, VFX, Games and related industries. She's a geek for film and animation technology, linguistics, psychology and neuroscience. Originally from Eastern Europe, she's lived in countries all around the world. She's been in Montréal for the past 6 years. She's still not used to the cold, and she is as vocal about this as she is about workers' rights.",
+      "image": "/images/speakers/hana_schonegger.jpg",
+      "social": {
+      }
+    }
+  ]
+}

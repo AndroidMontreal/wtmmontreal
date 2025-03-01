@@ -12,6 +12,9 @@ export const namespaces = [
   'venue',
   'team',
   'code_of_conduct',
+  'speaker',
+  'session',
+  'schedule',
 ];
 
 export async function loadTranslations(locale, namespaces) {
@@ -31,13 +34,16 @@ export async function loadTranslations(locale, namespaces) {
   return messages;
 }
 
-export default getRequestConfig(async ({ locale }) => {
+export default getRequestConfig(async ({ requestLocale }) => {
+  let locale = await requestLocale;
+  if (!locales.includes(locale)) {
+    locale = defaultLocale; // Fallback to 'en' if invalid
+  }
   const messages = await loadTranslations(locale, namespaces);
 
   return {
-    messages: {
-      [locale]: messages, // Make sure this structure is correct
-    },
+    locale,
+    messages,
     timeZone: 'UTC',
     now: new Date(),
     defaultLocale,

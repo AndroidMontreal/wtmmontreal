@@ -36,7 +36,7 @@ export default async function RootLayout({ children, params: { lang } }) {
 
   return (
     <html lang={lang} className={openSans.className}>
-      <body>
+      <body className="flex flex-col min-h-screen">
         <NextIntlClientProvider
           locale={lang}
           timeZone="UTC"

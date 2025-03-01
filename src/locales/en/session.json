@@ -1,0 +1,246 @@
+{
+  "title": "Sessions",
+  "description": "Sessions of WTM Montreal 2025",
+  "sessions": [
+    {
+      "title": "Registration",
+      "uuid": "246a17da-adf9-4d8e-9c50-ef84bdf68c55",
+      "description": "Enjoy the breakfast and network with other attendees",
+      "speakerUUID": []
+    },
+    {
+      "title": "Opening Note",
+      "uuid": "4d0cb762-4de4-43cf-b4ea-f02bcfa5b559",
+      "description": "Welcome message and introduction to the event",
+      "speakerUUID": []
+    },
+    {
+      "title": "Designing for Creators: UX Strategies for Complex Softwares",
+      "uuid": "a1b2c3d4-e5f6-7890-1abc-2def3ghi4jkl",
+      "description": "Creative tools—like game engines and professional software—are often designed for power users who need flexibility and control. Too frequently, these tools assume that complexity must mean difficulty, with UX as an afterthought. This results in steep learning curves, overwhelming interfaces, and inefficient workflows.\n\nIn this talk, I will explore how UX strategies can redefine what’s possible in creative software by making complexity feel intuitive without sacrificing depth. We’ll cover key concepts like defining user profiles, prioritizing workflows, and introducing complexity only when necessary, enabling diverse creators of all technical skill levels to participate, experiment, and innovate.",
+      "shortDescription": "Creative tools—like game engines and professional software—are often designed for power users who need flexibility and control. Too frequently, these tools assume that complexity must mean difficulty, with UX as an afterthought. This results in steep learning curves, overwhelming interfaces, and inefficient workflows.",
+      "speakerUUID": [
+        "f47ac10b-58cc-4372-a567-0e02b2c3d479"
+      ],
+      "tags": [
+        "UX",
+        "Design",
+        "Software",
+        "Creativity"
+      ]
+    },
+    {
+      "title": "AI meets Web Development: Build your portfolio in 30min with Cursor",
+      "uuid": "b2c3d4e5-f6g7-8901-2bcd-3efg4hij5klm",
+      "description": "If you’ve used GitHub Copilot or ChatGPT to write code, you’re already familiar with the power of AI in coding. But Cursor takes it a step further, making it even easier to create anything you want—quickly and efficiently.\n\nIn this talk, I’ll show you what Cursor is and how simple it is to use it to write code and bring your ideas to life. Whether you’re looking to learn a new technology or create your portfolio, Cursor’s AI-powered code editor not only writes the code for you, but also explains it in real-time, making learning and creation smoother than ever. Join me as we build a portfolio together in just 30 minutes using Cursor, and discover how AI can help you unlock new possibilities in your development journey.",
+      "shortDescription": "If you’ve used GitHub Copilot or ChatGPT to write code, you’re already familiar with the power of AI in coding. But Cursor takes it a step further, making it even easier to create anything you want—quickly and efficiently.",
+      "speakerUUID": [
+        "1a2b3c4d-5e6f-7890-abcd-ef1234567890"
+      ],
+      "tags": [
+        "AI",
+        "Web Development",
+        "Coding",
+        "Portfolio"
+      ]
+    },
+    {
+      "title": "Humanizing AI: Empowering users through transparent design",
+      "uuid": "c3d4e5f6-g7h8-9012-3cde-4fgh5ijk6lmn",
+      "description": "Join me as I explore the five essential pillars of designing for AI—principles inspired by the nuanced challenges of healthcare product design. Together, we’ll unpack how to create personalized, accessible, and trustworthy user experiences that empower diverse audiences while fostering inclusivity and transparency. Whether you’re an experienced designer, collaborating with a design team or just starting out, this talk will equip you with actionable strategies to humanize AI and make a meaningful impact on the future of design.\n\nDesigned to be inspirational and actionable, this talk will cover: Parallels between designing for AI and designing for healthcare... Real-world examples, like integrating AI into a virtual fertility clinic application or designing a GenAI system to simplify international processes...",
+      "shortDescription": "Join me as I explore the five essential pillars of designing for AI—principles inspired by the nuanced challenges of healthcare product design. Together, we’ll unpack how to create personalized, accessible, and trustworthy user experiences that empower diverse audiences while fostering inclusivity and transparency.",
+      "speakerUUID": [
+        "2e3f4g5h-6i7j-8k9l-mnop-qrstuvwxyz123"
+      ],
+      "tags": [
+        "AI",
+        "UX",
+        "Design",
+        "Transparency"
+      ]
+    },
+    {
+      "title": "Learn the Letta Framework & Watch an AI Agent Built in Under 10 Minutes",
+      "uuid": "d4e5f6g7-h8i9-0jkl-mnop-qrstu1234567",
+      "description": "The Letta framework simplifies AI agent development with its memory-driven architecture and a visual development environment. In this talk, you’ll explore Letta’s core design principles and see its application in a live agent creation demo.",
+      "shortDescription": "The Letta framework simplifies AI agent development with its memory-driven architecture and a visual development environment.",
+      "speakerUUID": [
+        "3h4i5j6k-7l8m-9n0o-pqrs-tuvwxyz123abc"
+      ],
+      "tags": [
+        "AI",
+        "Machine Learning",
+        "Framework",
+        "Demo"
+      ]
+    },
+    {
+      "title": "The UX-AI Evolution: Redefining Interaction & Design",
+      "uuid": "e5f6g7h8-i9j0-klmn-opqr-stuv1234wxyz",
+      "description": "AI is revolutionizing UX design, enabling experiences that are more personalized, predictive, and adaptive. But with great power comes responsibility—how do we ensure AI enhances human experiences without compromising ethics? This talk delves into key AI-driven UX trends, such as generative design, AI-powered UX research, automation in prototyping, and bias mitigation. We’ll explore how emerging AI tools are reshaping user interaction patterns, reimagining accessibility, and shifting the role of designers towards AI-human collaboration. Attendees will leave with a clearer vision of AI’s impact on UX, practical strategies for ethical AI integration, and insights into future-proofing UX careers in an AI-first world.",
+      "shortDescription": "AI is revolutionizing UX design, enabling experiences that are more personalized, predictive, and adaptive. But with great power comes responsibility—how do we ensure AI enhances human experiences without compromising ethics?",
+      "speakerUUID": [
+        "4k5l6m7n-8o9p-0qrs-tuvw-xyz123abc456"
+      ],
+      "tags": [
+        "AI",
+        "UX",
+        "Design",
+        "Ethics"
+      ]
+    },
+    {
+      "title": "Redefining Cinema: Bringing a Web3 Film Festival and AI Discussions to Montreal",
+      "uuid": "f6g7h8i9-j0k1-lmno-pqrs-tuvw1234xyz5",
+      "description": "The intersection of technology and cinema has unlocked revolutionary possibilities, from AI-driven storytelling to decentralized Web3 funding models. As the founder of Las Flores Web3 Film Festival, I navigated cultural, gender, and financial barriers to bring this groundbreaking festival to life in Montreal. My talk will delve into:\n\nOvercoming Adversity: My journey as a Mexican woman leading innovation in a male-dominated industry. Redefining Cinema: How Web3 and AI are transforming film creation, funding, and distribution. Building Value-Based Tech Initiatives: Insights from developing a program to fund Web3-AI film projects. Empowering Women in Tech: Lessons on resilience, leadership, and creating impact in the tech and creative industries. By redefining what’s possible, Las Flores has become a catalyst for collaboration, innovation, and diversity in the cinematic arts. Attendees will leave inspired to harness technology to break barriers, champion inclusivity, and shape the future of storytelling.",
+      "shortDescription": "The intersection of technology and cinema has unlocked revolutionary possibilities, from AI-driven storytelling to decentralized Web3 funding models. As the founder of Las Flores Web3 Film Festival, I navigated cultural, gender, and financial barriers to bring this groundbreaking festival to life in Montreal.",
+      "speakerUUID": [
+        "5m6n7o8p-9q0r-stuv-wxyz-123abc456def"
+      ],
+      "tags": [
+        "Web3",
+        "AI",
+        "Cinema",
+        "Diversity"
+      ]
+    },
+    {
+      "title": "The Art of Juggling: a discussion on how to Navigate life's demands as women",
+      "uuid": "g7h8i9j0-k1l2-mnop-qrst-uvw123xyz456",
+      "description": "This panel discussion explores the multifaceted lives of women today, delving into the delicate balance between career, family, personal aspirations, and self-care. Join us as we explore the challenges and triumphs women face as they navigate the ever-evolving demands of modern life. Our panelists will share personal experiences, insights, and strategies for thriving in a world that often expects women to be everything to everyone. This is a conversation for women seeking inspiration, support, and practical advice on how to create a fulfilling and balanced life.",
+      "shortDescription": "This panel discussion explores the multifaceted lives of women today, delving into the delicate balance between career, family, personal aspirations, and self-care.",
+      "speakerUUID": [
+        "6n7o8p9q-0rst-uvw1-2xyz-3abc456def78",
+        "abec89d6-764e-4af5-9457-8d10bb68c79c",
+        "7b669b1f-5498-46ed-9e9f-ab4c71223227"
+      ],
+      "tags": [
+        "Women",
+        "Leadership",
+        "Balance",
+        "Soft Skills"
+      ]
+    },
+    {
+      "title": "Myths and Realities of Digital Nomadism: Beyond the Perfect Instagram Photos",
+      "uuid": "h8i9j0k1-l2m3-nopq-rstu-vwxyz1234567",
+      "description": "In this talk, I’ll reveal what it’s really like to be a digital nomad—beyond the dreamy Instagram shots working by a pool or on a tropical beach. Some say the hardest part is being away from loved ones or constantly adapting to new cultures, but in my experience, the real challenge is something much simpler: figuring out where to do the laundry with the few clothes we carry in our small luggage.\n\nI’ll share insights on safe travel destinations, what digital nomads actually pack, recommendations and tips if you work in the tech industry, and the true cost of living on the road. Spoiler: It’s not as expensive as you might think. Being a digital nomad isn’t for everyone, and it may not be forever, but it’s a unique lifestyle that lets you explore beautiful places, meet fascinating people, and—most importantly—discover yourself.",
+      "shortDescription": "In this talk, I’ll reveal what it’s really like to be a digital nomad—beyond the dreamy Instagram shots working by a pool or on a tropical beach. Some say the hardest part is being away from loved ones or constantly adapting to new cultures, but in my experience, the real challenge is something much simpler: figuring out where to do the laundry with the few clothes we carry in our small luggage.",
+      "speakerUUID": [
+        "7o8p9q0r-stuv-wxyz-1234-5abc6def7890"
+      ],
+      "tags": [
+        "Digital Nomad",
+        "Tech",
+        "Lifestyle",
+        "Travel"
+      ]
+    },
+    {
+      "title": "Learning Through Experience",
+      "uuid": "i9j0k1l2-m3n4-opqr-stuv-wxyz12345678",
+      "description": "My hypothesis: You can start, even with 0% qualification and learn through experience: an encouragement to get started, regardless of your initial skill level. To undertake, to start a collective enterprise or an NPO, you have no choice but to have this character trait!\n\nHow to “survive” experiential learning? - Manage your stress (Stress factors) This method can generate more stress, but tools help to manage it - Manage each situation at once: Find help as soon as a blockage occurs - Abandon the cult of perfection: accept that “good enough” is enough and that each iteration improves results - Redefine perfection: create/invent a work environment aligned with your values and your well-being. Conclusion: It’s your turn! - Call to action: “Start where you are, with what you have.”",
+      "shortDescription": "My hypothesis: You can start, even with 0% qualification and learn through experience: an encouragement to get started, regardless of your initial skill level. To undertake, to start a collective enterprise or an NPO, you have no choice but to have this character trait!",
+      "speakerUUID": [
+        "8p9q0rst-uvwx-yz12-3456-7abc8def9012"
+      ],
+      "tags": [
+        "Learning",
+        "Experience",
+        "Entrepreneurship",
+        "Soft Skills"
+      ]
+    },
+    {
+      "title": "Redefining Tech Through Womxn in Tech Communities",
+      "uuid": "j0k1l2m3-n4o5-pqrs-tuvw-xyz123456789a",
+      "description": "In the ever-evolving tech world, inclusivity and innovation go hand in hand. Take a deep dive into a deeply personal journey that started with first establishing a Women in Tech community – partly by accident – and has led to having a profound impact on individuals, teams, and the workplace culture at large. Through personal insights, practical steps, and lessons learned, you’ll discover how to create a workplace where women thrive, break barriers, and redefine what’s possible in the industry. Whether you’re an executive seeking to and in a position to enact change or just an ally who’s simply curious about how to empower teammates, this session will inspire you to take action and contribute to a future where everyone has a voice.",
+      "shortDescription": "In the ever-evolving tech world, inclusivity and innovation go hand in hand. Take a deep dive into a deeply personal journey that started with first establishing a Women in Tech community – partly by accident – and has led to having a profound impact on individuals, teams, and the workplace culture at large.",
+      "speakerUUID": [
+        "9q0rstuv-wxyz-1234-5678-9abc0def1234"
+      ],
+      "tags": [
+        "Women in Tech",
+        "Inclusivity",
+        "Community",
+        "Innovation"
+      ]
+    },
+    {
+      "title": "Build Your First Mobile App Without Code: A Hands-On FlutterFlow Workshop",
+      "uuid": "4b587937-e8e4-48a7-8894-0e3b75887152",
+      "description": "This interactive workshop is perfect for beginners who want to build their first mobile app without writing a single line of code. In this session, we’ll use FlutterFlow, an intuitive no-code platform, to design and develop a simple app that organizes and displays data. You’ll follow along step-by-step, with visuals and hands-on guidance to ensure you’re building your own app by the end of the session. No previous coding experience is necessary—just bring your creativity! By the end of this workshop, you’ll not only have a working app but also the confidence to continue creating apps and expanding your ideas!",
+      "shortDescription": "This interactive workshop is perfect for beginners who want to build their first mobile app without writing a single line of code.",
+      "speakerUUID": [
+        "9b8f90fb-eeba-44a6-bceb-158cb03db360"
+      ],
+      "tags": [
+        "Flutter",
+        "No Coding"
+      ]
+    },
+    {
+      "title":  "Play with Your Data in Your Daily Life: An Intro to Looker Studio",
+      "uuid": "3bbe77cc-c1db-4827-9391-ffddf8e61c56",
+      "description": "In this hands-on workshop, we’ll break down data visualization into something fun and approachable. You’ll learn how to use Looker Studio to create a simple, interactive tool using daily-life data. No coding required—just creativity! By the end, you’ll have a personalized, easy-to-understand data tool that shows you how to apply visualization techniques to your everyday life. Whether you’re tracking your habits, hobbies, or anything else, this session will help you see how simple it can be to bring data to life.",
+      "shortDescription": "In this hands-on workshop, we’ll break down data visualization into something fun and approachable. You’ll learn how to use Looker Studio to create a simple, interactive tool using daily-life data. No coding required—just creativity!",
+      "speakerUUID": [
+        "9b8f90fb-eeba-44a6-bceb-158cb03db360"
+      ],
+      "tags": [
+        "Looker"
+      ]
+    },
+    {
+      "title": "Technovation in real life: From First Lines of Code to Neural Networks - The Start of Something Bigger",
+      "uuid": "04c00baf-3ecc-4088-9ef6-6d5f2d37721b",
+      "description": "Technovation Montréal is a non-profit organization that aims to develop technology and entrepreneurship skills among girls aged 8 to 18.  Do you want to why their mission is so important? Join us to see how their initiatives are redefining what is possible and the future of technology with a practical demo",
+      "shortDescription": "Join us to see how their initiatives are redefining what is possible and the future of technology with a practical demo",
+      "speakerUUID": [
+        "1c0913e2-9ba4-4f6c-a2f7-aee46a45fd3a",
+        "1ac67011-3367-40de-81bc-941f5d977a31"
+      ],
+      "tags": [
+        "Technovation",
+        "Redefining what is possible"
+      ]
+    },
+    {
+      "title": "Organizations supporting women in Montréal: bridging gaps, breaking barriers together",
+      "uuid": "66704b84-8be8-434e-be68-ec0f809bd633",
+      "description": "This panel showcases the leading organizations dedicated to supporting women in Montréal's tech industry. We're united by a common goal: ensuring women have the knowledge and resources they need to thrive and shape their futures in tech, on par with their male counterparts.  Montréal boasts a vibrant ecosystem of organizations working towards this vision, and this panel celebrates that diversity. While each organization maintains its unique identity and approach, we recognize the power of collaboration. Together, we amplify our impact and send a clear message: we are committed to working together to welcome and empower more women and other minorities in the tech sector.",
+      "shortDescription": "This panel showcases the leading organizations dedicated to supporting women in Montréal's tech industry. We're united by a common goal: ensuring women have the knowledge and resources they need to thrive and shape their futures in tech, on par with their male counterparts.  Montréal boasts a vibrant ecosystem of organizations working towards this vision, and this panel celebrates that diversity. While each organization maintains its unique identity and approach, we recognize the power of collaboration.",
+      "speakerUUID": [
+        "da5116af-0b5f-4de4-afcd-3f70fedfa829",
+        "afd2bfd5-b7bf-45b4-bf1d-6dc647c3950c",
+        "0679723c-eda7-41b1-b858-638285c6bf52",
+        "3f2218bf-e2d9-4058-a8f5-9dedb5ed7a40",
+        "8859f090-b7ea-442c-980d-e9873b27cad7"
+      ],
+      "tags": [
+        "Women in Tech"
+      ]
+    },
+    {
+      "title": "Bias in the Machine: Can AI Ever Be Fair?",
+      "uuid": "9aef74ad-140d-46d7-afe8-0081c521b778",
+      "description": "As AI systems become increasingly embedded in critical decision-making processes, concerns about fairness and bias have taken center stage. This workshop explores how biases can emerge and propagate throughout the machine learning development lifecycle, from data collection to model deployment, leading to real-world harms. We will begin by unpacking different definitions of fairness, highlighting the complexities of translating social definitions into mathematical formulations. Through hands-on exercises inspired by real-world applications, participants will grapple with the challenges of defining fairness in binary decision-making scenarios. These exercises will illustrate the socio-technical nature of fairness, emphasizing that technical interventions alone cannot resolve systemic biases. Furthermore, we will examine how bias is embedded in the ML pipeline, affecting outcomes in subtle yet impactful ways. Expanding beyond traditional fairness metrics, we will also explore generative AI’s unique fairness challenges, from representation biases to content generation disparities. By the end of this workshop, participants will gain a deeper understanding of fairness as a multidimensional problem and leave with practical insights into developing more responsible AI systems.",
+      "shortDescription": "This workshop explores how biases can emerge and propagate throughout the machine learning development lifecycle, from data collection to model deployment, leading to real-world harms.",
+      "speakerUUID": [
+        "4f0343aa-4129-48b9-bdec-42399d0cfb01",
+        "efb2a752-3172-4f30-a050-6cbe246ac8f8"
+      ],
+      "tags": [
+        "IA",
+        "Biais"
+      ]
+    },
+    {
+      "title": "Break",
+      "uuid": "27ff7729-5792-4efd-a813-321fd6523e63",
+      "description": "Enjoy a break and network with other attendees",
+      "shortDescription": "Enjoy a break and network with other attendees",
+      "speakerUUID": []
+    }
+  ]
+}

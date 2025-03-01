@@ -35,6 +35,7 @@ const Navbar = ({ isMobile }) => {
           normalizedPathname === link.href ||
           (normalizedPathname === '/' && link.href === '/') ||
           (link.href !== '/' && normalizedPathname.startsWith(link.href));
+
         return (
           <Link
             key={link.uuid}

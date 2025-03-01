@@ -1,0 +1,243 @@
+{
+  "title": "Conférencières",
+  "description": "Apprenez des meilleurs de l’industrie. Nos conférenciers sont des experts dans leur domaine et sont heureux de partager leurs connaissances avec vous.",
+  "about": "À propos de",
+  "speakers": [
+    {
+      "name": "Anita (YinTing) He",
+      "uuid": "f47ac10b-58cc-4372-a567-0e02b2c3d479",
+      "slug": "anita-he",
+      "title": "Unity",
+      "shortBio": "En tant que designer UX en chef chevronnée à Unity Technologies, j'ai passé 4 ans à concevoir des outils complexes pour les développeur·euse·s de jeux vidéos, en relevant le défi d'équilibrer l'utilisabilité et la puissance. Cette expérience m’a apporté une compréhension approfondie des défis et des opportunités que l’UX présente dans les outils créatifs.\n\nAyant moi-même bénéficié de mentorat dans le passé, je souhaite rendre le service à celles qui éprouvent des difficultés à profiter pleinement du potentiel offert par l'industrie du jeu. En repensant l'expérience utilisateur dans les outils de création, nous pouvons concevoir des plateformes plus inclusives où tous peuvent prendre part et innover, \"redéfinir le possible\", pour faire de ce qui était impossible quelque chose d'accessible et de réalisable.",
+      "image": "/images/speakers/anita_he.jpg",
+      "social": {
+        "email": "heeyinting@gmail.com"
+      }
+    },
+    {
+      "name": "Dina Kada",
+      "uuid": "1a2b3c4d-5e6f-7890-abcd-ef1234567890",
+      "slug": "dina-kada",
+      "title": "Bell",
+      "shortBio": "Je m'appelle Dina. Basée à Montréal, je suis fraîchement diplômée en développement de logiciels. Je travaille surtout côté serveur, mais j’aime bien explorer d’autres spécialités, notamment le côté client et l'apprentissage machine.\n\nPendant mon temps libre, vous me trouverez en train de flâner dans la ville, de travailler dans un café ou d’expérimenter dans la cuisine. Le reste de mon temps est consacré à apprendre des langues, à siroter du thé et à profiter des petites choses de la vie.",
+      "image": "/images/speakers/dina_kada.png",
+      "social": {
+        "email": "ermynee2102@gmail.com"
+      }
+    },
+    {
+      "name": "Brittney Muto",
+      "uuid": "2e3f4g5h-6i7j-8k9l-mnop-qrstuvwxyz123",
+      "slug": "brittney-muto",
+      "title": "Osedea",
+      "shortBio": "Brittney a débuté sa carrière dans la recherche UX, en se spécialisant dans la compréhension des comportements des utilisateurs pour élaborer des solutions novatrices et axées sur l'humain. Sa passion pour la résolution de problèmes complexes l'a poussée à concevoir des produits intuitifs répondant aux besoins des utilisateur·rice·s tout en permettant la réalisation des objectifs commerciaux.\n\nAuparavant, Brittney était chef de la conception chez Vention, une startup d'automatisation spécialisée dans la robotique et l'automatisation industrielle. Dans ce rôle, elle était responsable de la stratégie UX/UI pour l'ensemble de l'écosystème de produits de l'entreprise, y compris les points de contact numériques, les applications robotiques et les produits principaux. Elle s’assurait que l’expérience utilisateur soit cohérente sur toutes les plateformes. Forte de ses expériences précédentes, elle a effectué une transition vers le monde dynamique des agences, appliquant son expertise à une gamme de clients et de projets. Elle est maintenant designer en chef UX/UI chez Osedea, une agence de développement de logiciels où une équipe de gens passionnés propose des solutions novatrices dans des secteurs tels que la santé, l'exploitation minière, la fabrication et la finance. Outre sa vaste expertise technique, Brittney apporte une approche collaborative et empathique à chaque projet. Elle s'efforce de traduire des défis complexes en conceptions réfléchies et axées sur l'utilisateur·rice·s qui produisent un impact significatif.",
+      "image": "/images/speakers/brittney_muto.jpg",
+      "social": {
+        "email": "brittney.muto@osedea.com"
+      }
+    },
+    {
+      "name": "Rucha Shende",
+      "uuid": "3h4i5j6k-7l8m-9n0o-pqrs-tuvwxyz123abc",
+      "slug": "rucha-shende",
+      "title": "Haven Studios",
+      "shortBio": "Rucha Shende est actuellement chercheuse en apprentissage machine chez Haven Studios (un studio PlayStation) lequel se spécialise dans l'IA générative pour améliorer les expériences de jeu. Titulaire d'une maîtrise en informatique de l'Université Concordia, ses recherches ont porté sur les techniques de reconstruction 3D et de vision par ordinateur pouvant servir pour la documentation du patrimoine et la modélisation des villes. Elle a également deux ans d'expérience dans le domaine du développement de logiciels.",
+      "image": "/images/speakers/rucha.jpg",
+      "social": {
+        "email": "rucha.shende1997@gmail.com"
+      }
+    },
+    {
+      "name": "Iris Cawley",
+      "uuid": "4k5l6m7n-8o9p-0qrs-tuvw-xyz123abc456",
+      "slug": "iris-cawley",
+      "title": "Ubisoft",
+      "shortBio": "Iris Cawley est une artiste multidisciplinaire, une designer UX et une chercheuse animée par une profonde curiosité pour l'intersection de l'IA, de la créativité et de l'expérience humaine. Son travail explore comment les technologies émergentes remodèlent la conception, l'éthique et les interactions avec les utilisateur·rice·s, repoussant les limites de ce qui est possible tout en restant ancrée dans l'innovation responsable. Elle est passionnée par l'utilisation de l'IA dans la conception d’expériences numériques éthiques, inclusives et avant-gardistes. Grâce à la recherche et à l'expérimentation pratique, elle étudie comment les derniers outils de l’IA, tels que les systèmes de conception générative et les plateformes de prototypage intelligentes, peuvent améliorer, plutôt que remplacer, la créativité humaine dans la conception UX. Son objectif est de faire en sorte que l’IA soit un outil supplémentaire permettant aux concepteurs de créer des expériences utilisateur significatives et impactantes.",
+      "image": "/images/speakers/iris_cawley.jpeg",
+      "social": {
+        "email": "irisxcawley@gmail.com"
+      }
+    },
+    {
+      "name": "Andrea Deković Bravo",
+      "uuid": "5m6n7o8p-9q0r-stuv-wxyz-123abc456def",
+      "slug": "andrea-dekovic-bravo",
+      "title": "Las Flores",
+      "shortBio": "Andrea Dekovic est la fondatrice de Las Flores, festival de films Web3, premier du genre à Montréal, qui met en lumière la convergence du cinéma et des technologies émergentes telles que l'IA et la blockchain. Cheffe de file dans les secteurs de la technologie et de la création, elle défend la diversité des genres et propose des solutions novatrices pour redéfinir ce qui est possible. Reconnue pour ses réalisations dans des compétitions internationales, Andrea a pris la parole lors de conférences mondiales. Elle organise également des événements qui inspirent et habilitent les femmes dans le secteur de la technologie. En dehors de son travail, elle milite pour des communautés technologiques plus inclusives et durables.",
+      "image": "/images/speakers/andrea_dekovic.jpg",
+      "social": {
+        "email": "andreadekovicb@gmail.com"
+      }
+    },
+    {
+      "name": "Temi Bolaji-Jegede",
+      "uuid": "6n7o8p9q-0rst-uvw1-2xyz-3abc456def78",
+      "slug": "temi-bolaji-jegede",
+      "title": "Tandemcoach",
+      "shortBio": "Temi a plus de 15 ans d'expérience dans le secteur de la gestion de produits, de projets et du changement, ainsi qu’en analyse commerciale, au Royaume-Uni et en Amérique du Nord.\n\nSa passion est d'aider les professionnel·le·s à atteindre leurs objectifs grâce à la formation transformationnelle. Elle est une formatrice certifiée Maxwell et analyste comportementale (Maxwell DISC). Elle fait partie de l’équipe du Center for Non-Profit Coaching et offre des services pro bono de formations aux dirigeant·e·s d’OBNL. Elle donne également des conférences partout dans le monde. Elle est en perfectionnement perpétuel et donne de son temps généreusement. Temi estime que l’importance du sommeil et du repos est sous-estimée, lesquels sont pourtant des éléments essentiels à la régulation émotionnelle. Ayant vécu l’enfer du burn-out à deux reprises, elle veut mettre les gens en garde afin de leur éviter de vivre la même chose.",
+      "image": "/images/speakers/temitope_bolaji_jegede.jpg",
+      "social": {
+        "email": "btdj.ltd@gmail.com"
+      }
+    },
+    {
+      "name": "Balkissa Toure",
+      "uuid": "abec89d6-764e-4af5-9457-8d10bb68c79c",
+      "slug": "balkissa-toure",
+      "title": "InfoSys",
+      "shortBio": "Je suis une ingénieure de systèmes bilingue (français/anglais) qui aime exercer ses fonctions multiples avec passion et détermination. En occupant un emploi à temps plein, j’ai réussi à obtenir une maîtrise, à faire des recherches sur l’IA et à lancer ma propre startup, tout ça en même temps. Mon travail dans le domaine de l’IA se concentre sur l’éthique, l’équité et l’inclusion, avec une emphase particulière pour la lutte contre les préjugés sexistes et raciaux dans la technologie. Grâce à mes recherches, j'explore comment les systèmes de l'IA peuvent involontairement renforcer les inégalités sociales et comment nous pouvons mettre en œuvre des solutions plus justes et plus responsables. Ce qui me distingue, c'est ma capacité à relever ces défis avec une approche interdisciplinaire, alliant technologie, psychologie et impact social. Je crois que le multitâche, lorsqu'il est bien fait, peut être un outil puissant pour la croissance personnelle et professionnelle. Mon expérience m’a appris à établir des priorités, à rester organisée et à surmonter des défis comme le doute de soi et le syndrome de l’imposteur. Je suis excitée de partager mes idées et mes stratégies pour aider les autres à réaliser leurs ambitions sans se sentir dépassées. En dehors du travail, j'aime danser, faire du Pilates et réfléchir à la beauté des relations humaines. Quel est mon mot préféré ? Empathie existentielle : un rappel que chacun a une histoire unique qui mérite d'être explorée.",
+      "image": "/images/speakers/balkissa.jpeg",
+      "social": {
+        "email": "tourebalkissa99@gmail.com"
+      }
+    },
+    {
+     "name": "Hanna Abdel Hamid",
+     "uuid": "7b669b1f-5498-46ed-9e9f-ab4c71223227",
+     "slug": "hanna-abdel-hamid",
+     "title": "Sigma Software Canada",
+     "shortBio": "Hanna est une dirigeante primée et une cheffe de file reconnue dans les opérations commerciales, le leadership d'équipes interfonctionnelles et le développement d’affaires. Nommée l'une des 100 femmes les plus puissantes du Canada en 2024 par WXN dans la catégorie Executive Leaders, elle combine vision stratégique et excellence opérationnelle lui permettant de stimuler la croissance et produire des résultats percutants.",
+     "image": "/images/speakers/hanna_abdel_hamid.jpg",
+     "social": {
+       "email": "hamidhanna@gmail.com"
+     }
+   },
+    {
+      "name": "Cecy Ramallo",
+      "uuid": "7o8p9q0r-stuv-wxyz-1234-5abc6def7890",
+      "slug": "cecy-ramallo",
+      "title": "Le Wagon",
+      "shortBio": "Je suis Cecy Ramallo, historienne et guitariste classique devenue développeuse Front-End durant la pandémie. Depuis septembre 2021, je suis nomade numérique, voyageant seule à travers 13 pays tout en travaillant à distance. Actuellement, je suis gestionnaire de lots (Batch) et chargée de cours au Wagon et gestionnaire de communauté chez A Lo Tuyo, une communauté pour nomades numériques. Je suis aussi créatrice de contenus sur les voyages, le nomadisme numérique et les femmes dans la technologie.",
+      "image": "/images/speakers/cecy_ramallo.jpg",
+      "social": {
+        "email": "cecilia@wtmmontreal.com"
+      }
+    },
+    {
+      "name": "Stéphanie Akré",
+      "uuid": "8p9q0rst-uvwx-yz12-3456-7abc8def9012",
+      "slug": "stephanie-akre",
+      "title": "Ludociels",
+      "shortBio": "Je suis Stéphanie Akré, cofondatrice de l’OBNL Ludociels pour tous, une entreprise numérique d’économie sociale. Au sein de Ludociels, je suis Gestionnaire administrative et chargée de communication (et comptable, et gestionnaire des réseaux sociaux, de nos sites internet, et monteuse de podcasts et de vidéo, et…). Comme dans beaucoup de petites entreprises, je porte de multiples casquettes. Dans une autre vie, j’étais Massothérapeute / Physiothérapeute. «Un jour», j’ai fait un burn-out… Et je me suis dit que j’avais besoin de temps pour me reconstruire et me reposer, alors pourquoi pas cofonder une entreprise??? Ha, ha… C’est parti! Comment faire un site internet? Comment être présent sur les réseaux sociaux? Lesquels choisir? Comment faire une tenue de livre comptable? Euh… C’est quoi la tenue de livre??!! Stop, je souffle… Je reprend, une étape à la fois et je vais chercher de l’aide: - «Bonjour, je suis Sophie j’aime beaucoup votre mission, je peux vous aider pour les réseaux sociaux.» - «Salut! C’est Justine, je suis ok pour faire partie de votre C.A. et vous aider à clarifier votre mission et partager vos valeurs.» … Je m’entoure de femmes compétentes et talentueuses… Et l’aventure continue…",
+      "image": "/images/speakers/stephanie_akre.jpg",
+      "social": {
+        "email": "info@ludocielspourtous.org"
+      }
+    },
+    {
+      "name": "Sophie Li",
+      "uuid": "9q0rstuv-wxyz-1234-5678-9abc0def1234",
+      "slug": "sophie-li",
+      "title": "Dialogue",
+      "shortBio": "J'aime la bouffe et je code pour gagner ma vie. Mes loisirs incluent la télé, la lecture, les jeux vidéo et fréquenter différents cafés. J’ai voyagé dans quelques pays et j’ai très hâte de planifier le prochain : une croisière Disney!\n\nMa couleur préférée est la lavande, mais je porte surtout des vêtements aux couleurs d'automne.",
+      "image": "/images/speakers/sophie_li.jpeg",
+      "social": {
+        "email": "sophie.li@dialogue.co"
+      }
+    },
+    {
+      "name": "Afaf Taik",
+      "uuid": "4f0343aa-4129-48b9-bdec-42399d0cfb01",
+      "slug": "afaf-taik",
+      "title": "Mila- Quebec AI Institute",
+      "shortBio": "La Dr Afaf Taik est professeure adjointe à l'Université de Sherbrooke et actuellement chercheure postdoctorale au Mila-Institut d'IA du Québec et à l'Université de Montréal, travaillant sur l'intersection de l'équité et de la confidentialité dans l'apprentissage automatique. Elle a obtenu un doctorat en génie électrique en 2022 de l'Université de Sherbrooke, où elle a travaillé sur des problèmes liés aux algorithmes d'apprentissage automatique distribués. Afaf a reçu de nombreux prix et reconnaissances pour son travail, tels que les bourses postdoctorales Claire DesChênes (2023) et FRQNT (2024) et le prix du meilleur article à l'IEEE LCN 2021.",
+      "image": "/images/speakers/afaf_taik.jpg",
+      "social": {
+      }
+    },
+    {
+      "name": "Khaoula Chehbouni",
+      "uuid": "efb2a752-3172-4f30-a050-6cbe246ac8f8",
+      "slug": "khaoula-chehbouni",
+      "title": "Mila- Quebec AI Institute",
+      "shortBio": "Khaoula Chehbouni est étudiante de deuxième année au doctorat en informatique à l'Université McGill et à Mila (Institut d'IA du Québec). Elle a reçu la prestigieuse bourse de formation doctorale du FRQNT pour effectuer des recherches sur l'équité et la sécurité dans les grands modèles de langage. Auparavant, elle a travaillé comme scientifique principale des données à Statistique Canada. Elle est titulaire d'une maîtrise en intelligence d'affaires de HEC Montréal, pour laquelle elle a reçu le prix de la meilleure thèse. Ses intérêts de recherche comprennent l'IA responsable, les questions d'équité et de sécurité dans les grands modèles de langage.",
+      "image": "/images/speakers/khaoula_chehbouni.png",
+      "social": {
+      }
+    },
+    {
+    "name": "Jihoo Park",
+    "uuid": "9b8f90fb-eeba-44a6-bceb-158cb03db360",
+    "slug": "jihoo-park",
+    "title": "Warner Bros",
+    "shortBio": "Salut, je suis Jihoo! Je suis passionnée par l'idée de rendre la technologie accessible et amusante pour tout le monde. J'aime aider les autres à découvrir de nouvelles façons d'utiliser la technologie de manière créative, que ce soit pour des projets personnels ou dans la vie de tous les jours. Mon objectif est de montrer que tout le monde peut bâtir, créer et apprendre, peu importe son parcours. Quand je n'enseigne pas, tu peux me trouver en train de découvrir de nouveaux restos ou de jouer de la guitare !",
+    "image": "/images/speakers/jihoo.jpeg",
+    "social": {
+      "email": "jihoo.park@warnerbros.com"
+    }
+  },
+  {
+    "name": "Stephanie Jecrois",
+    "uuid": "1c0913e2-9ba4-4f6c-a2f7-aee46a45fd3a",
+    "slug": "stephanie-jecrois",
+    "title": "Technovation Montreal",
+    "shortBio": "Stéphanie Jecrois est cofondatrice de Technovation Montréal, un organisme à but non lucratif qui vise à développer les compétences en technologie et en entrepreneuriat chez les filles de 8 à 18 ans. La mission est d’équiper les jeunes filles avec les outils et le mentorat nécessaires afin qu’elles deviennent des entrepreneures et leaders dans le domaine de la technologie.",
+    "image": "/images/speakers/stephanie_jecrois.jpg",
+    "social": {
+      "email": "stephanie@technovationmontreal.com"
+    }
+  },
+  {
+    "name": "Emily Fetco",
+    "uuid": "1ac67011-3367-40de-81bc-941f5d977a31",
+    "slug": "emily_fetco",
+    "title": "Technovation Montreal",
+    "shortBio": "Emily Fetco est une jeune scientifique passionnée et ambitieuse, spécialisée en intelligence artificielle, développement d’applications mobiles et imagerie médicale. Dès son plus jeune âge, elle s'est plongée dans le codage, progressant rapidement des projets débutants aux applications avancées d’apprentissage automatique. Son parcours est jalonné de distinctions prestigieuses, notamment le Prix Femmes+ en Tech au BrébeufHX Hackathon, la première place au Technovation Montreal Hackathon, ainsi que plusieurs honneurs académiques. \n\n Emily a contribué activement à la recherche en intelligence artificielle et en imagerie médicale, développant des architectures U-Net pour des modèles de segmentation en apprentissage profond. Elle a présenté ses travaux lors d’événements d’envergure, notamment le symposium du 40e anniversaire du McConnell Brain Imaging Centre (The Neuro, Université McGill). Ses compétences techniques couvrent Python, TensorFlow, React Native, JavaScript, HTML, CSS, ainsi que des outils de segmentation IRM comme ITK-Snap et minc tools. \n\n Au-delà de son expertise technique, Emily est une fervente défenseuse de la jeunesse dans les STEM, et notamment des jeunes filles dans la technologie. Elle a participé à des ateliers chez Google et Microsoft, publié dans Frontiers for Young Minds et a été mise en avant dans des interviews de presse pour ses projets innovants. Elle continue de repousser les frontières de l’intelligence artificielle et d’inspirer la prochaine génération d’innovateurs.",
+    "image": "/images/speakers/emily_fetco.jpg",
+    "social": {
+      "email": "emilie@technovationmontreal.com"
+    }
+  },
+  {
+    "name": "Diana Soler",
+    "uuid": "da5116af-0b5f-4de4-afcd-3f70fedfa829",
+    "slug": "diana-soler",
+    "title": "Somos Latinx in Tech",
+    "shortBio": "Diana Soler est cheffe de produit et occupe actuellement le poste de directrice des opérations, de l'analyse et de l'activation des produits chez Assent. Forte d'une solide expérience dans la gestion et le coaching d'équipes d'exploitation de produits (product ops), Diana a occupé des rôles clés chez AppDirect et Airbnb. Au-delà de ses activités professionnelles, Diana est profondément engagée dans l’émancipation et la participation des communautés sous-représentées dans le secteur des technologies. En tant que cheffe de chapitre pour les Latinas in Tech Canada, elle anime un réseau de soutien pour les femmes latines, encourageant leur participation active et développant leur leadership dans l'espace technologique. De plus, en tant que cofondatrice de Somos Latinx in Tech, Diana contribue à bâtir une communauté inclusive qui offre des opportunités de réseautage, des ressources, du mentorat aux professionnel·le·s de la technologie hispaniques et latinos et à leurs allié·e·s. Son dévouement à la promotion de la diversité et l'inclusion, combiné à sa vaste expérience dans les opérations de produits, démontre son engagement à conduire un changement positif dans l'industrie des technologies.",
+    "image": "/images/speakers/diana_soler.jpg",
+    "social": {
+      "email": "diana.soler@somoslatinxintech.com"
+    }
+  },
+  {
+    "name": "Eva Diaz",
+    "uuid": "afd2bfd5-b7bf-45b4-bf1d-6dc647c3950c",
+    "slug": "eva-diaz",
+    "title": "STEM Women Congress",
+    "shortBio": "Eva Diaz Claver est la PDG de Global STEM Women et du STEM Women Congress (SWC), une leader engagée dans la promotion de la diversité de genre dans les domaines STEM. Elle est la fondatrice d'une initiative pionnière, axée sur les données et dédiée à réduire l'écart entre les genres dans les STEM : le STEM Women Annual Reports (SWAR). Cette méthodologie innovante permet d’identifier les inégalités de genre, de créer un modèle prédictif pour le futur talent STEM et d’activer l’écosystème des acteurs engagés dans la réduction de cet écart dans chaque pays où le SWC est représenté : Espagne, Portugal, Italie, Canada, Colombie, Brésil et Chili. Elle est titulaire d’un Master en Journalisme de l'Universitat Autònoma de Barcelona (Espagne) et d’un Master en Marketing Management de l’EADA Business School. En 2023, Eva a reçu le Prix Dona TIC pour la meilleure initiative entrepreneuriale, et en 2024, elle a été distinguée par les prix Women Changing the World et Women Changing the World America, renforçant ainsi son impact transformateur dans la promotion des femmes dans les STEM à l’échelle mondiale.",
+    "image": "/images/speakers/eva_diaz.jpg",
+    "social": {
+    }
+  },
+  {
+    "name": "Mariam Jabara",
+    "uuid": "0679723c-eda7-41b1-b858-638285c6bf52",
+    "slug": "mariam-jabara",
+    "title": "Women in AI",
+    "shortBio": "Mariam travaille dans le domaine de l'IA depuis 5 ans, à la fois académique et professionnelle. Actuellement, elle travaille comme développeuse de logiciels d'IA pour Osedea, une entreprise d'innovation basée à Montréal, avec une expérience antérieure dans des entreprises telles que Google Research et Deloitte. Ses valeurs sont ancrées dans la construction d'une communauté, la diversité et l'inclusion, et l'utilisation responsable de l'IA pour résoudre les problèmes contribue à l'amélioration de la société.",
+    "image": "/images/speakers/placeholder.png",
+    "social": {
+    }
+  },
+  {
+    "name": "Stefania Pecore",
+    "uuid": "3f2218bf-e2d9-4058-a8f5-9dedb5ed7a40",
+    "slug": "stefania-pecore",
+    "title": "Women Techmakers Montréal",
+    "shortBio": "Stefania a débuté son parcours avec un diplôme universitaire en langues étrangères, reconnaissant la nécessité d'une communication inclusive lorsque des barrières linguistiques existaient. En tant que première étudiante à introduire un sujet d'IA dans son université en Italie, axé sur l'IA et la traduction automatique, son chemin ne s'est pas arrêté là. Par la suite, elle a poursuivi ses études supérieures, obtenant une maîtrise et un doctorat en informatique, programmation et Traitement Automatique du Langage Naturel (TALN) en France. Passionnée par l'exploitation de la technologie pour améliorer la communication, elle a joué un rôle central en aidant de nombreuses entreprises de divers secteurs - éducation, industrie manufacturière, biotechnologie et même s'aventurant dans les jeux vidéo - en intégrant des solutions de TALN et d'IA dans leurs produits. Désireuse de partager ses idées, elle est devenue mentore pour les femmes, occupant les postes d'ambassadrice de Google Women Techmakers, Women in AI et Women in Games. En 2024, elle est devenue directrice générale de Women Techmakers Montréal, une initiative communautaire inspirée du programme Google Women Techmakers. Elle a été nommée experte en IA pour le programme Women4Ethical AI de l'UNESCO, ce qui lui permet d'appliquer davantage son expertise dans la promotion d'une IA responsable et le soutien des approches éthiques dans la création de systèmes d'IA.",
+    "image": "/images/team/stefania.jpg",
+    "social": {
+    }
+  },
+  {
+    "name": "Hana Schonegger",
+    "uuid": "8859f090-b7ea-442c-980d-e9873b27cad7",
+    "slug": "hana-schonegger",
+    "title": "Women In Animation",
+    "shortBio": "Hana est une artiste et productrice d'effets visuels, une scientifique des systèmes cognitifs et une activiste sociale actuellement dirige la section montréalaise de Women in Animation, un organisme à but non lucratif qui milite en faveur d'un avenir équitable pour l’animation, les effets visuels, les jeux et les industries connexes. C'est une passionnée de cinéma et technologie de l'animation, linguistique, psychologie et neurosciences. Originaire d'Europe de l'Est, elle a vécu dans des pays du monde entier et elle est arrivée à Montréal il y a 6 ans. Elle n'est toujours pas habituée au froid et en parle aussi ouvertement qu'elle parle des droits des travailleurs.",
+    "image": "/images/speakers/hana_schonegger.jpg",
+    "social": {
+    }
+  }
+  ]
+}

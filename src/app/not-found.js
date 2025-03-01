@@ -1,6 +1,6 @@
+'use client';
 import Link from 'next/link';
 import notFoundsvg from '@/public/images/404-computer.svg';
-import '@/styles/globals.css';
 import Image from 'next/image';
 
 export default function NotFound() {
