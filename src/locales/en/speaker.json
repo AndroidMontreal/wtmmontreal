@@ -183,7 +183,7 @@
       "slug": "emily_fetco",
       "title": "Technovation Montreal",
       "shortBio": "Emily Fetco is a passionate and driven young scientist with a deep interest in artificial intelligence, mobile app development, and medical imaging. From an early age, she immersed herself in coding, quickly progressing from beginner projects to advanced machine learning applications. Her journey has been marked by numerous accolades, including the Prix Femmes+ en Tech at the BrébeufHX Hackathon, first place at the Technovation Montreal Hackathon, and multiple honors for academic excellence. \n\n Emily has actively contributed to AI and medical imaging research, developing U-Net architectures for deep learning-based segmentation models. She has presented her work at prestigious events, including the McConnell Brain Imaging Centre’s 40th Anniversary Symposium at The Neuro (McGill University). Her technical expertise spans Python, TensorFlow, React Native, JavaScript, HTML, CSS, and MRI segmentation tools such as ITK-Snap and minc tools. \n\n Beyond her technical skills, Emily is a strong advocate for youth in STEM, especially for young women in technology. She has participated in Google and Microsoft workshops, published in Frontiers for Young Minds, and been featured in press interviews for her innovative projects. She continues to push boundaries in AI and inspire the next generation of innovators.",
-      "image": "/images/speakers/placeholder.png",
+      "image": "/images/speakers/Emily_Fetco.jpeg",
       "social": {
         "email": "emilie@technovationmontreal.com"
       }
@@ -215,7 +215,7 @@
       "slug": "mariam-jabara",
       "title": "Women in AI",
       "shortBio": "Mariam has been in the AI space for the last 5 years, in both academic and professional capacities. Currently, she works as an AI Software Developer for Osedea, a Montreal based innovation firm, with previous experience at companies such as Google Research and Deloitte. Her values are rooted in building community, diversity and inclusion, and using AI responsibly to solve problems contribute to the betterment of society",
-      "image": "/images/speakers/placeholder.png",
+      "image": "/images/speakers/Mariam_Jabara.jpg",
       "social": {
       }
     },
