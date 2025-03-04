@@ -6,10 +6,33 @@
   <component name="ChangeListManager">
     <list default="true" id="c94189e5-5657-4e02-be2d-51c766fcc41f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/locales/en/partner.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/partner.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/Mariam_Jabara.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/speakers/Mariam_Jabara.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/balkissa.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/brittney_muto.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/speakers/brittney_muto.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/cecy_ramallo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/speakers/cecy_ramallo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/diana_soler.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/speakers/diana_soler.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/dina_kada.png" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/speakers/dina_kada.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/eva_diaz.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/speakers/eva_diaz.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/hana_schonegger.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/speakers/hana_schonegger.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/hanna_abdel_hamid.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/speakers/hanna_abdel_hamid.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/rucha.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/speakers/rucha.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/stephanie_akre.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/speakers/stephanie_akre.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/speakers/temitope_bolaji_jegede.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/speakers/temitope_bolaji_jegede.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/team/Sofia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/team/Sofia.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/team/stefania.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/team/stefania.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/images/team/volunteers/Cecilia.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/public/images/team/volunteers/Cecilia.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[lang]/speakers/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/speakers/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[lang]/team/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/team/page.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/elements/SessionInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/SessionInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/elements/SpeakerCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/SpeakerCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/elements/SpeakerInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/SpeakerInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/elements/TeamMemberCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/TeamMemberCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/session.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/session.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/locales/en/speaker.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/speaker.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/locales/fr/partner.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/partner.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/team.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/team.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/fr/session.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/session.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/locales/fr/speaker.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/speaker.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/fr/team.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/team.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +174,8 @@
       <workItem from="1740193709423" duration="2524000" />
       <workItem from="1740275603678" duration="17120000" />
       <workItem from="1740360154886" duration="14879000" />
-      <workItem from="1741065187804" duration="2679000" />
+      <workItem from="1741065187804" duration="3751000" />
+      <workItem from="1741112158209" duration="4655000" />
     </task>
     <servers />
   </component>

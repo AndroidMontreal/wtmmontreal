@@ -26,7 +26,7 @@ const Speakers = () => {
         subTitleClassName="max-w-xl"
       />
 
-      <ul className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3  lg:grid-cols-3  gap-6 max-w-7xl mx-auto">
+      <ul className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 gap-3 md:gap-6 max-w-7xl mx-auto ">
         {sortedSpeakers.map((speaker) => (
           <li key={speaker.uuid} className="flex items-start">
             <SpeakerCard speaker={speaker} />

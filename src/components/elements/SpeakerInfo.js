@@ -11,8 +11,8 @@ export default function SpeakerInfo({ speaker, speakerSessions, locale }) {
   const t = useTranslations('speaker');
   return (
     <div className="flex flex-col  max-w-7xl items-start mx-auto justify-center gap-8 my-10 md:my-24">
-      <div className="flex flex-col lg:flex-row justify-center gap-8 w-full relative top-0">
-        <div className="w-full h-full lg:w-2/5 flex lg:sticky">
+      <div className="flex flex-col lg:flex-row justify-center gap-8 w-full relative top-1">
+        <div className="w-full h-full lg:w-2/5 flex lg:sticky top-44">
           {speaker && (
             <div className="w-full flex flex-col text-left justify-center gap-1 ">
               <Image
@@ -61,7 +61,7 @@ export default function SpeakerInfo({ speaker, speakerSessions, locale }) {
           {speaker && (
             <div id="aboutSpeaker">
               <h2 className="text-[min(7vw,40px)] leading-[1.3] tracking-tight font-semibold text-transparent bg-clip-text bg-gradient-to-b from-black to-gray-700 mb-1">
-                  {t('about')} {getFirstName(speaker.name)}
+                {t('about')} {getFirstName(speaker.name)}
               </h2>
 
               <div className="prose lg:prose-base ">
@@ -72,9 +72,12 @@ export default function SpeakerInfo({ speaker, speakerSessions, locale }) {
             </div>
           )}
 
+          <h2 className="text-[min(7vw,40px)] leading-[1.3] tracking-tight font-semibold text-transparent bg-clip-text bg-gradient-to-b from-black to-gray-700 mb-1">
+            Session
+          </h2>
           {/* sessions details - if speaker have two or more sessions */}
-          {speakerSessions.map((session) => (
-            <SessionInfo key={session.uuid} session={session} />
+          {speakerSessions.map((session, index) => (
+            <SessionInfo key={session.uuid} session={session} index={index} />
           ))}
         </div>
       </div>

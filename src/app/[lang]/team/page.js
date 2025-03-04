@@ -54,7 +54,7 @@ export default function Home() {
 
       <SmallTitle title={t('volunteer.title')} />
 
-      <ul className=" py-6 grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 gap-3 md:gap-6 max-w-7xl mx-auto">
+      <ul className="py-6 grid grid-cols-2 sm:grid-cols-2 md:grid-cols-3 gap-3 md:gap-6 max-w-7xl mx-auto">
         {sortedVolunteers.map((member) => (
           <li key={member.uuid} className="flex items-start">
             <TeamMemberCard member={member} />

@@ -21,8 +21,8 @@ const TeamMemberCard = ({ member }) => {
           />
         </div>
 
-        <div className="w-full py-6 text-start ">
-          <h3 className="text-xl md:text-2xl font-semibold text-gray-800 py-1 group-hover:text-gray-500">
+        <div className="w-full py-3 text-start ">
+          <h3 className="text-xl md:text-2xl font-semibold text-gray-800 py-1 group-hover:text-gray-500 tracking-tight">
             {member.name}
           </h3>
           <p className="text-xs md:text-base text-gray-600 group-hover:text-gray-500">

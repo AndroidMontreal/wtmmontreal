@@ -1,7 +1,7 @@
 'use client';
 import { useTranslations } from 'next-intl';
 
-export const SessionInfo = ({ session }) => {
+export const SessionInfo = ({ session, index }) => {
   // Get schedule data from translations
   const s = useTranslations('schedule');
   const timeSlots = Array.isArray(s.raw('timeSlots')) ? s.raw('timeSlots') : [];
@@ -40,10 +40,7 @@ export const SessionInfo = ({ session }) => {
 
   return (
     <div key={session.uuid} id="sessionDetails" className="prose">
-      <h2 className="text-[min(7vw,40px)] leading-[1.3] tracking-tight font-semibold text-transparent bg-clip-text bg-gradient-to-b from-black to-gray-700 mb-1">
-        Session
-      </h2>
-      <h3 className="text-[min(7vw,25px)] leading-[1.3] tracking-tight font-semibold text-transparent bg-clip-text bg-gradient-to-b from-black to-gray-700 mt-6 mb-0">
+      <h3 className="text-[min(7vw,25px)] leading-[1.3] tracking-tight font-semibold text-[#2480F0] mt-6 mb-0">
         {session.title}
       </h3>
       <div className="flex mb-6">
