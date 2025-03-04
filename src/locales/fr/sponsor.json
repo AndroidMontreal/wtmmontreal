@@ -65,6 +65,12 @@
       "logo": "/images/partners/Transit.svg",
       "company": "Transit",
       "website": "https://transitapp.com/fr"
+    },
+    {
+      "level": "silver",
+      "logo": "/images/partners/alithya.svg",
+      "company": "Alithya",
+      "website": "https://www.alithya.com/"
     }
   ]
 }
