@@ -1,32 +1,32 @@
 {
   "site": {
-    "title": "Women Techmakers Montréal 2025 | GDG Montréal | WTM Montréal | Flutter Montréal",
-    "description": "Une conférence mettant en valeur des femmes talentueuses et passionnées, renforçant la visibilité de la communauté technologique de Montréal et encourageant les femmes à prendre leur place en technologie.",
+    "title": "WTM Montréal 2025 - Conférence de la Journée internationale des femmes",
+    "description": "Participez à la conférence WTM Montréal pour la Journée internationale des femmes 2025! Connectez, apprenez et soyez inspiré par des femmes leaders en tech.",
     "og_image": "/images/logo/eventHeader.gif"
   },
   "home": {
-    "title": "Women Techmakers Montréal 2025 | GDG Montréal | WTM Montréal | Flutter Montréal",
-    "description": "Une conférence mettant en valeur des femmes talentueuses et passionnées, renforçant la visibilité de la communauté technologique de Montréal et encourageant les femmes à prendre leur place en technologie.",
+    "title": "WTM Montréal 2025 - Conférence de la Journée internationale des femmes",
+    "description": "Participez à la conférence WTM Montréal pour la Journée internationale des femmes 2025! Connectez, apprenez et soyez inspiré par des femmes leaders en tech.",
     "og_image": "/images/logo/eventHeader.gif"
   },
   "team": {
-    "title": "Rencontrez notre équipe | WTM Montréal",
-    "description": "Découvrez les personnes talentueuses derrière WTM Montréal.",
+    "title": "Rencontrez l'équipe de WTM Montréal",
+    "description": "Découvrez les personnes passionnées qui organisent WTM Montréal 2025.",
     "og_image": "/images/logo/eventHeader.gif"
   },
-  "speaker": {
-    "title": "Conférencières | WTM Montreal",
-    "description": "Conférencières of event",
+  "speakers": {
+    "title": "WTM Montréal 2025 - Conférencières",
+    "description": "Découvrez les conférencières inspirantes et les leaders technologiques présentes à WTM Montréal 2025.",
     "og_image": "/images/logo/eventHeader.gif"
   },
   "schedule": {
-    "title": "Schedule | WTM Montreal",
-    "description": "Schedule of event",
+    "title": "WTM Montréal 2025 - Horaire de la conférence",
+    "description": "Consultez l'horaire complet des conférences, ateliers et événements pour WTM Montréal 2025. Planifiez votre expérience JIF !",
     "og_image": "/images/logo/eventHeader.gif"
   },
   "code-of-conduct": {
-    "title": "Code de conduite | WTM Montreal",
-    "description": "Description du code de conduite",
+    "title": "WTM Montréal - Code de conduite",
+    "description": "Notre engagement envers un environnement sûr et inclusif. Lisez le code de conduite de WTM Montréal.",
     "og_image": "/images/logo/eventHeader.gif"
   }
 }

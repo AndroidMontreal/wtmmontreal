@@ -1,32 +1,32 @@
 {
   "site": {
-    "title": "Women Techmakers Montreal 2025 | GDG Montreal | WTM Montreal | Flutter Montreal",
-    "description": "Conference promoting talented and passionate women, increasing the visibility of the Montreal technology community and empowering women in technology",
+    "title": "WTM Montreal 2025 - International Women's Day Conference",
+    "description": "Join WTM Montreal's 2025 conference!  We're celebrating talented women in technology, fostering community, and empowering the next generation.",
     "og_image": "/images/logo/eventHeader.gif"
   },
   "home": {
-    "title": "Women Techmakers Montreal 2025 | GDG Montreal | WTM Montreal | Flutter Montreal",
-    "description": "Conference promoting talented and passionate women, increasing the visibility of the Montreal technology community and empowering women in technology",
+    "title": "WTM Montreal 2025 - International Women's Day Conference",
+    "description": "Join WTM Montreal's 2025 conference!  We're celebrating talented women in technology, fostering community, and empowering the next generation.",
     "og_image": "/images/logo/eventHeader.gif"
   },
   "team": {
-    "title": "Meet Our Team | WTM Montreal",
-    "description": "Get to know the talented individuals behind WTM Montreal.",
+    "title": "Meet the WTM Montreal Team",
+    "description": "Get to know the passionate individuals organizing WTM Montreal 2025.",
     "og_image": "/images/logo/eventHeader.gif"
   },
-  "speaker": {
-    "title": "Speakers | WTM Montreal",
-    "description": "Speakers of event",
+  "speakers": {
+    "title": "WTM Montreal 2025 - Speakers",
+    "description": "Discover the inspiring speakers and tech leaders featured at WTM Montreal 2025.",
     "og_image": "/images/logo/eventHeader.gif"
   },
   "schedule": {
-    "title": "Schedule | WTM Montreal",
-    "description": "Schedule of event",
+    "title": "WTM Montreal 2025 - Conference Schedule",
+    "description": "View the full schedule of talks, workshops, and events for WTM Montreal 2025. Plan your IWD experience!",
     "og_image": "/images/logo/eventHeader.gif"
   },
   "code-of-conduct": {
-    "title": "Code of conduct | WTM Montreal",
-    "description": "Code of conduct description",
+    "title": "WTM Montreal - Code of Conduct",
+    "description": "Our commitment to a safe and inclusive environment. Read the WTM Montreal Code of Conduct.",
     "og_image": "/images/logo/eventHeader.gif"
   }
 }

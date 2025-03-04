@@ -3,7 +3,7 @@ import '@/styles/globals.css';
 import { Open_Sans } from 'next/font/google';
 import Header from '@/components/sections/Header';
 import Footer from '@/components/sections/Footer';
-import { NextIntlClientProvider } from 'next-intl';
+import { NextIntlClientProvider, useLocale } from 'next-intl';
 import { locales } from '@/i18n';
 import { loadTranslations, namespaces } from '@/i18n/request';
 import { getPageMetadata } from '@/lib/metadata';

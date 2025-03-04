@@ -6,8 +6,8 @@ export async function generateMetadata({ params }) {
   const speaker = speakers.find((s) => s.slug === params.slug);
 
   return {
-    title: speaker?.name,
-    description: speaker?.title,
+    title: `${speaker?.name} | WTM Montreal 2025`,
+    description: speaker?.shortBio,
     openGraph: {
       images: [speaker?.image],
     },
