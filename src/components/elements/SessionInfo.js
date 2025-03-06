@@ -4,18 +4,18 @@ import { useTranslations } from 'next-intl';
 export const SessionInfo = ({ session, index }) => {
   // Get schedule data from translations
   const s = useTranslations('schedule');
-  const timeSlots = Array.isArray(s.raw('timeSlots')) ? s.raw('timeSlots') : [];
-  const rooms = Array.isArray(s.raw('rooms')) ? s.raw('rooms') : [];
+  // const timeSlots = Array.isArray(s.raw('timeSlots')) ? s.raw('timeSlots') : [];
+  // const rooms = Array.isArray(s.raw('rooms')) ? s.raw('rooms') : [];
 
-  const timeSlot = timeSlots.find((ts) =>
-    ts.sessions.some((s) => s.sessionUUID === session.uuid)
-  );
+  // const timeSlot = timeSlots.find((ts) =>
+  //   ts.sessions.some((s) => s.sessionUUID === session.uuid)
+  // );
 
-  const room = rooms.find(
-    (r) =>
-      r.uuid ===
-      timeSlot?.sessions.find((s) => s.sessionUUID === session.uuid).roomUUID
-  );
+  // const room = rooms.find(
+  //   (r) =>
+  //     r.uuid ===
+  //     timeSlot?.sessions.find((s) => s.sessionUUID === session.uuid).roomUUID
+  // );
   /*Temporary comment*/
   // If no timeSlot is found, return null or an error message
   // if (!timeSlot) {

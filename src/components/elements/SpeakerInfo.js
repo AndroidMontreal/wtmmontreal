@@ -3,9 +3,10 @@ import Image from 'next/image';
 import { FaRegEnvelope } from 'react-icons/fa';
 import { FaLinkedinIn } from 'react-icons/fa6';
 import { CiGlobe } from 'react-icons/ci';
-import { SessionInfo } from '@/components/elements/SessionInfo';
+import SessionInfoCard from '@/components/elements/SessionInfoCard';
 import { useTranslations } from 'next-intl';
 import { getFirstName } from '@/lib/utils';
+import { SessionInfo } from '@/components/elements/SessionInfo';
 
 export default function SpeakerInfo({ speaker, speakerSessions, locale }) {
   const t = useTranslations('speaker');

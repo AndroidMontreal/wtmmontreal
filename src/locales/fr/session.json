@@ -3,15 +3,27 @@
   "description": "Séances | WTM Montreal 2025",
   "sessions": [
     {
-      "title": "Registration",
+      "title": "Enregistrement",
       "uuid": "246a17da-adf9-4d8e-9c50-ef84bdf68c55",
-      "description": "Enjoy the breakfast and network with other attendees",
+      "description": "Profitez du petit-déjeuner et échangez avec les autres participants",
       "speakerUUID": []
     },
     {
-      "title": "Opening Note",
+      "title": "Mot d'ouverture",
       "uuid": "4d0cb762-4de4-43cf-b4ea-f02bcfa5b559",
-      "description": "Welcome message and introduction to the event",
+      "description": "Message de bienvenue et introduction à l'événement",
+      "speakerUUID": []
+    },
+    {
+      "title": "Déjeuner",
+      "uuid": "27ff7729-5792-4efd-a813-321fd6523e63",
+      "description": "Profitez d'un délicieux déjeuner et échangez avec les autres participants",
+      "speakerUUID": []
+    },
+    {
+      "title": "Mot de clôture",
+      "uuid": "949819b7-15db-40ce-9cb8-abbcf5d44d90",
+      "description": "Tirage au sort des prix et remarques de clôture",
       "speakerUUID": []
     },
     {
@@ -233,13 +245,6 @@
         "IA",
         "Biais"
       ]
-    },
-    {
-      "title": "Break",
-      "uuid": "27ff7729-5792-4efd-a813-321fd6523e63",
-      "description": "Enjoy a break and network with other attendees",
-      "shortDescription": "Enjoy a break and network with other attendees",
-      "speakerUUID": []
     }
   ]
 }

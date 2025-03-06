@@ -15,6 +15,18 @@
       "speakerUUID": []
     },
     {
+      "title": "Lunch",
+      "uuid": "27ff7729-5792-4efd-a813-321fd6523e63",
+      "description": "Enjoy a delicious lunch and network with other attendees",
+      "speakerUUID": []
+    },
+    {
+      "title": "Closing Note",
+      "uuid": "949819b7-15db-40ce-9cb8-abbcf5d44d90",
+      "description": "Raffle prizes and closing remarks",
+      "speakerUUID": []
+    },
+    {
       "title": "Designing for Creators: UX Strategies for Complex Softwares",
       "uuid": "a1b2c3d4-e5f6-7890-1abc-2def3ghi4jkl",
       "description": "Creative tools—like game engines and professional software—are often designed for power users who need flexibility and control. Too frequently, these tools assume that complexity must mean difficulty, with UX as an afterthought. This results in steep learning curves, overwhelming interfaces, and inefficient workflows.\n\nIn this talk, I will explore how UX strategies can redefine what’s possible in creative software by making complexity feel intuitive without sacrificing depth. We’ll cover key concepts like defining user profiles, prioritizing workflows, and introducing complexity only when necessary, enabling diverse creators of all technical skill levels to participate, experiment, and innovate.",
@@ -234,13 +246,6 @@
         "IA",
         "Biais"
       ]
-    },
-    {
-      "title": "Break",
-      "uuid": "27ff7729-5792-4efd-a813-321fd6523e63",
-      "description": "Enjoy a break and network with other attendees",
-      "shortDescription": "Enjoy a break and network with other attendees",
-      "speakerUUID": []
     }
   ]
 }
