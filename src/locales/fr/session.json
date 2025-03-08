@@ -15,15 +15,27 @@
       "speakerUUID": []
     },
     {
-      "title": "Déjeuner",
+      "title": "Tout se passe à côté!",
+      "uuid": "d0c327de-afcc-41a4-a161-a82d0387ec86",
+      "description": "Retrouvez-nous dans l'autre salle pour des conférences captivantes et des échanges inspirants!",
+      "speakerUUID": []
+    },
+    {
+      "title": "Dîner",
       "uuid": "27ff7729-5792-4efd-a813-321fd6523e63",
-      "description": "Profitez d'un délicieux déjeuner et échangez avec les autres participants",
+      "description": "Profitez d'un délicieux dîner et échangez avec les autres participant·e·s",
       "speakerUUID": []
     },
     {
       "title": "Mot de clôture",
       "uuid": "949819b7-15db-40ce-9cb8-abbcf5d44d90",
       "description": "Tirage au sort des prix et remarques de clôture",
+      "speakerUUID": []
+    },
+    {
+      "title": "Allez à votre session",
+      "uuid": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
+      "description": "",
       "speakerUUID": []
     },
     {

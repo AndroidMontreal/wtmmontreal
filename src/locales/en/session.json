@@ -15,6 +15,12 @@
       "speakerUUID": []
     },
     {
+      "title": "Everything's Happening Next Door!",
+      "uuid": "d0c327de-afcc-41a4-a161-a82d0387ec86",
+      "description": "Join us in the other room for captivating talks and inspiring discussions!",
+      "speakerUUID": []
+    },
+    {
       "title": "Lunch",
       "uuid": "27ff7729-5792-4efd-a813-321fd6523e63",
       "description": "Enjoy a delicious lunch and network with other attendees",
@@ -24,6 +30,12 @@
       "title": "Closing Note",
       "uuid": "949819b7-15db-40ce-9cb8-abbcf5d44d90",
       "description": "Raffle prizes and closing remarks",
+      "speakerUUID": []
+    },
+    {
+      "title": "Go to Your Session",
+      "uuid": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
+      "description": "",
       "speakerUUID": []
     },
     {
