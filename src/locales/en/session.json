@@ -39,6 +39,18 @@
       "speakerUUID": []
     },
     {
+      "title": "Move to the main",
+      "uuid": "3c50c7e7-56af-4ab6-956d-9e506975ac36",
+      "description": "",
+      "speakerUUID": []
+    },
+    {
+      "title": "Networking",
+      "uuid": "9e045c45-2933-48cb-8e04-9032221c7723",
+      "description": "Connect, collaborate, and expand your network at our upcoming event! Meet speakers, exchange ideas, and explore new opportunities in a relaxed setting.",
+      "speakerUUID": []
+    },
+    {
       "title": "Designing for Creators: UX Strategies for Complex Softwares",
       "uuid": "a1b2c3d4-e5f6-7890-1abc-2def3ghi4jkl",
       "description": "Creative tools—like game engines and professional software—are often designed for power users who need flexibility and control. Too frequently, these tools assume that complexity must mean difficulty, with UX as an afterthought. This results in steep learning curves, overwhelming interfaces, and inefficient workflows.\n\nIn this talk, I will explore how UX strategies can redefine what’s possible in creative software by making complexity feel intuitive without sacrificing depth. We’ll cover key concepts like defining user profiles, prioritizing workflows, and introducing complexity only when necessary, enabling diverse creators of all technical skill levels to participate, experiment, and innovate.",
@@ -265,6 +277,16 @@
       "description": "Enjoy a break and network with other attendees",
       "shortDescription": "Enjoy a break and network with other attendees",
       "speakerUUID": []
+    },
+    {
+      "title": "\"How Can I Break It?\" – A Workshop on Cybersecurity Defense",
+      "uuid": "51816b76-526d-4482-9779-552c5d5bb0db",
+      "description": "Sophisticated hackers are overrated—even you could break a web application. In this interactive workshop, we'll play devil's advocate and explore real-world cybersecurity scenarios where the attacker could be anyone: a criminal, an insider, or even an unintentional participant. Discover how proactivity plays a crucial role in maintaining strong cybersecurity defenses. Perfect for anyone wanting to understand the fundamentals of online security.",
+      "shortDescription": "Sophisticated hackers are overrated—even you could break a web application. In this interactive workshop, we'll play devil's advocate and explore real-world cybersecurity scenarios where the attacker could be anyone: a criminal, an insider, or even an unintentional participant.",
+      "speakerUUID": [
+        "1e0f4d60-7214-4a1a-bd75-ed5c7abda233",
+        "f95f0ba1-12aa-4e58-a8c8-0a8d56951054"
+      ]
     }
   ]
 }

@@ -1,8 +1,6 @@
 'use client';
 
-import { ScheduleSessionCard } from '@/components/elements/ScheduleSessionCard';
 import { TrackTimeSlotSection } from '@/components/elements/TrackTimeSlotSection';
-
 
 import TitleWithSubtitle from '@/components/elements/TitleWithSubtitle';
 
