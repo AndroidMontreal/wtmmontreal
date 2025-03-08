@@ -6,6 +6,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { FaCalendarPlus, FaRegIdBadge } from 'react-icons/fa';
 import { MdOutlineFastfood } from 'react-icons/md';
+import { useTranslations } from 'next-intl';
 import { PiCoffee } from 'react-icons/pi';
 import { TbNotes } from 'react-icons/tb';
 
@@ -16,16 +17,19 @@ function generateGoogleCalendarLink(event) {
   return `https://www.google.com/calendar/render?action=TEMPLATE&text=${encodeURIComponent(event.title)}&dates=${startTime}/${endTime}&details=${encodeURIComponent(event.description)}&location=${encodeURIComponent(event.location)}`;
 }
 
-export const ScheduleSessionCard = ({ timeSlot, session, sessionIndex }) => {
-  const sessionDetails = sessions2024Data.find(
+export const ScheduleSessionCard = ({ timeSlot, session, sessionIndex, room }) => {
+
+  const sessionT = useTranslations('session');
+  const speakersT = useTranslations('speaker');
+
+  const sessionDetails = sessionT.raw("sessions").find(
     (s) => s.uuid === session.sessionUUID
   );
 
   const speakers = sessionDetails?.speakerUUID?.map((speakerId) =>
-    speakers2024.find((speaker) => speaker.uuid === speakerId)
+    speakersT.raw("speakers").find((speaker) => speaker.uuid === speakerId)
   );
 
-  const room = scheduleData.rooms.find((r) => r.uuid === session.roomUUID);
 
   const sessionClassName = timeSlot.commonAllRooms
     ? 'col-start-2 col-end-[-1]'
@@ -34,7 +38,7 @@ export const ScheduleSessionCard = ({ timeSlot, session, sessionIndex }) => {
   return (
     <div
       key={sessionIndex}
-      className={`p-5 relative h-full flex flex-col overflow-hidden justify-between border border-[#e2e2e2] hover:bg-[#f7f7f7] hover:cursor-pointer rounded-lg text-left ${sessionClassName}`}
+      className={`p-5 relative flex flex-col overflow-hidden justify-between border border-[#e2e2e2] hover:bg-[#f7f7f7] hover:cursor-pointer rounded-lg text-left ${sessionClassName}`}
     >
       <div className="flex flex-col justify-between items-start">
         {' '}
@@ -108,23 +112,26 @@ export const ScheduleSessionCard = ({ timeSlot, session, sessionIndex }) => {
             </div>
           </Link>
         ))}
-        {sessionDetails.tags && (
-          <div className="flex">
-            {sessionDetails.tags.map((tag, tagIndex) => (
-              <Link
-                key={tagIndex}
-                href={`/schedule?tags=${tag.toLocaleLowerCase()}`}
-              >
-                <div
-                  key={tagIndex}
-                  className="bg-[#f1f1f1] text-[#424242] text-xs px-2 py-1 rounded-md mr-2"
-                >
-                  {tag}
-                </div>
-              </Link>
-            ))}
-          </div>
-        )}
+        {
+        //   sessionDetails.tags && (
+        //   <div className="flex">
+        //     {sessionDetails.tags.map((tag, tagIndex) => (
+        //       <Link
+        //         key={tagIndex}
+        //         href={`/schedule?tags=${tag.toLocaleLowerCase()}`}
+        //       >
+        //         <div
+        //           key={tagIndex}
+        //           className="bg-[#f1f1f1] text-[#424242] text-xs px-2 py-1 rounded-md mr-2"
+        //         >
+        //           {tag}
+        //         </div>
+        //       </Link>
+        //     ))
+        //   }
+        //   </div>
+        // )
+      }
       </div>
     </div>
   );

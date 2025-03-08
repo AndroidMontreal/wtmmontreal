@@ -18,25 +18,25 @@ export const SessionInfo = ({ session, index }) => {
   );
   /*Temporary comment*/
   // If no timeSlot is found, return null or an error message
-  // if (!timeSlot) {
-  //   return null;
-  // }
-  //
-  // const formattedStartTime = new Date(
-  //   `2025-04-05 ${timeSlot.startTime}`
-  // ).toLocaleTimeString([], {
-  //   hour: '2-digit',
-  //   minute: '2-digit',
-  //   hour12: false,
-  // });
-  //
-  // const formattedEndTime = new Date(
-  //   `2025-04-05 ${timeSlot.endTime}`
-  // ).toLocaleTimeString([], {
-  //   hour: '2-digit',
-  //   minute: '2-digit',
-  //   hour12: false,
-  // });
+  if (!timeSlot) {
+    return null;
+  }
+
+  const formattedStartTime = new Date(
+    `2025-04-05 ${timeSlot.startTime}`
+  ).toLocaleTimeString([], {
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false,
+  });
+
+  const formattedEndTime = new Date(
+    `2025-04-05 ${timeSlot.endTime}`
+  ).toLocaleTimeString([], {
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false,
+  });
 
   return (
     <div key={session.uuid} id="sessionDetails" className="prose">
