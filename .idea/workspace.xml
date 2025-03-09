@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c94189e5-5657-4e02-be2d-51c766fcc41f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/[lang]/schedule/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/schedule/page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/elements/ScheduleSessionCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/ScheduleSessionCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/elements/TrackTimeSlotSection.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/TrackTimeSlotSection.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/locales/fr/schedule.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/schedule.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +55,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "ldevillers/schedule__devfest__style",
+    "git-widget-placeholder": "fixes__devfest__style__schedule",
     "last_opened_file_path": "C:/Users/solan/Desktop/WTM 2025/wtm-2025/src/locales/fr",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",

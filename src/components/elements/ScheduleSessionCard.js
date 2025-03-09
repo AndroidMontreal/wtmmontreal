@@ -52,7 +52,7 @@ export const ScheduleSessionCard = ({
 
   const speakersClass = timeSlot.commonAllRooms
     ? 'flex gap-x-4'
-    : 'flex flex-col gap-y-4 mt-12';
+    : 'flex flex-col gap-y-4 mt-8';
   const speakerClass = timeSlot.commonAllRooms
     ? 'flex items-center gap-4 p-2 '
     : 'flex flex-col';
@@ -102,6 +102,18 @@ export const ScheduleSessionCard = ({
           {sessionDetails?.shortDescription || sessionDetails?.description}
         </div>
         {/* Add the icon */}
+        {sessionDetails?.tags?.length > 0 && (
+          <div className="flex flex-wrap pt-3">
+            {sessionDetails.tags.map((tag, tagIndex) => (
+              <div
+                key={tagIndex}
+                className="bg-[#f1f1f1] text-[#424242] text-xs px-2 py-1 rounded-md mr-2 mb-2"
+              >
+                #{tag}
+              </div>
+            ))}
+          </div>
+        )}
       </div>
 
       {timeSlot.icon ? (
@@ -123,7 +135,7 @@ export const ScheduleSessionCard = ({
         ''
       )}
       {speakers?.length > 0 && (
-        <div className={`group ${speakersClass} mt-14`}>
+        <div className={`group ${speakersClass} mt-8`}>
           {speakers?.map((speaker, speakerIndex) => (
             <div className={`single ${speakerClass}`} key={speakerIndex}>
               <Link href={`../speakers/${speaker.slug}`}>

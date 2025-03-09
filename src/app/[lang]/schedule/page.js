@@ -14,7 +14,6 @@ import { Fragment, useMemo } from 'react';
 
 import { useTranslations } from 'next-intl';
 
-
 const allTags = sessions2024Data.reduce((acc, session) => {
   session.tags?.forEach((tag) => {
     if (!acc.includes(tag.toLocaleLowerCase()))
@@ -26,41 +25,13 @@ const allTags = sessions2024Data.reduce((acc, session) => {
 
 export default function Schedule() {
   const t = useTranslations('schedule');
-  const param = useSearchParams();
 
-  const router = useRouter();
-
-  const tags = param.getAll('tags');
-
-  const timeSlots = useMemo(
-    () =>
-      tags.length > 0
-        ? t.raw("timeSlots").reduce((acc, timeSlot) => {
-            if (timeSlot.commonAllRooms) return [...acc, timeSlot];
-
-            const sessions = timeSlot.tracks.filter((track) => {
-              const found = sessions2024Data.find(
-                (s) => s.uuid === session.sessionUUID
-              );
-
-              return found.tags?.find((tag) =>
-                tags.includes(tag.toLowerCase())
-              );
-            });
-
-            return sessions.length > 0
-              ? [...acc, { ...timeSlot, sessions }]
-              : acc;
-          }, [])
-        : t.raw("timeSlots"),
-
-    [tags]
-  );
+  const timeSlots = Array.isArray(t.raw('timeSlots')) ? t.raw('timeSlots') : [];
 
   return (
     <div className="container mx-auto p-4 my-16">
       <TitleWithSubtitle
-        title= {t('title')}
+        title={t('title')}
         subTitle={t('description')}
         titleClassName="max-w-2xl"
         subTitleClassName="max-w-xl"
@@ -93,9 +64,8 @@ export default function Schedule() {
       }
 
       <div
-        className={`py-8 grid gap-x-4 gap-y-4 md:gap-y-6 ${tags.length === 0 && 'lg:grid-cols-[max-content_1fr_1fr_1fr_1fr]'}`}
+        className={`py-8 grid gap-x-4 gap-y-4 md:gap-y-6  lg:grid-cols-[max-content_1fr_1fr_1fr_1fr] `}
       >
-
         {/* Empty div for the top-left corner */}
 
         <div className="hidden" />
@@ -116,18 +86,14 @@ export default function Schedule() {
 
             {/* Render sessions within the same time slot */}
 
-            {
-              timeSlot.tracks.map((track, sessionIndex) => (
-
-                  <TrackTimeSlotSection
-                    key={sessionIndex}
-                    timeSlot={timeSlot}
-                    track= {track}
-                    sessionIndex={sessionIndex}
-                    />
-                ))}
-
-
+            {timeSlot.tracks.map((track, sessionIndex) => (
+              <TrackTimeSlotSection
+                key={sessionIndex}
+                timeSlot={timeSlot}
+                track={track}
+                sessionIndex={sessionIndex}
+              />
+            ))}
           </Fragment>
         ))}
       </div>
