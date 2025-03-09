@@ -1,78 +1,327 @@
 {
-  "date": "2024-11-09",
-  "dateReadable": "November 9",
+  "date": "2025-04-05",
+  "title": "Sessions",
+  "description": "Sessions of WTM Montreal 2025",
   "rooms": [
     {
       "uuid": "f9ed81db-f90a-42d4-b7e4-d554d8f338fd",
-      "name": "Room 1"
+      "name": "Soft skill (Main Stage)"
     },
     {
       "uuid": "03daa4f4-7d63-42dd-b133-9194f298e194",
-      "name": "Room 2"
+      "name": "Technical skills"
     },
     {
       "uuid": "1b974777-55d4-4741-8fff-920d5a292385",
-      "name": "Room 3"
+      "name": "Workshop A"
     },
     {
       "uuid": "cba79f3f-3e12-4f15-bb42-e17652efae58",
-      "name": ""
+      "name": "Workshop B"
+    },
+    {
+      "uuid": "1e7e9782-03e7-41c8-8e39-7171b4ce87d5",
+      "name": "Jardin intérieur"
     }
   ],
   "timeSlots": [
     {
-      "startTime": "08:30",
-      "endTime": "09:30",
-      "sessions": [
+      "startTime": "08:00",
+      "endTime": "08:45",
+      "tracks": [
         {
-          "roomUUID": "cba79f3f-3e12-4f15-bb42-e17652efae58",
-          "sessionUUID": "246a17da-adf9-4d8e-9c50-ef84bdf68c55"
+          "roomUUID": "",
+          "sessions": [
+            {
+              "sessionUUID": "246a17da-adf9-4d8e-9c50-ef84bdf68c55",
+              "duration": "45"
+            }
+          ]
         }
       ],
       "commonAllRooms": true,
       "icon": "FaRegIdBadge"
     },
     {
-      "startTime": "09:30",
-      "endTime": "10:00",
-      "sessions": [
+      "startTime": "09:00",
+      "endTime": "09:30",
+      "tracks": [
         {
-          "roomUUID": "cba79f3f-3e12-4f15-bb42-e17652efae58",
-          "sessionUUID": "4d0cb762-4de4-43cf-b4ea-f02bcfa5b559"
+          "roomUUID": "",
+          "sessions": [
+            {
+              "sessionUUID": "4d0cb762-4de4-43cf-b4ea-f02bcfa5b559",
+              "duration": "30"
+            }
+          ]
         }
       ],
       "commonAllRooms": true,
       "icon": "TbNotes"
     },
     {
-      "startTime": "10:00",
-      "endTime": "10:45",
-      "sessions": [
+      "startTime": "09:45",
+      "endTime": "10:30",
+      "tracks": [
         {
           "roomUUID": "f9ed81db-f90a-42d4-b7e4-d554d8f338fd",
-          "sessionUUID": "08c71152-c552-42e7-b094-f510ff44e9d0"
+          "sessions": [
+            {
+              "sessionUUID": "04c00baf-3ecc-4088-9ef6-6d5f2d37721b",
+              "duration": "30",
+              "startTime": "09:45",
+              "endTime": "10:30"
+            }
+          ]
+        }
+      ],
+      "commonAllRooms": true
+    },
+    {
+      "startTime": "10:45",
+      "endTime": "13:00",
+      "tracks": [
+        {
+          "roomUUID": "f9ed81db-f90a-42d4-b7e4-d554d8f338fd",
+          "sessions": [
+            {
+              "sessionUUID": "h8i9j0k1-l2m3-nopq-rstu-vwxyz1234567",
+              "duration": "45",
+              "startTime": "10:45",
+              "endTime": "11:30"
+            },
+            {
+              "sessionUUID": "j0k1l2m3-n4o5-pqrs-tuvw-xyz123456789a",
+              "duration": "45",
+              "startTime": "11:30",
+              "endTime": "12:15"
+            },
+            {
+              "sessionUUID": "27ff7729-5792-4efd-a813-321fd6523e63",
+              "duration": "45"
+            }
+          ]
         },
         {
           "roomUUID": "03daa4f4-7d63-42dd-b133-9194f298e194",
-          "sessionUUID": "5108babc-bf35-44d5-a9ba-de08badfa80a"
+          "sessions": [
+            {
+              "sessionUUID": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
+              "duration": "15"
+            },
+            {
+              "sessionUUID": "b2c3d4e5-f6g7-8901-2bcd-3efg4hij5klm",
+              "duration": "45",
+              "startTime": "11:00",
+              "endTime": "11:45"
+            },
+            {
+              "sessionUUID": "c3d4e5f6-g7h8-9012-3cde-4fgh5ijk6lmn",
+              "duration": "45",
+              "startTime": "11:45",
+              "endTime": "12:30"
+            },
+            {
+              "sessionUUID": "27ff7729-5792-4efd-a813-321fd6523e63",
+              "duration": "30"
+            }
+          ]
         },
         {
           "roomUUID": "1b974777-55d4-4741-8fff-920d5a292385",
-          "sessionUUID": "08c71152-c552-42e7-b094-f510ff44e9cb"
+          "sessions": [
+            {
+              "sessionUUID": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
+              "duration": "15"
+            },
+            {
+              "sessionUUID": "51816b76-526d-4482-9779-552c5d5bb0db",
+              "duration": "120",
+              "startTime": "11:00",
+              "endTime": "13:00"
+            }
+          ]
+        },
+        {
+          "roomUUID": "cba79f3f-3e12-4f15-bb42-e17652efae58",
+          "sessions": [
+            {
+              "sessionUUID": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
+              "duration": "15"
+            },
+            {
+              "sessionUUID": "4b587937-e8e4-48a7-8894-0e3b75887152",
+              "duration": "120",
+              "startTime": "11:00",
+              "endTime": "13:00"
+            }
+          ]
         }
       ]
     },
     {
-      "startTime": "10:45",
-      "endTime": "11:00",
-      "sessions": [
+      "startTime": "13:00",
+      "endTime": "14:15",
+      "tracks": [
         {
-          "roomUUID": "cba79f3f-3e12-4f15-bb42-e17652efae58",
-          "sessionUUID": "27ff7729-5792-4efd-a813-321fd6523e63"
+          "roomUUID": "1e7e9782-03e7-41c8-8e39-7171b4ce87d5",
+          "sessions": [
+            {
+              "sessionUUID": "27ff7729-5792-4efd-a813-321fd6523e63",
+              "duration": "75"
+            }
+          ]
         }
       ],
       "commonAllRooms": true,
       "icon": "MdOutlineFastfood"
+    },
+    {
+      "startTime": "14:15",
+      "endTime": "15:00",
+      "tracks": [
+        {
+          "roomUUID": "f9ed81db-f90a-42d4-b7e4-d554d8f338fd",
+          "sessions": [
+            {
+              "sessionUUID": "66704b84-8be8-434e-be68-ec0f809bd633",
+              "duration": "45",
+              "startTime": "14:15",
+              "endTime": "15:00"
+            }
+          ]
+        }
+      ],
+      "commonAllRooms": true
+    },
+    {
+      "startTime": "15:00",
+      "endTime": "17:30",
+      "tracks": [
+        {
+          "roomUUID": "f9ed81db-f90a-42d4-b7e4-d554d8f338fd",
+          "sessions": [
+            {
+              "sessionUUID": "g7h8i9j0-k1l2-mnop-qrst-uvw123xyz456",
+              "duration": "45",
+              "startTime": "15:00",
+              "endTime": "15:45"
+            },
+            {
+              "sessionUUID": "f6g7h8i9-j0k1-lmno-pqrs-tuvw1234xyz5",
+              "duration": "45",
+              "startTime": "15:45",
+              "endTime": "16:30"
+            },
+            {
+              "sessionUUID": "i9j0k1l2-m3n4-opqr-stuv-wxyz12345678",
+              "duration": "60",
+              "startTime": "16:30",
+              "endTime": "17:30"
+            }
+          ]
+        },
+        {
+          "roomUUID": "03daa4f4-7d63-42dd-b133-9194f298e194",
+          "sessions": [
+            {
+              "sessionUUID": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
+              "duration": "15"
+            },
+            {
+              "sessionUUID": "a1b2c3d4-e5f6-7890-1abc-2def3ghi4jkl",
+              "duration": "45",
+              "startTime": "15:15",
+              "endTime": "16:00"
+            },
+            {
+              "sessionUUID": "d4e5f6g7-h8i9-0jkl-mnop-qrstu1234567",
+              "duration": "45",
+              "startTime": "16:00",
+              "endTime": "16:45"
+            },
+            {
+              "sessionUUID": "e5f6g7h8-i9j0-klmn-opqr-stuv1234wxyz",
+              "duration": "45",
+              "startTime": "16:45",
+              "endTime": "17:30"
+            }
+          ]
+        },
+        {
+          "roomUUID": "1b974777-55d4-4741-8fff-920d5a292385",
+          "sessions": [
+            {
+              "sessionUUID": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
+              "duration": "15"
+            },
+            {
+              "sessionUUID": "9aef74ad-140d-46d7-afe8-0081c521b778",
+              "duration": "120",
+              "startTime": "15:15",
+              "endTime": "17:15"
+            },
+            {
+              "sessionUUID": "3c50c7e7-56af-4ab6-956d-9e506975ac36",
+              "duration": "15"
+            }
+          ]
+        },
+        {
+          "roomUUID": "cba79f3f-3e12-4f15-bb42-e17652efae58",
+          "sessions": [
+            {
+              "sessionUUID": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
+              "duration": "15"
+            },
+            {
+              "sessionUUID": "3bbe77cc-c1db-4827-9391-ffddf8e61c56",
+              "duration": "120",
+              "startTime": "15:15",
+              "endTime": "17:15"
+            },
+            {
+              "sessionUUID": "3c50c7e7-56af-4ab6-956d-9e506975ac36",
+              "duration": "15"
+            }
+          ]
+        }
+      ],
+      "commonAllRooms": false
+    },
+    {
+      "startTime": "17:30",
+      "endTime": "17:45",
+      "tracks": [
+        {
+          "roomUUID": "f9ed81db-f90a-42d4-b7e4-d554d8f338fd",
+          "sessions": [
+            {
+              "sessionUUID": "949819b7-15db-40ce-9cb8-abbcf5d44d90",
+              "duration": "15"
+            }
+          ]
+        }
+      ],
+      "commonAllRooms": true
+    },
+    {
+      "startTime": "17:45",
+      "endTime": "19:00",
+      "tracks": [
+        {
+          "roomUUID": "1e7e9782-03e7-41c8-8e39-7171b4ce87d5",
+          "sessions": [
+            {
+              "sessionUUID": "9e045c45-2933-48cb-8e04-9032221c7723",
+              "duration": "75",
+              "startTime": "17:45",
+              "endTime": "19:00"
+            }
+          ]
+        }
+      ],
+      "commonAllRooms": true
     }
   ]
 }
