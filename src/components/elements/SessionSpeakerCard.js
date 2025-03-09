@@ -6,7 +6,7 @@ export default function SessionSpeakerCard({ speaker }) {
   return (
     <div className="flex items-center">
       {/* Speaker Avatar */}
-      <div className="w-10 h-10 rounded-full overflow-hidden mr-3">
+      <div className="w-10 h-10 rounded overflow-hidden mr-3">
         {speaker.image ? (
           <Image
             src={speaker.image}

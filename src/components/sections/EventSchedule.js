@@ -24,7 +24,7 @@ export default function EventSchedule({ type, eventTypesData }) {
         {/* Grid for rooms side by side */}
         <div className="grid grid-cols-1 lg:grid-cols-2 md:gap-16 xl:gap-32">
           {filteredType.rooms.map((room) => (
-            <div key={room.uuid} className="p-3">
+            <div key={room.uuid} className="p-6 ">
               <h2 className="text-4xl font-bold mb-14">{room.name}</h2>
               {room.sessions.map((session) => (
                 <div key={session.sessionUUID} className="flex gap-5">
