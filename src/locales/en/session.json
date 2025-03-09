@@ -59,6 +59,7 @@
         "f47ac10b-58cc-4372-a567-0e02b2c3d479"
       ],
       "tags": [
+        "Conference in English",
         "UX",
         "Design",
         "Software",
@@ -74,6 +75,7 @@
         "1a2b3c4d-5e6f-7890-abcd-ef1234567890"
       ],
       "tags": [
+        "Conference in English",
         "AI",
         "Web Development",
         "Coding",
@@ -89,6 +91,7 @@
         "2e3f4g5h-6i7j-8k9l-mnop-qrstuvwxyz123"
       ],
       "tags": [
+        "Conference in English",
         "AI",
         "UX",
         "Design",
@@ -104,6 +107,7 @@
         "3h4i5j6k-7l8m-9n0o-pqrs-tuvwxyz123abc"
       ],
       "tags": [
+        "Conference in English",
         "AI",
         "Machine Learning",
         "Framework",
@@ -119,6 +123,7 @@
         "4k5l6m7n-8o9p-0qrs-tuvw-xyz123abc456"
       ],
       "tags": [
+        "Conference in English",
         "AI",
         "UX",
         "Design",
@@ -134,6 +139,7 @@
         "5m6n7o8p-9q0r-stuv-wxyz-123abc456def"
       ],
       "tags": [
+        "Conference in English",
         "Web3",
         "AI",
         "Cinema",
@@ -151,6 +157,7 @@
         "7b669b1f-5498-46ed-9e9f-ab4c71223227"
       ],
       "tags": [
+        "Conference in English",
         "Women",
         "Leadership",
         "Balance",
@@ -166,6 +173,7 @@
         "7o8p9q0r-stuv-wxyz-1234-5abc6def7890"
       ],
       "tags": [
+        "Conference in English",
         "Digital Nomad",
         "Tech",
         "Lifestyle",
@@ -181,6 +189,7 @@
         "8p9q0rst-uvwx-yz12-3456-7abc8def9012"
       ],
       "tags": [
+        "Conference in French",
         "Learning",
         "Experience",
         "Entrepreneurship",
@@ -196,6 +205,7 @@
         "9q0rstuv-wxyz-1234-5678-9abc0def1234"
       ],
       "tags": [
+        "Conference in English",
         "Women in Tech",
         "Inclusivity",
         "Community",
@@ -211,6 +221,7 @@
         "9b8f90fb-eeba-44a6-bceb-158cb03db360"
       ],
       "tags": [
+        "Conference in English",
         "Flutter",
         "No Coding"
       ]
@@ -224,6 +235,7 @@
         "9b8f90fb-eeba-44a6-bceb-158cb03db360"
       ],
       "tags": [
+        "Conference in English",
         "Looker"
       ]
     },
@@ -237,6 +249,7 @@
         "1ac67011-3367-40de-81bc-941f5d977a31"
       ],
       "tags": [
+        "Conference in English",
         "Technovation",
         "Redefining what is possible"
       ]
@@ -254,6 +267,7 @@
         "8859f090-b7ea-442c-980d-e9873b27cad7"
       ],
       "tags": [
+        "Conference in English",
         "Women in Tech"
       ]
     },
@@ -267,6 +281,7 @@
         "efb2a752-3172-4f30-a050-6cbe246ac8f8"
       ],
       "tags": [
+        "Conference in English",
         "IA",
         "Biais"
       ]
@@ -286,6 +301,10 @@
       "speakerUUID": [
         "1e0f4d60-7214-4a1a-bd75-ed5c7abda233",
         "f95f0ba1-12aa-4e58-a8c8-0a8d56951054"
+      ],
+      "tags" : [
+        "Conference in English",
+        "Cybersecurity"
       ]
     }
   ]

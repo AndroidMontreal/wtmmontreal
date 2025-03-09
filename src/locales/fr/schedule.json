@@ -5,19 +5,19 @@
   "rooms": [
     {
       "uuid": "f9ed81db-f90a-42d4-b7e4-d554d8f338fd",
-      "name": "Soft skill (Main Stage)"
+      "name": "Compétences non techniques (Salle principale)"
     },
     {
       "uuid": "03daa4f4-7d63-42dd-b133-9194f298e194",
-      "name": "Technical skills"
+      "name": "Compétences technique"
     },
     {
       "uuid": "1b974777-55d4-4741-8fff-920d5a292385",
-      "name": "Workshop A"
+      "name": "Atelier A"
     },
     {
       "uuid": "cba79f3f-3e12-4f15-bb42-e17652efae58",
-      "name": "Workshop B"
+      "name": "Atelier B"
     },
     {
       "uuid": "1e7e9782-03e7-41c8-8e39-7171b4ce87d5",
