@@ -238,6 +238,26 @@
       "image": "/images/speakers/hana_schonegger.jpg",
       "social": {
       }
+    },
+    {
+       "name": "Victoria G. Torp",
+       "uuid": "1e0f4d60-7214-4a1a-bd75-ed5c7abda233",
+       "slug": "victoria-g-torp",
+       "title": "WITT Hub",
+       "shortBio": "Victoria G. Torp is the founder of WITT Hub Inc., a social enterprise dedicated to increasing women’s participation in the tech industry. With a background in Cognitive Science (B.A.) and Security and Intelligence Studies (M.A.), and as a cybersecurity professional, she applies her expertise to develop innovative, community-serving applications with security in mind. As an immigrant woman, Victoria faced challenges entering Canada’s tech workforce. With the support of key individuals, she secured a cybersecurity role in a consulting firm, where she saw firsthand the underrepresentation of women in the Canadian tech sector—especially immigrant women. Determined to create change, she became a driving force in initiatives that foster social and professional networks to help newcomer women thrive. From leading a long-running volunteer program since 2021 to launching WITT Hub in 2024, she has built a space where immigrant women can connect, support one another, and break down barriers in the industry. \n At WITT Hub, her team—composed entirely of immigrant women—specializes in developing custom web applications and innovative tech solutions, empowering women to establish careers in technolog",
+       "image": "/images/speakers/victoria_torp.jpg",
+       "social": {
+       }
+    },
+    {
+      "name": "Iuliia Poliavkoa",
+      "uuid": "f95f0ba1-12aa-4e58-a8c8-0a8d56951054",
+      "slug": "iuliia-poliavkoa",
+      "title": "WITT Hub",
+      "shortBio": "Iuliia Poliakova is a Software Quality Assurance (QA) Engineer with extensive experience in testing web-based applications. Originally a language teacher, Iuliia transitioned into tech in 2019, bringing structured thinking, strong communication, attention to detail, and adaptability into quality assurance. After immigrating to Canada in 2021, she returned from maternity leave and joined WITT Hub in 2024, starting as a volunteer on a co-parenting app. Working with a diverse team, she focused on enhancing software quality, reliability, and user experience. Her contributions led to involvement in client-facing projects at WITT Hub, where she has a blended role as a Security QA Engineer. In this position, she ensures products meet stakeholder needs while proactively addressing cybersecurity threats they might not have considered. She is deeply involved in all aspects of app development—from defining business and acceptance requirements to developing secure flows, testing applications, and beyond—delivering trustworthy, cybersecure, and high-quality products.",
+      "image": "/images/speakers/iuliia_poliavkoa.jpg",
+      "social": {
+      }
     }
   ]
 }

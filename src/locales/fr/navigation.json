@@ -8,12 +8,16 @@
         "label": "Accueil"
       },
       {
-        "href": "/team",
-        "label": "Équipe"
+        "href": "/schedule",
+        "label": "Horaire"
       },
       {
         "href": "/speakers",
         "label": "Conférencières"
+      },
+      {
+        "href": "/team",
+        "label": "Équipe"
       }
     ]
   },

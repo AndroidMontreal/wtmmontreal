@@ -238,6 +238,26 @@
       "image": "/images/speakers/hana_schonegger.jpg",
       "social": {
       }
-    }
+    },
+    {
+      "name": "Victoria G. Torp",
+      "uuid": "1e0f4d60-7214-4a1a-bd75-ed5c7abda233",
+      "slug": "victoria-g-torp",
+      "title": "WITT Hub",
+      "shortBio": "Victoria G. Torp est la fondatrice de WITT Hub Inc., une entreprise sociale dédiée à accroître la participation des femmes dans l'industrie technologique. Avec une formation en sciences cognitives (BA) et en études de sécurité et de renseignement (MA) et en tant que professionnelle de la cybersécurité, elle applique son expertise pour développer des applications innovantes au service de la communauté dans un souci de sécurité. En tant que femme immigrante, Victoria a dû faire face à des difficultés pour intégrer la main-d’œuvre technologique du Canada. Avec le soutien de personnes clés, elle a obtenu un poste en cybersécurité dans une société de conseil, où elle a pu constater par elle-même la sous-représentation des femmes dans le secteur technologique canadien, en particulier des femmes immigrantes. Déterminée à créer du changement, elle est devenue une force motrice dans les initiatives favorisant les réseaux sociaux et professionnels pour aider les nouvelles arrivantes à s’épanouir. De la direction d'un programme de bénévolat de longue date depuis 2021 au lancement du WITT Hub en 2024, elle a construit un espace où les femmes immigrantes peuvent se connecter, se soutenir mutuellement et éliminer les barrières dans l'industrie. \n Chez WITT Hub, son équipe, entièrement composée de femmes immigrantes, se spécialise dans le développement d'applications Web personnalisées et de solutions technologiques innovantes, permettant aux femmes de faire carrière dans la technologie.",
+      "image": "/images/speakers/victoria_torp.jpg",
+      "social": {
+      }
+   },
+   {
+     "name": "Iuliia Poliavkoa",
+     "uuid": "f95f0ba1-12aa-4e58-a8c8-0a8d56951054",
+     "slug": "iuliia-poliavkoa",
+     "title": "WITT Hub",
+     "shortBio": "Iuliia Poliakova est une ingénieure en assurance qualité logicielle (AQ) possédant une vaste expérience dans le test d'applications Web. Initialement professeur de langues, Iuliia a fait la transition vers la technologie en 2019, apportant une pensée structurée, une communication solide, une attention aux détails et une adaptabilité à l'assurance qualité. Après avoir immigré au Canada en 2021, elle est revenue d'un congé de maternité et a rejoint WITT Hub en 2024, commençant comme bénévole sur une application de coparentalité. Travaillant avec une équipe diversifiée, elle s'est concentrée sur l'amélioration de la qualité, de la fiabilité et de l'expérience utilisateur des logiciels. Ses contributions l'ont amenée à s'impliquer dans des projets orientés client au WITT Hub, où elle occupe un rôle mixte d'ingénieur QA en sécurité. À ce poste, elle veille à ce que les produits répondent aux besoins des parties prenantes tout en s'attaquant de manière proactive aux menaces de cybersécurité qu'elles n'auraient peut-être pas prises en compte. Elle est profondément impliquée dans tous les aspects du développement d'applications, de la définition des exigences commerciales et d'acceptation au développement de flux sécurisés, en passant par les tests d'applications et au-delà, en fournissant des produits fiables, cybersécurisés et de haute qualité.",
+     "image": "/images/speakers/iuliia_poliavkoa.jpg",
+     "social": {
+     }
+   }
   ]
 }

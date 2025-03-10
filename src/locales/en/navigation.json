@@ -8,12 +8,16 @@
         "label": "Home"
       },
       {
-        "href": "/team",
-        "label": "Team"
+        "href": "/schedule",
+        "label": "Schedule"
       },
       {
         "href": "/speakers",
         "label": "Speakers"
+      },
+      {
+        "href": "/team",
+        "label": "Team"
       }
     ]
   },
