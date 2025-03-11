@@ -3,7 +3,7 @@
   "description": "Sessions of WTM Montreal 2025",
   "sessions": [
     {
-      "title": "Registration",
+      "title": "Doors open (please bring your ID) and Breakfast",
       "uuid": "246a17da-adf9-4d8e-9c50-ef84bdf68c55",
       "description": "Enjoy the breakfast and network with other attendees",
       "speakerUUID": []
@@ -48,6 +48,12 @@
       "title": "Networking",
       "uuid": "9e045c45-2933-48cb-8e04-9032221c7723",
       "description": "Connect, collaborate, and expand your network at our upcoming event! Meet speakers, exchange ideas, and explore new opportunities in a relaxed setting.",
+      "speakerUUID": []
+    },
+    {
+      "title": "Break",
+      "uuid": "99d7a8a1-f36e-491e-a9dc-08f7331c0f7d",
+      "description": "",
       "speakerUUID": []
     },
     {

@@ -26,7 +26,7 @@ function calculateSessionWeights(timeSlot, session) {
 
   const totalTimeSlotDuration = timeSlotEndTime - timeSlotStartTime; // Track duration in minutes
   // Calculate the weight for the session
-  return Math.round(session.duration / totalTimeSlotDuration);
+  return session.duration / totalTimeSlotDuration * 100;
 }
 
 export const ScheduleSessionCard = ({

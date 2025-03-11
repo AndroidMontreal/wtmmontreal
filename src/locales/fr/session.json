@@ -3,15 +3,15 @@
   "description": "Séances | WTM Montreal 2025",
   "sessions": [
     {
-        "title": "Inscription",
+        "title": "Ouverture des portes (veuillez apporter votre pièce d'identité) et déjeuner.",
         "uuid": "246a17da-adf9-4d8e-9c50-ef84bdf68c55",
-        "description": "Profitez du petit-déjeuner et réseautez avec les autres participants",
+        "description": "Profitez du petit-déjeuner et réseautez avec les autres participant·e·s",
         "speakerUUID": []
     },
     {
-        "title": "Mot d'ouverture",
+        "title": "10 ans de Women Techmakers Montréal - Quelles sont les prochaines étapes ?",
         "uuid": "4d0cb762-4de4-43cf-b4ea-f02bcfa5b559",
-        "description": "Message de bienvenue et introduction à l'événement",
+        "description": "",
         "speakerUUID": []
     },
     {
@@ -23,7 +23,7 @@
     {
         "title": "Dîner",
         "uuid": "27ff7729-5792-4efd-a813-321fd6523e63",
-        "description": "Dégustez un délicieux repas et réseautez avec les autres participants",
+        "description": "Dégustez un délicieux repas et réseautez avec les autres participant·e·s",
         "speakerUUID": []
     },
     {
@@ -49,6 +49,12 @@
         "uuid": "9e045c45-2933-48cb-8e04-9032221c7723",
         "description": "Collaborez et élargissez votre réseau! Rencontrez les conférencières, échangez des idées et explorez de nouvelles opportunités dans une ambiance détendue.",
         "speakerUUID": []
+    },
+    {
+      "title": "Pause",
+      "uuid": "99d7a8a1-f36e-491e-a9dc-08f7331c0f7d",
+      "description": "",
+      "speakerUUID": []
     },
     {
       "title": "Concevoir pour les créateur·trice·s : Stratégies UX pour les logiciels complexes",
@@ -283,13 +289,6 @@
         "IA",
         "Biais"
       ]
-    },
-    {
-      "title": "Break",
-      "uuid": "27ff7729-5792-4efd-a813-321fd6523e63",
-      "description": "Enjoy a break and network with other attendees",
-      "shortDescription": "Enjoy a break and network with other attendees",
-      "speakerUUID": []
     },
     {
       "title": "\"Comment puis-je le casser ?\" – Un atelier sur la défense en cybersécurité",

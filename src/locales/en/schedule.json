@@ -27,14 +27,14 @@
   "timeSlots": [
     {
       "startTime": "08:00",
-      "endTime": "08:45",
+      "endTime": "09:00",
       "tracks": [
         {
           "roomUUID": "",
           "sessions": [
             {
               "sessionUUID": "246a17da-adf9-4d8e-9c50-ef84bdf68c55",
-              "duration": "45"
+              "duration": "60"
             }
           ]
         }
@@ -60,17 +60,17 @@
       "icon": "TbNotes"
     },
     {
-      "startTime": "09:45",
-      "endTime": "10:30",
+      "startTime": "09:30",
+      "endTime": "10:15",
       "tracks": [
         {
           "roomUUID": "f9ed81db-f90a-42d4-b7e4-d554d8f338fd",
           "sessions": [
             {
               "sessionUUID": "04c00baf-3ecc-4088-9ef6-6d5f2d37721b",
-              "duration": "30",
-              "startTime": "09:45",
-              "endTime": "10:30"
+              "duration": "45",
+              "startTime": "09:30",
+              "endTime": "10:15"
             }
           ]
         }
@@ -78,7 +78,7 @@
       "commonAllRooms": true
     },
     {
-      "startTime": "10:45",
+      "startTime": "10:30",
       "endTime": "13:00",
       "tracks": [
         {
@@ -87,18 +87,14 @@
             {
               "sessionUUID": "h8i9j0k1-l2m3-nopq-rstu-vwxyz1234567",
               "duration": "45",
-              "startTime": "10:45",
-              "endTime": "11:30"
+              "startTime": "10:30",
+              "endTime": "11:00"
             },
             {
               "sessionUUID": "j0k1l2m3-n4o5-pqrs-tuvw-xyz123456789a",
               "duration": "45",
-              "startTime": "11:30",
-              "endTime": "12:15"
-            },
-            {
-              "sessionUUID": "27ff7729-5792-4efd-a813-321fd6523e63",
-              "duration": "45"
+              "startTime": "11:15",
+              "endTime": "11:45"
             }
           ]
         },
@@ -106,68 +102,53 @@
           "roomUUID": "03daa4f4-7d63-42dd-b133-9194f298e194",
           "sessions": [
             {
-              "sessionUUID": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
-              "duration": "15"
-            },
-            {
               "sessionUUID": "b2c3d4e5-f6g7-8901-2bcd-3efg4hij5klm",
               "duration": "45",
-              "startTime": "11:00",
-              "endTime": "11:45"
+              "startTime": "10:30",
+              "endTime": "11:00"
             },
             {
               "sessionUUID": "c3d4e5f6-g7h8-9012-3cde-4fgh5ijk6lmn",
               "duration": "45",
-              "startTime": "11:45",
-              "endTime": "12:30"
-            },
-            {
-              "sessionUUID": "27ff7729-5792-4efd-a813-321fd6523e63",
-              "duration": "30"
+              "startTime": "11:15",
+              "endTime": "11:45"
             }
           ]
         },
         {
           "roomUUID": "1b974777-55d4-4741-8fff-920d5a292385",
           "sessions": [
-             {
-               "sessionUUID": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
-               "duration": "15"
-             },
-             {
-               "sessionUUID": "51816b76-526d-4482-9779-552c5d5bb0db",
-               "duration":"120",
-               "startTime": "11:00",
-               "endTime": "13:00"
-             }
+            {
+              "sessionUUID": "51816b76-526d-4482-9779-552c5d5bb0db",
+              "duration": "90",
+              "startTime": "10:30",
+              "endTime": "12:00"
+            }
           ]
         },
         {
           "roomUUID": "cba79f3f-3e12-4f15-bb42-e17652efae58",
           "sessions": [
             {
-              "sessionUUID": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
-              "duration": "15"
-            }, {
               "sessionUUID": "4b587937-e8e4-48a7-8894-0e3b75887152",
-              "duration":"120",
-              "startTime": "11:00",
-              "endTime": "13:00"
+              "duration": "90",
+              "startTime": "10:30",
+              "endTime": "12:00"
             }
           ]
         }
       ]
     },
     {
-      "startTime": "13:00",
-      "endTime": "14:15",
+      "startTime": "12:00",
+      "endTime": "14:00",
       "tracks": [
         {
           "roomUUID": "1e7e9782-03e7-41c8-8e39-7171b4ce87d5",
           "sessions": [
             {
               "sessionUUID": "27ff7729-5792-4efd-a813-321fd6523e63",
-              "duration": "75"
+              "duration": "120"
             }
           ]
         }
@@ -176,7 +157,7 @@
       "icon": "MdOutlineFastfood"
     },
     {
-      "startTime": "14:15",
+      "startTime": "14:00",
       "endTime": "15:00",
       "tracks": [
         {
@@ -184,8 +165,8 @@
           "sessions": [
             {
               "sessionUUID": "66704b84-8be8-434e-be68-ec0f809bd633",
-              "duration": "45",
-              "startTime": "14:15",
+              "duration": "60",
+              "startTime": "14:00",
               "endTime": "15:00"
             }
           ]
@@ -194,8 +175,8 @@
       "commonAllRooms": true
     },
     {
-      "startTime": "15:00",
-      "endTime": "17:30",
+      "startTime": "15:15",
+      "endTime": "17:15",
       "tracks": [
         {
           "roomUUID": "f9ed81db-f90a-42d4-b7e4-d554d8f338fd",
@@ -203,20 +184,20 @@
             {
               "sessionUUID": "g7h8i9j0-k1l2-mnop-qrst-uvw123xyz456",
               "duration": "45",
-              "startTime": "15:00",
+              "startTime": "15:15",
               "endTime": "15:45"
             },
             {
               "sessionUUID": "f6g7h8i9-j0k1-lmno-pqrs-tuvw1234xyz5",
               "duration": "45",
-              "startTime": "15:45",
+              "startTime": "16:00",
               "endTime": "16:30"
             },
             {
               "sessionUUID": "i9j0k1l2-m3n4-opqr-stuv-wxyz12345678",
-              "duration": "60",
-              "startTime": "16:30",
-              "endTime": "17:30"
+              "duration": "30",
+              "startTime": "16:45",
+              "endTime": "17:15"
             }
           ]
         },
@@ -224,26 +205,22 @@
           "roomUUID": "03daa4f4-7d63-42dd-b133-9194f298e194",
           "sessions": [
             {
-              "sessionUUID": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
-              "duration": "15"
-            },
-            {
               "sessionUUID": "a1b2c3d4-e5f6-7890-1abc-2def3ghi4jkl",
               "duration": "45",
               "startTime": "15:15",
-              "endTime": "16:00"
+              "endTime": "15:45"
             },
             {
               "sessionUUID": "d4e5f6g7-h8i9-0jkl-mnop-qrstu1234567",
               "duration": "45",
               "startTime": "16:00",
-              "endTime": "16:45"
+              "endTime": "16:30"
             },
             {
               "sessionUUID": "e5f6g7h8-i9j0-klmn-opqr-stuv1234wxyz",
-              "duration": "45",
+              "duration": "30",
               "startTime": "16:45",
-              "endTime": "17:30"
+              "endTime": "17:15"
             }
           ]
         },
@@ -251,18 +228,14 @@
           "roomUUID": "1b974777-55d4-4741-8fff-920d5a292385",
           "sessions": [
             {
-              "sessionUUID": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
-              "duration": "15"
-            },
-            {
               "sessionUUID": "9aef74ad-140d-46d7-afe8-0081c521b778",
-              "duration": "120",
+              "duration": "90",
               "startTime": "15:15",
-              "endTime": "17:15"
+              "endTime": "16:45"
             },
             {
-              "sessionUUID": "3c50c7e7-56af-4ab6-956d-9e506975ac36",
-              "duration": "15"
+              "sessionUUID": "99d7a8a1-f36e-491e-a9dc-08f7331c0f7d",
+              "duration": "30"
             }
           ]
         },
@@ -270,18 +243,14 @@
           "roomUUID": "cba79f3f-3e12-4f15-bb42-e17652efae58",
           "sessions": [
             {
-              "sessionUUID": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
-              "duration": "15"
-            },
-            {
               "sessionUUID": "3bbe77cc-c1db-4827-9391-ffddf8e61c56",
-              "duration": "120",
+              "duration": "90",
               "startTime": "15:15",
-              "endTime": "17:15"
+              "endTime": "16:45"
             },
             {
-              "sessionUUID": "3c50c7e7-56af-4ab6-956d-9e506975ac36",
-              "duration": "15"
+              "sessionUUID": "99d7a8a1-f36e-491e-a9dc-08f7331c0f7d",
+              "duration": "30"
             }
           ]
         }
@@ -289,8 +258,8 @@
       "commonAllRooms": false
     },
     {
-      "startTime": "17:30",
-      "endTime": "17:45",
+      "startTime": "17:15",
+      "endTime": "17:30",
       "tracks": [
         {
           "roomUUID": "f9ed81db-f90a-42d4-b7e4-d554d8f338fd",
@@ -305,7 +274,7 @@
       "commonAllRooms": true
     },
     {
-      "startTime": "17:45",
+      "startTime": "17:30",
       "endTime": "19:00",
       "tracks": [
         {
@@ -313,8 +282,8 @@
           "sessions": [
             {
               "sessionUUID": "9e045c45-2933-48cb-8e04-9032221c7723",
-              "duration": "75",
-              "startTime": "17:45",
+              "duration": "90",
+              "startTime": "17:30",
               "endTime": "19:00"
             }
           ]
