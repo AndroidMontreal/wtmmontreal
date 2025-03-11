@@ -8,35 +8,39 @@ export const SessionInfo = ({ session, index }) => {
   const rooms = Array.isArray(s.raw('rooms')) ? s.raw('rooms') : [];
 
   const timeSlot = timeSlots.find((ts) =>
-    ts.sessions.some((s) => s.sessionUUID === session.uuid)
-  );
+    ts.tracks.find((tracks) => (
+      tracks.sessions.some((s) => s.sessionUUID === session.uuid)
+    )));
 
   const room = rooms.find(
-    (r) =>
+    (r) => (
       r.uuid ===
-      timeSlot?.sessions.find((s) => s.sessionUUID === session.uuid).roomUUID
+      timeSlot?.tracks.find((track) => (
+        track.sessions.some((s) => s.sessionUUID === session.uuid)
+      )).roomUUID
+    )
   );
   /*Temporary comment*/
   // If no timeSlot is found, return null or an error message
-  // if (!timeSlot) {
-  //   return null;
-  // }
-  //
-  // const formattedStartTime = new Date(
-  //   `2025-04-05 ${timeSlot.startTime}`
-  // ).toLocaleTimeString([], {
-  //   hour: '2-digit',
-  //   minute: '2-digit',
-  //   hour12: false,
-  // });
-  //
-  // const formattedEndTime = new Date(
-  //   `2025-04-05 ${timeSlot.endTime}`
-  // ).toLocaleTimeString([], {
-  //   hour: '2-digit',
-  //   minute: '2-digit',
-  //   hour12: false,
-  // });
+  if (!timeSlot) {
+    return null;
+  }
+
+  const formattedStartTime = new Date(
+    `2025-04-05 ${timeSlot.startTime}`
+  ).toLocaleTimeString([], {
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false,
+  });
+
+  const formattedEndTime = new Date(
+    `2025-04-05 ${timeSlot.endTime}`
+  ).toLocaleTimeString([], {
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false,
+  });
 
   return (
     <div key={session.uuid} id="sessionDetails" className="prose">

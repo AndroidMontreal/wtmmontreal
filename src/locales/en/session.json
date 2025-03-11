@@ -3,15 +3,57 @@
   "description": "Sessions of WTM Montreal 2025",
   "sessions": [
     {
-      "title": "Registration",
+      "title": "Doors open (please bring your ID) and Breakfast",
       "uuid": "246a17da-adf9-4d8e-9c50-ef84bdf68c55",
       "description": "Enjoy the breakfast and network with other attendees",
       "speakerUUID": []
     },
     {
-      "title": "Opening Note",
+      "title": "10 years of Women Techmakers Montréal - what's next?",
       "uuid": "4d0cb762-4de4-43cf-b4ea-f02bcfa5b559",
-      "description": "Welcome message and introduction to the event",
+      "description": "",
+      "speakerUUID": []
+    },
+    {
+      "title": "Everything's Happening Next Door!",
+      "uuid": "d0c327de-afcc-41a4-a161-a82d0387ec86",
+      "description": "Join us in the other room for captivating talks and inspiring discussions!",
+      "speakerUUID": []
+    },
+    {
+      "title": "Lunch",
+      "uuid": "27ff7729-5792-4efd-a813-321fd6523e63",
+      "description": "Enjoy a delicious lunch and network with other attendees",
+      "speakerUUID": []
+    },
+    {
+      "title": "Closing Note",
+      "uuid": "949819b7-15db-40ce-9cb8-abbcf5d44d90",
+      "description": "Raffle prizes and closing remarks",
+      "speakerUUID": []
+    },
+    {
+      "title": "Go to Your Session",
+      "uuid": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
+      "description": "",
+      "speakerUUID": []
+    },
+    {
+      "title": "Move to the main",
+      "uuid": "3c50c7e7-56af-4ab6-956d-9e506975ac36",
+      "description": "",
+      "speakerUUID": []
+    },
+    {
+      "title": "Networking",
+      "uuid": "9e045c45-2933-48cb-8e04-9032221c7723",
+      "description": "Connect, collaborate, and expand your network at our upcoming event! Meet speakers, exchange ideas, and explore new opportunities in a relaxed setting.",
+      "speakerUUID": []
+    },
+    {
+      "title": "Break",
+      "uuid": "99d7a8a1-f36e-491e-a9dc-08f7331c0f7d",
+      "description": "",
       "speakerUUID": []
     },
     {
@@ -23,6 +65,7 @@
         "f47ac10b-58cc-4372-a567-0e02b2c3d479"
       ],
       "tags": [
+        "Conference in English",
         "UX",
         "Design",
         "Software",
@@ -38,6 +81,7 @@
         "1a2b3c4d-5e6f-7890-abcd-ef1234567890"
       ],
       "tags": [
+        "Conference in English",
         "AI",
         "Web Development",
         "Coding",
@@ -53,6 +97,7 @@
         "2e3f4g5h-6i7j-8k9l-mnop-qrstuvwxyz123"
       ],
       "tags": [
+        "Conference in English",
         "AI",
         "UX",
         "Design",
@@ -68,6 +113,7 @@
         "3h4i5j6k-7l8m-9n0o-pqrs-tuvwxyz123abc"
       ],
       "tags": [
+        "Conference in English",
         "AI",
         "Machine Learning",
         "Framework",
@@ -83,6 +129,7 @@
         "4k5l6m7n-8o9p-0qrs-tuvw-xyz123abc456"
       ],
       "tags": [
+        "Conference in English",
         "AI",
         "UX",
         "Design",
@@ -98,6 +145,7 @@
         "5m6n7o8p-9q0r-stuv-wxyz-123abc456def"
       ],
       "tags": [
+        "Conference in English",
         "Web3",
         "AI",
         "Cinema",
@@ -115,6 +163,7 @@
         "7b669b1f-5498-46ed-9e9f-ab4c71223227"
       ],
       "tags": [
+        "Conference in English",
         "Women",
         "Leadership",
         "Balance",
@@ -130,6 +179,7 @@
         "7o8p9q0r-stuv-wxyz-1234-5abc6def7890"
       ],
       "tags": [
+        "Conference in English",
         "Digital Nomad",
         "Tech",
         "Lifestyle",
@@ -145,6 +195,7 @@
         "8p9q0rst-uvwx-yz12-3456-7abc8def9012"
       ],
       "tags": [
+        "Conference in French",
         "Learning",
         "Experience",
         "Entrepreneurship",
@@ -160,6 +211,7 @@
         "9q0rstuv-wxyz-1234-5678-9abc0def1234"
       ],
       "tags": [
+        "Conference in English",
         "Women in Tech",
         "Inclusivity",
         "Community",
@@ -175,6 +227,7 @@
         "9b8f90fb-eeba-44a6-bceb-158cb03db360"
       ],
       "tags": [
+        "Conference in English",
         "Flutter",
         "No Coding"
       ]
@@ -188,6 +241,7 @@
         "9b8f90fb-eeba-44a6-bceb-158cb03db360"
       ],
       "tags": [
+        "Conference in English",
         "Looker"
       ]
     },
@@ -201,6 +255,7 @@
         "1ac67011-3367-40de-81bc-941f5d977a31"
       ],
       "tags": [
+        "Conference in English",
         "Technovation",
         "Redefining what is possible"
       ]
@@ -218,6 +273,7 @@
         "8859f090-b7ea-442c-980d-e9873b27cad7"
       ],
       "tags": [
+        "Conference in English",
         "Women in Tech"
       ]
     },
@@ -231,6 +287,7 @@
         "efb2a752-3172-4f30-a050-6cbe246ac8f8"
       ],
       "tags": [
+        "Conference in English",
         "IA",
         "Biais"
       ]
@@ -241,6 +298,20 @@
       "description": "Enjoy a break and network with other attendees",
       "shortDescription": "Enjoy a break and network with other attendees",
       "speakerUUID": []
+    },
+    {
+      "title": "\"How Can I Break It?\" – A Workshop on Cybersecurity Defense",
+      "uuid": "51816b76-526d-4482-9779-552c5d5bb0db",
+      "description": "Sophisticated hackers are overrated—even you could break a web application. In this interactive workshop, we'll play devil's advocate and explore real-world cybersecurity scenarios where the attacker could be anyone: a criminal, an insider, or even an unintentional participant. Discover how proactivity plays a crucial role in maintaining strong cybersecurity defenses. Perfect for anyone wanting to understand the fundamentals of online security.",
+      "shortDescription": "Sophisticated hackers are overrated—even you could break a web application. In this interactive workshop, we'll play devil's advocate and explore real-world cybersecurity scenarios where the attacker could be anyone: a criminal, an insider, or even an unintentional participant.",
+      "speakerUUID": [
+        "1e0f4d60-7214-4a1a-bd75-ed5c7abda233",
+        "f95f0ba1-12aa-4e58-a8c8-0a8d56951054"
+      ],
+      "tags" : [
+        "Conference in English",
+        "Cybersecurity"
+      ]
     }
   ]
 }
