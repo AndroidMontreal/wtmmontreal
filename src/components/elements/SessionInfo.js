@@ -8,17 +8,17 @@ export const SessionInfo = ({ session, index }) => {
   const rooms = Array.isArray(s.raw('rooms')) ? s.raw('rooms') : [];
 
   const timeSlot = timeSlots.find((ts) =>
-    ts.tracks.find((tracks) => (
+    ts.tracks.find((tracks) =>
       tracks.sessions.some((s) => s.sessionUUID === session.uuid)
-    )));
+    )
+  );
 
   const room = rooms.find(
-    (r) => (
+    (r) =>
       r.uuid ===
-      timeSlot?.tracks.find((track) => (
+      timeSlot?.tracks.find((track) =>
         track.sessions.some((s) => s.sessionUUID === session.uuid)
-      )).roomUUID
-    )
+      ).roomUUID
   );
   /*Temporary comment*/
   // If no timeSlot is found, return null or an error message
@@ -49,9 +49,9 @@ export const SessionInfo = ({ session, index }) => {
       </h3>
       <div className="flex mb-6">
         {/*Temporary comment*/}
-        {/*<p className="text-gray-600 m-0">*/}
-        {/*  {room?.name} ({formattedStartTime} ~ {formattedEndTime})*/}
-        {/*</p>*/}
+        <p className="text-gray-600 mt-2 text-sm font-semibold ">
+          {room?.name} ({formattedStartTime} ~ {formattedEndTime})
+        </p>
       </div>
       <div className="prose lg:prose-base">
         {session.description.split('\n').map((paragraph, index) => (

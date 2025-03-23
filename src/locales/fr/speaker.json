@@ -248,16 +248,36 @@
       "image": "/images/speakers/victoria_torp.jpg",
       "social": {
       }
-   },
-   {
-     "name": "Iuliia Poliavkoa",
-     "uuid": "f95f0ba1-12aa-4e58-a8c8-0a8d56951054",
-     "slug": "iuliia-poliavkoa",
-     "title": "WITT Hub",
-     "shortBio": "Iuliia Poliakova est une ingénieure en assurance qualité logicielle (AQ) possédant une vaste expérience dans le test d'applications Web. Initialement professeur de langues, Iuliia a fait la transition vers la technologie en 2019, apportant une pensée structurée, une communication solide, une attention aux détails et une adaptabilité à l'assurance qualité. Après avoir immigré au Canada en 2021, elle est revenue d'un congé de maternité et a rejoint WITT Hub en 2024, commençant comme bénévole sur une application de coparentalité. Travaillant avec une équipe diversifiée, elle s'est concentrée sur l'amélioration de la qualité, de la fiabilité et de l'expérience utilisateur des logiciels. Ses contributions l'ont amenée à s'impliquer dans des projets orientés client au WITT Hub, où elle occupe un rôle mixte d'ingénieur QA en sécurité. À ce poste, elle veille à ce que les produits répondent aux besoins des parties prenantes tout en s'attaquant de manière proactive aux menaces de cybersécurité qu'elles n'auraient peut-être pas prises en compte. Elle est profondément impliquée dans tous les aspects du développement d'applications, de la définition des exigences commerciales et d'acceptation au développement de flux sécurisés, en passant par les tests d'applications et au-delà, en fournissant des produits fiables, cybersécurisés et de haute qualité.",
-     "image": "/images/speakers/iuliia_poliavkoa.jpg",
-     "social": {
-     }
-   }
+    },
+    {
+      "name": "Iuliia Poliavkoa",
+      "uuid": "f95f0ba1-12aa-4e58-a8c8-0a8d56951054",
+      "slug": "iuliia-poliavkoa",
+      "title": "WITT Hub",
+      "shortBio": "Iuliia Poliakova est une ingénieure en assurance qualité logicielle (AQ) possédant une vaste expérience dans le test d'applications Web. Initialement professeur de langues, Iuliia a fait la transition vers la technologie en 2019, apportant une pensée structurée, une communication solide, une attention aux détails et une adaptabilité à l'assurance qualité. Après avoir immigré au Canada en 2021, elle est revenue d'un congé de maternité et a rejoint WITT Hub en 2024, commençant comme bénévole sur une application de coparentalité. Travaillant avec une équipe diversifiée, elle s'est concentrée sur l'amélioration de la qualité, de la fiabilité et de l'expérience utilisateur des logiciels. Ses contributions l'ont amenée à s'impliquer dans des projets orientés client au WITT Hub, où elle occupe un rôle mixte d'ingénieur QA en sécurité. À ce poste, elle veille à ce que les produits répondent aux besoins des parties prenantes tout en s'attaquant de manière proactive aux menaces de cybersécurité qu'elles n'auraient peut-être pas prises en compte. Elle est profondément impliquée dans tous les aspects du développement d'applications, de la définition des exigences commerciales et d'acceptation au développement de flux sécurisés, en passant par les tests d'applications et au-delà, en fournissant des produits fiables, cybersécurisés et de haute qualité.",
+      "image": "/images/speakers/iuliia_poliavkoa.jpg",
+      "social": {
+      }
+    },
+    {
+      "name": "Julie Watson",
+      "uuid": "9b3c02ca-6dfb-4a5f-92e1-26de7e865f79",
+      "slug": "julie-watson",
+      "title": "Women in Tech",
+      "shortBio": "Julie Watson est PDG et directrice de deuxième génération d'Ultimate TechnoGraphics. Julie est titulaire d'un baccalauréat en gestion des affaires de HEC Montréal et possède 22 ans d'expérience dans les industries de l'impression et des technologies. Julie fait partie du conseil consultatif du CIP4 et a été sélectionnée comme Women of Distinction – Global 100 par OutputLinks Communication Group.",
+      "image": "/images/speakers/julie_watson.jpg",
+      "social": {
+      }
+    },
+    {
+      "name": "Marie Eve Bourassa",
+      "uuid": "39ff19cf-09b8-40a3-888c-6db039b0ac29",
+      "slug": "marie-eve-bourassa",
+      "title": "Femmes en Tech",
+      "shortBio": "Marie-Eve est développeuse senior, Ingénierie de la fiabilité des sites et Gestion des versions à CBC/Radio-Canada. Après une transition de l'enseignement à la technologie en 2018, Marie-Eve a obtenu une AEC en développement Web, ce qui a ouvert la voie à sa carrière réussie dans la technologie. Depuis qu'elle a rejoint CBC/Radio-Canada en avril 2020 en tant que développeuse full-stack, elle a contribué au développement et à la maintenance de plusieurs produits de médias numériques différents et travaille actuellement pour l'équipe du système de gestion de contenu (CMS) en tant que responsable des versions, avec pour mission de construire et de gérer des processus pour maximiser la disponibilité et la sécurité du code.\nEn plus de son rôle à CBC/Radio-Canada, Marie-Eve dirige une petite entreprise d'impression 3D, spécialisée dans les commandes et les conceptions personnalisées.\nEn dehors du travail, Marie-Eve est une mère dévouée d'un enfant de deux ans qui adore les voitures, les autobus et les dinosaures.",
+      "image": "/images/speakers/marie_eve_bourassa.jpg",
+      "social": {
+      }
+    }
   ]
 }

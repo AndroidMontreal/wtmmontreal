@@ -26,7 +26,7 @@ function calculateSessionWeights(timeSlot, session) {
 
   const totalTimeSlotDuration = timeSlotEndTime - timeSlotStartTime; // Track duration in minutes
   // Calculate the weight for the session
-  return session.duration / totalTimeSlotDuration * 100;
+  return (session.duration / totalTimeSlotDuration) * 100;
 }
 
 export const ScheduleSessionCard = ({
@@ -51,11 +51,13 @@ export const ScheduleSessionCard = ({
     : 'basis-0';
 
   const speakersClass = timeSlot.commonAllRooms
-    ? 'flex gap-x-4'
-    : 'flex flex-col gap-y-4 mt-8';
+    ? 'grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4'
+    : 'grid grid-cols-1 gap-4 mt-4';
+
   const speakerClass = timeSlot.commonAllRooms
-    ? 'flex items-center gap-4 p-2 '
+    ? 'flex items-center gap-4 '
     : 'flex flex-col';
+
   const sessionHeightClassName = calculateSessionWeights(timeSlot, session);
 
   return (
@@ -137,17 +139,17 @@ export const ScheduleSessionCard = ({
       {speakers?.length > 0 && (
         <div className={`group ${speakersClass} mt-8`}>
           {speakers?.map((speaker, speakerIndex) => (
-            <div className={`single ${speakerClass}`} key={speakerIndex}>
+            <div className={`${speakerClass}`} key={speakerIndex}>
               <Link href={`../speakers/${speaker.slug}`}>
                 <div className="flex items-center">
                   <Image
                     src={speaker?.image || '/default-speaker-image.jpg'}
                     alt={speaker?.name || 'Speaker Name'}
-                    className="w-14 h-14 rounded-md mr-2 shadow aspect-square object-cover"
+                    className="single w-14 h-14 rounded-md mr-2 shadow aspect-square object-cover"
                     width={52}
                     height={52}
                   />
-                  <div className="w-2/3">
+                  <div className="flex-1">
                     <p className="text-md opacity-70">
                       {speaker?.name || 'Speaker Name'}
                     </p>

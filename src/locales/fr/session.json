@@ -3,52 +3,52 @@
   "description": "Séances | WTM Montreal 2025",
   "sessions": [
     {
-        "title": "Ouverture des portes (veuillez apporter votre pièce d'identité) et déjeuner.",
-        "uuid": "246a17da-adf9-4d8e-9c50-ef84bdf68c55",
-        "description": "Profitez du petit-déjeuner et réseautez avec les autres participant·e·s",
-        "speakerUUID": []
+      "title": "Ouverture des portes (veuillez apporter votre pièce d'identité) et déjeuner.",
+      "uuid": "246a17da-adf9-4d8e-9c50-ef84bdf68c55",
+      "description": "Profitez du petit-déjeuner et réseautez avec les autres participant·e·s",
+      "speakerUUID": []
     },
     {
-        "title": "10 ans de Women Techmakers Montréal - Quelles sont les prochaines étapes ?",
-        "uuid": "4d0cb762-4de4-43cf-b4ea-f02bcfa5b559",
-        "description": "",
-        "speakerUUID": []
+      "title": "10 ans de Women Techmakers Montréal - Quelles sont les prochaines étapes ?",
+      "uuid": "4d0cb762-4de4-43cf-b4ea-f02bcfa5b559",
+      "description": "",
+      "speakerUUID": []
     },
     {
-        "title": "Tout se passe juste à côté !",
-        "uuid": "d0c327de-afcc-41a4-a161-a82d0387ec86",
-        "description": "Rejoignez-nous dans l'autre salle pour des conférences captivantes et des discussions inspirantes !",
-        "speakerUUID": []
+      "title": "Tout se passe juste à côté !",
+      "uuid": "d0c327de-afcc-41a4-a161-a82d0387ec86",
+      "description": "Rejoignez-nous dans l'autre salle pour des conférences captivantes et des discussions inspirantes !",
+      "speakerUUID": []
     },
     {
-        "title": "Dîner",
-        "uuid": "27ff7729-5792-4efd-a813-321fd6523e63",
-        "description": "Dégustez un délicieux repas et réseautez avec les autres participant·e·s",
-        "speakerUUID": []
+      "title": "Dîner",
+      "uuid": "27ff7729-5792-4efd-a813-321fd6523e63",
+      "description": "Dégustez un délicieux repas et réseautez avec les autres participant·e·s",
+      "speakerUUID": []
     },
     {
-        "title": "Mot de clôture",
-        "uuid": "949819b7-15db-40ce-9cb8-abbcf5d44d90",
-        "description": "Prix de présence et remarques de clôture",
-        "speakerUUID": []
+      "title": "Mot de clôture",
+      "uuid": "949819b7-15db-40ce-9cb8-abbcf5d44d90",
+      "description": "Prix de présence et remarques de clôture",
+      "speakerUUID": []
     },
     {
-        "title": "Allez à votre session",
-        "uuid": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
-        "description": "",
-        "speakerUUID": []
+      "title": "Allez à votre session",
+      "uuid": "6d6b3082-95a7-4c60-adf7-bb1939ca2acc",
+      "description": "",
+      "speakerUUID": []
     },
     {
-        "title": "Déplacez-vous vers la salle principale",
-        "uuid": "3c50c7e7-56af-4ab6-956d-9e506975ac36",
-        "description": "",
-        "speakerUUID": []
+      "title": "Déplacez-vous vers la salle principale",
+      "uuid": "3c50c7e7-56af-4ab6-956d-9e506975ac36",
+      "description": "",
+      "speakerUUID": []
     },
     {
-        "title": "Réseautage",
-        "uuid": "9e045c45-2933-48cb-8e04-9032221c7723",
-        "description": "Collaborez et élargissez votre réseau! Rencontrez les conférencières, échangez des idées et explorez de nouvelles opportunités dans une ambiance détendue.",
-        "speakerUUID": []
+      "title": "Réseautage",
+      "uuid": "9e045c45-2933-48cb-8e04-9032221c7723",
+      "description": "Collaborez et élargissez votre réseau! Rencontrez les conférencières, échangez des idées et explorez de nouvelles opportunités dans une ambiance détendue.",
+      "speakerUUID": []
     },
     {
       "title": "Pause",
@@ -268,7 +268,9 @@
         "afd2bfd5-b7bf-45b4-bf1d-6dc647c3950c",
         "0679723c-eda7-41b1-b858-638285c6bf52",
         "3f2218bf-e2d9-4058-a8f5-9dedb5ed7a40",
-        "8859f090-b7ea-442c-980d-e9873b27cad7"
+        "8859f090-b7ea-442c-980d-e9873b27cad7",
+        "39ff19cf-09b8-40a3-888c-6db039b0ac29",
+        "9b3c02ca-6dfb-4a5f-92e1-26de7e865f79"
       ],
       "tags": [
         "Conférence en anglais",

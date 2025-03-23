@@ -8,7 +8,11 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/app/[lang]/schedule/page.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/[lang]/schedule/page.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/elements/ScheduleSessionCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/ScheduleSessionCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/locales/fr/partner.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/partner.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/elements/SessionInfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/elements/SessionInfo.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/session.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/session.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/en/speaker.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/en/speaker.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/fr/session.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/session.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/locales/fr/speaker.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/locales/fr/speaker.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +60,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "fixes__devfest__style__schedule",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/solan/Desktop/WTM 2025/wtm-2025/src/locales/fr",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.standard": "true",
