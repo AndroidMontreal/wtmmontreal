@@ -16,6 +16,7 @@ const TeamMemberCard = ({ member }) => {
             src={member.image}
             alt={`${member.name}'s avatar`}
             height={500}
+            loading="lazy"
             width={500}
             className="rounded-2xl aspect-square object-cover shadow-lg group-hover:shadow-xl group-hover:scale-105 transition-transform duration-300"
           />
