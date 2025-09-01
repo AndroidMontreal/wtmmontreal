@@ -28,5 +28,10 @@
     "title": "WTM Montreal - Code of Conduct",
     "description": "Our commitment to a safe and inclusive environment. Read the WTM Montreal Code of Conduct.",
     "og_image": "/images/logo/eventHeader.gif"
+  },
+  "media": {
+    "title": "WTM Montreal Media - Podcast & Videos",
+    "description": "Explore our podcast and videos featuring inspiring stories and insights from women in technology.",
+    "og_image": "/images/logo/eventHeader.gif"
   }
 }

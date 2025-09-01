@@ -28,5 +28,10 @@
     "title": "WTM Montréal - Code de conduite",
     "description": "Notre engagement envers un environnement sûr et inclusif. Lisez le code de conduite de WTM Montréal.",
     "og_image": "/images/logo/eventHeader.gif"
+  },
+  "media": {
+    "title": "Médias WTM Montréal - Podcast et Vidéos",
+    "description": "Découvrez notre podcast et nos vidéos présentant des histoires inspirantes de femmes en technologie.",
+    "og_image": "/images/logo/eventHeader.gif"
   }
 }

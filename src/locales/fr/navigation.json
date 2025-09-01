@@ -18,6 +18,10 @@
       {
         "href": "/team",
         "label": "Équipe"
+      },
+      {
+        "href": "/media",
+        "label": "Médias"
       }
     ]
   },
