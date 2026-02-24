@@ -1,6 +1,6 @@
 // app/sitemap.js
 export default async function sitemap() {
-  const baseUrl = 'https://wtmmontreal.com'; // Use your actual domain
+  const baseUrl = 'https://androidmontreal.github.io/wtmmontreal/'; // Use your actual domain
 
   // Import speaker data from JSON files
   const enSpeakersData = require('@/locales/en/speaker.json'); // Adjust the path as needed

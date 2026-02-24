@@ -6,6 +6,6 @@ export default function robots() {
         allow: '/',
       },
     ],
-    sitemap: 'https://wtmmontreal.com/sitemap.xml', // Add your sitemap URL here
+    sitemap: 'https://androidmontreal.github.io/wtmmontreal/sitemap.xml', // Add your sitemap URL here
   };
 }

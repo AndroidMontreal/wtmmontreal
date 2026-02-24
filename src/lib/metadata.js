@@ -8,7 +8,7 @@ export async function getPageMetadata(lang, pageKey, slug = null) {
   const pageMetadata = metadata[pageKey] || {};
 
   // Base URL
-  const baseUrl = 'https://wtmmontreal.com';
+  const baseUrl = 'https://androidmontreal.github.io/wtmmontreal/';
 
   // Construct the page path
   let pagePath = pageKey === 'home' ? '' : `/${pageKey}`;
